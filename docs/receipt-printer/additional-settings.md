@@ -14,4 +14,6 @@ permalink: /receipt-printer/additional-settings
 
 Description.
 
-![](/orderlord-help-kds/assets/images/kds/section_kitchen_history_1.png)
+{% include img.html name="receipt_printer_additional_settings_1.png" %}
+
+{% include img.html name="receipt_printer_additional_settings_2.png" %}

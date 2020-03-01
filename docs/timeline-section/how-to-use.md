@@ -14,10 +14,10 @@ permalink: /timeline-section/how-to-use
 
 Description.
 
-![](/orderlord-help-kds/assets/images/kds/section_timeline_1.png)
+{% include img.html name="section_timeline_1.png" %}
 
-![](/orderlord-help-kds/assets/images/kds/section_timeline_2.png)
+{% include img.html name="section_timeline_2.png" %}
 
-![](/orderlord-help-kds/assets/images/kds/section_timeline_3.png)
+{% include img.html name="section_timeline_3.png" %}
 
-![](/orderlord-help-kds/assets/images/kds/section_timeline_4.png)
+{% include img.html name="section_timeline_4.png" %}

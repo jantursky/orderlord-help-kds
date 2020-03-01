@@ -15,6 +15,6 @@ permalink: /getting-started/how-to-login
 
 Description.
 
-![](/orderlord-help-kds/assets/images/kds/login_1.png)
+{% include img.html name="login_1.png" %}
 
-![](/orderlord-help-kds/assets/images/kds/login_2.png)
+{% include img.html name="login_2.png" %}

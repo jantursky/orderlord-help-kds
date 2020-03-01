@@ -14,10 +14,10 @@ permalink: /timeline-section/filtering-the-data
 
 Description.
 
-![](/orderlord-help-kds/assets/images/kds/section_timeline_5.png)
+{% include img.html name="section_timeline_9.png" %}
 
-![](/orderlord-help-kds/assets/images/kds/section_timeline_6.png)
+{% include img.html name="section_timeline_10.png" %}
 
-![](/orderlord-help-kds/assets/images/kds/section_timeline_7.png)
+{% include img.html name="section_timeline_11.png" %}
 
-![](/orderlord-help-kds/assets/images/kds/section_timeline_8.png)
+{% include img.html name="section_timeline_12.png" %}

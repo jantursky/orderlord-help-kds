@@ -14,10 +14,10 @@ permalink: /stock-management-section/filtering-the-data
 
 Description.
 
-![](/orderlord-help-kds/assets/images/kds/section_timeline_10.png)
+{% include img.html name="section_stock_management_3.png" %}
 
-![](/orderlord-help-kds/assets/images/kds/section_timeline_11.png)
+{% include img.html name="section_stock_management_4.png" %}
 
-![](/orderlord-help-kds/assets/images/kds/section_timeline_12.png)
+{% include img.html name="section_stock_management_5.png" %}
 
-![](/orderlord-help-kds/assets/images/kds/section_timeline_9.png)
+{% include img.html name="section_stock_management_6.png" %}

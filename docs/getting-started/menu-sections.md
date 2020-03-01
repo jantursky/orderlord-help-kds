@@ -15,4 +15,14 @@ permalink: /getting-started/menu-sections
 
 Description.
 
-![](/orderlord-help-kds/assets/images/kds/menu_1.png)
+1. Kitchen
+1. Kitchen history
+1. Timeline
+1. Orders history
+1. Stock management
+1. Settings
+1. Report problem
+1. Logout
+
+
+{% include img.html name="menu_1.png" %}

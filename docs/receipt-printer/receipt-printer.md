@@ -13,4 +13,8 @@ permalink: /receipt-printer
 
 Description.
 
-![](/orderlord-help-kds/assets/images/kds/section_kitchen_history_1.png)
+{% include img.html name="receipt_printer_1.png" %}
+
+{% include img.html name="receipt_printer_2.png" %}
+
+{% include img.html name="receipt_printer_3.png" %}

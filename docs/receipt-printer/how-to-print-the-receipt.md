@@ -14,4 +14,10 @@ permalink: /receipt-printer/how-to-print-the-receipt
 
 Description.
 
-![](/orderlord-help-kds/assets/images/kds/section_kitchen_history_1.png)
+{% include img.html name="receipt_printer_how_to_print_1.png" %}
+
+{% include img.html name="receipt_printer_how_to_print_2.png" %}
+
+{% include img.html name="receipt_printer_how_to_print_3.png" %}
+
+{% include img.html name="receipt_printer_how_to_print_4.png" %}

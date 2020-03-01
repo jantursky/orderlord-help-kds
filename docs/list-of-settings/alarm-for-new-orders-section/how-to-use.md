@@ -15,4 +15,4 @@ permalink: /list-of-settings/alarm-for-new-orders-section/how-to-use
 
 Description.
 
-![](/orderlord-help-kds/assets/images/kds/section_kitchen_history_1.png)
+{% include img.html name="section_kitchen_history_1.png" %}

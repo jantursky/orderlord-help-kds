@@ -15,4 +15,4 @@ permalink: /list-of-settings/orders-history-section/use-the-last-filter
 
 Description.
 
-![](/orderlord-help-kds/assets/images/kds/section_kitchen_history_1.png)
+{% include img.html name="section_kitchen_history_1.png" %}

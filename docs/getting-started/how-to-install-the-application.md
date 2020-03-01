@@ -15,14 +15,14 @@ permalink: /getting-started/how-to-install-the-application
 
 Description.
 
-![](/orderlord-help-kds/assets/images/kds/installation_1.png)
+{% include img.html name="installation_1.png" %}
 
-![](/orderlord-help-kds/assets/images/kds/installation_2.png)
+{% include img.html name="installation_2.png" %}
 
-![](/orderlord-help-kds/assets/images/kds/installation_3.png)
+{% include img.html name="installation_3.png" %}
 
-![](/orderlord-help-kds/assets/images/kds/installation_4.png)
+{% include img.html name="installation_4.png" %}
 
-![](/orderlord-help-kds/assets/images/kds/installation_5.png)
+{% include img.html name="installation_5.png" %}
 
-![](/orderlord-help-kds/assets/images/kds/installation_6.png)
+{% include img.html name="installation_6.png" %}

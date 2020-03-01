@@ -14,4 +14,16 @@ permalink: /receipt-printer/customize-the-receipt
 
 Description.
 
-![](/orderlord-help-kds/assets/images/kds/section_kitchen_history_1.png)
+{% include img.html name="receipt_printer_customize_receipt_1.png" %}
+
+{% include img.html name="receipt_printer_customize_receipt_2.png" %}
+
+{% include img.html name="receipt_printer_customize_receipt_3.png" %}
+
+{% include img.html name="receipt_printer_customize_receipt_4.png" %}
+
+{% include img.html name="receipt_printer_customize_receipt_5.png" %}
+
+{% include img.html name="receipt_printer_customize_receipt_6.png" %}
+
+{% include img.html name="receipt_printer_customize_receipt_7.png" %}

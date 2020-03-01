@@ -15,6 +15,6 @@ permalink: /getting-started/filtering-the-orders-by-type
 
 Description.
 
-![](/orderlord-help-kds/assets/images/kds/view_list_6.png)
+{% include img.html name="view_list_6.png" %}
 
-![](/orderlord-help-kds/assets/images/kds/view_list_8.png)
+{% include img.html name="view_list_8.png" %}

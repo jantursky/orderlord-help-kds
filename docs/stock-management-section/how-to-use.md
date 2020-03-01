@@ -14,18 +14,12 @@ permalink: /stock-management-section/how-to-use
 
 Description.
 
-![](/orderlord-help-kds/assets/images/kds/section_timeline_1.png)
+{% include img.html name="section_stock_management_2.png" %}
 
-![](/orderlord-help-kds/assets/images/kds/section_timeline_2.png)
+{% include img.html name="section_stock_management_3.png" %}
 
-![](/orderlord-help-kds/assets/images/kds/section_timeline_3.png)
+{% include img.html name="section_stock_management_4.png" %}
 
-![](/orderlord-help-kds/assets/images/kds/section_timeline_4.png)
+{% include img.html name="section_stock_management_5.png" %}
 
-![](/orderlord-help-kds/assets/images/kds/section_timeline_5.png)
-
-![](/orderlord-help-kds/assets/images/kds/section_timeline_6.png)
-
-![](/orderlord-help-kds/assets/images/kds/section_timeline_7.png)
-
-![](/orderlord-help-kds/assets/images/kds/section_timeline_8.png)
+{% include img.html name="section_stock_management_6.png" %}

@@ -14,4 +14,8 @@ permalink: /label-printer/customize-the-label
 
 Description.
 
-![](/orderlord-help-kds/assets/images/kds/section_kitchen_history_1.png)
+{% include img.html name="label_printer_customize_label_1.png" %}
+
+{% include img.html name="label_printer_customize_label_2.png" %}
+
+{% include img.html name="label_printer_customize_label_3.png" %}

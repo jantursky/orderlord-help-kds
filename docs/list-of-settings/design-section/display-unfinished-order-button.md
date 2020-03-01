@@ -15,4 +15,4 @@ permalink: /list-of-settings/design-section/display-unfinished-order-button
 
 Description.
 
-![](/orderlord-help-kds/assets/images/kds/section_kitchen_history_1.png)
+{% include img.html name="section_kitchen_history_1.png" %}

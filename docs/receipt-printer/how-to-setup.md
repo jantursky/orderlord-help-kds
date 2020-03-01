@@ -14,4 +14,18 @@ permalink: /receipt-printer/how-to-setup
 
 Description.
 
-![](/orderlord-help-kds/assets/images/kds/section_kitchen_history_1.png)
+{% include img.html name="receipt_printer_setup_1.png" %}
+
+{% include img.html name="receipt_printer_setup_2.png" %}
+
+{% include img.html name="receipt_printer_setup_3.png" %}
+
+{% include img.html name="receipt_printer_setup_4.png" %}
+
+{% include img.html name="receipt_printer_setup_5.png" %}
+
+{% include img.html name="receipt_printer_setup_6.png" %}
+
+{% include img.html name="receipt_printer_setup_7.png" %}
+
+{% include img.html name="receipt_printer_setup_8.png" %}

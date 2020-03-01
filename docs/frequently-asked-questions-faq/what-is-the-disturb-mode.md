@@ -14,4 +14,4 @@ permalink: /frequently-asked-questions-faq/what-is-the-disturb-mode
 
 Description.
 
-![](/orderlord-help-kds/assets/images/kds/section_kitchen_history_1.png)
+{% include img.html name="section_kitchen_history_1.png" %}

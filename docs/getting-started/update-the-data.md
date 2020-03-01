@@ -15,6 +15,20 @@ permalink: /getting-started/update-the-data
 
 Description.
 
-![](/orderlord-help-kds/assets/images/kds/update_data_1.png)
+{% include img.html name="update_data_1.png" %}
 
-![](/orderlord-help-kds/assets/images/kds/update_data_2.png)
+{% include img.html name="update_data_2.png" %}
+
+
+1. Update account settings
+1. Update menu
+1. Update orders
+1. Update restaurants
+1. Update users
+1. Update payment type
+1. Update user settings
+1. Update tags
+
+{% include img.html name="settings_update_1.png" %}
+
+{% include img.html name="settings_update_2.png" %}

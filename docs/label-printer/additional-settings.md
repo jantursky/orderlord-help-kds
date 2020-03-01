@@ -14,4 +14,12 @@ permalink: /label-printer/additional-settings
 
 Description.
 
-![](/orderlord-help-kds/assets/images/kds/section_kitchen_history_1.png)
+{% include img.html name="label_printer_additional_settings_1.png" %}
+
+{% include img.html name="label_printer_additional_settings_2.png" %}
+
+{% include img.html name="label_printer_additional_settings_3.png" %}
+
+{% include img.html name="label_printer_additional_settings_4.png" %}
+
+{% include img.html name="label_printer_additional_settings_5.png" %}
