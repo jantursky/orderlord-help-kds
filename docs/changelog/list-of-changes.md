@@ -3,6 +3,7 @@ layout: default
 title: List of changes
 nav_order: 2
 has_children: true
+has_toc: false
 parent: Changelog
 permalink: /changelog/list-of-changes
 ---

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Update the data
-nav_order: 6
+nav_order: 8
 has_children: true
 has_toc: false
 parent: Getting Started
@@ -19,6 +19,7 @@ Description.
 
 {% include img.html name="update_data_2.png" %}
 
+### Manually updating specific type of data
 
 1. Update account settings
 1. Update menu

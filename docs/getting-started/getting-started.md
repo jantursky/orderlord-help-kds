@@ -2,6 +2,7 @@
 layout: default
 title: Getting Started
 nav_order: 2
+has_toc: false
 has_children: true
 permalink: /getting-started
 ---
@@ -11,26 +12,12 @@ permalink: /getting-started
 
 ---
 
-Description.
-
-{% include img.html name="view_list_10.png" %}
-
-{% include img.html name="view_list_11.png" %}
-
-{% include img.html name="view_list_12.png" %}
-
-{% include img.html name="view_list_13.png" %}
-
-{% include img.html name="view_list_3.png" %}
-
-{% include img.html name="view_list_4.png" %}
-
-{% include img.html name="view_list_5.png" %}
-
-{% include img.html name="view_list_6.png" %}
-
-{% include img.html name="view_list_7.png" %}
-
-{% include img.html name="view_list_8.png" %}
-
-{% include img.html name="view_list_9.png" %}
+TABLE OF CONTENTS:
+- [How to install the application]({{site.baseurl}}{% link docs/getting-started/how-to-install-the-application.md %})
+- [How to login]({{site.baseurl}}{% link docs/getting-started/how-to-login.md %})
+- [How to use the kitchen screen]({{site.baseurl}}{% link docs/getting-started/how-to-use-the-kitchen-screen.md %})
+- [Filtering the orders by type]({{site.baseurl}}{% link docs/getting-started/filtering-the-orders-by-type.md %})
+- [Filtering the orders by tags]({{site.baseurl}}{% link docs/getting-started/filtering-the-orders-by-tags.md %})
+- [Filtering the orders by brands]({{site.baseurl}}{% link docs/getting-started/filtering-the-orders-by-brands.md %})
+- [Menu sections]({{site.baseurl}}{% link docs/getting-started/menu-sections.md %})
+- [Update the data]({{site.baseurl}}{% link docs/getting-started/update-the-data.md %})

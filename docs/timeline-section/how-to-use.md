@@ -3,6 +3,7 @@ layout: default
 title: How to use
 nav_order: 1
 has_children: true
+has_toc: false
 parent: Timeline section
 permalink: /timeline-section/how-to-use
 ---

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Menu sections
-nav_order: 5
+nav_order: 7
 has_children: true
 has_toc: false
 parent: Getting Started
@@ -26,3 +26,7 @@ Description.
 
 
 {% include img.html name="menu_1.png" %}
+
+{% include img.html name="menu_2.png" %}
+
+{% include img.html name="menu_3.png" %}

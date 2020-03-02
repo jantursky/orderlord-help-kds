@@ -3,6 +3,7 @@ layout: default
 title: Filtering the data
 nav_order: 2
 has_children: true
+has_toc: false
 parent: Timeline section
 permalink: /timeline-section/filtering-the-data
 ---

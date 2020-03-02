@@ -11,8 +11,9 @@ permalink: /list-of-settings/receipt-printer-section/how-to-use
 # How to use
 {: .no_toc }
 
----
+LIST OF SETTINGS:
+- [How to use]({{site.baseurl}}{% link docs/list-of-settings/receipt-printer-section/how-to-use.md %})
+- [Additional settings]({{site.baseurl}}{% link docs/list-of-settings/receipt-printer-section/additional-settings.md %})
 
-Description.
 
-{% include img.html name="section_kitchen_history_1.png" %}
+{% include img.html name="settings_section_receipt_printer.png" %}

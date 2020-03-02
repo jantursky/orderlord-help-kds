@@ -3,6 +3,7 @@ layout: default
 title: Filtering the data
 nav_order: 2
 has_children: true
+has_toc: false
 parent: Stock Management section
 permalink: /stock-management-section/filtering-the-data
 ---

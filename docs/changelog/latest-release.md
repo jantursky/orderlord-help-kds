@@ -23,5 +23,6 @@ permalink: /changelog/latest-release
 - added option "Reset order" in the left side of the food (food's options) - it's depending on the account setting
 - added option "Cancel order" in the left side of the food (food's options) - it's depending on the account setting
 - added option "Warning colors" - you could customize threshold for different warning levels and background colors of order headers
+- added opening options for the food by long click on the whole row
 - improved settings - mostly translations of the texts
 ```

@@ -3,6 +3,7 @@ layout: default
 title: Troubleshooting
 nav_order: 10
 has_children: true
+has_toc: false
 permalink: /troubleshooting
 ---
 
@@ -11,6 +12,13 @@ permalink: /troubleshooting
 
 ---
 
-Description.
+TABLE OF CONTENTS:
+- [Login issues]({{site.baseurl}}{% link docs/troubleshooting/login-issues.md %})
+- [Network issues]({{site.baseurl}}{% link docs/troubleshooting/network-issues.md %})
+- [Translation issues]({{site.baseurl}}{% link docs/troubleshooting/translation-issues.md %})
+- [Data issues]({{site.baseurl}}{% link docs/troubleshooting/data-issues.md %})
+- [Sound issues]({{site.baseurl}}{% link docs/troubleshooting/sound-issues.md %})
+- [Printer issues]({{site.baseurl}}{% link docs/troubleshooting/printer-issues.md %})
+- [Report your problem]({{site.baseurl}}{% link docs/troubleshooting/report-your-problem.md %})
 
 {% include img.html name="section_kitchen_history_1.png" %}

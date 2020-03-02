@@ -1,0 +1,26 @@
+---
+layout: default
+title: Receipt printer
+nav_order: 5
+has_children: true
+has_toc: false
+parent: Printers
+permalink: /printers/receipt-printer
+---
+
+# Receipt printer
+{: .no_toc }
+
+---
+
+TABLE OF CONTENTS:
+- [How to setup receipt printer]({{site.baseurl}}{% link docs/printers/receipt-printer/how-to-setup-receipt-printer.md %})
+- [How to print the receipt]({{site.baseurl}}{% link docs/printers/receipt-printer/how-to-print-the-receipt.md %})
+- [Customize the receipt]({{site.baseurl}}{% link docs/printers/receipt-printer/customize-the-receipt.md %})
+- [Additional settings]({{site.baseurl}}{% link docs/printers/receipt-printer/additional-settings.md %})
+
+{% include img.html name="receipt_printer_1.png" %}
+
+{% include img.html name="receipt_printer_2.png" %}
+
+{% include img.html name="receipt_printer_3.png" %}

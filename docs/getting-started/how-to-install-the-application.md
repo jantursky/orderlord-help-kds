@@ -15,6 +15,8 @@ permalink: /getting-started/how-to-install-the-application
 
 Description.
 
+{% include app_links.html %}
+
 {% include img.html name="installation_1.png" %}
 
 {% include img.html name="installation_2.png" %}

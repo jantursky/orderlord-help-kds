@@ -18,7 +18,7 @@
 
   .navigation-list-item {
     position: relative;
-
+	  
     &::before {
       position: absolute;
       margin-top: 0.3em;
@@ -28,6 +28,8 @@
     }
 
     &.active {
+      // text-decoration: underline;
+      
       &::before {
         color: $body-text-color;
       }
