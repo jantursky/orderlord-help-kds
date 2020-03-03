@@ -15,4 +15,6 @@ permalink: /list-of-settings/data-section/maximum-orders-to-display
 
 Description.
 
-{% include img.html name="section_kitchen_history_1.png" %}
+{% include img.html name="settings_maximum_orders_to_display_1.png" %}
+
+{% include img.html name="settings_maximum_orders_to_display_2.png" %}

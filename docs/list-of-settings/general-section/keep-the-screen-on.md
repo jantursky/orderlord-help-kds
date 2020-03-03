@@ -15,4 +15,4 @@ permalink: /list-of-settings/general-section/keep-the-screen-on
 
 Description.
 
-{% include img.html name="section_kitchen_history_1.png" %}
+{% include img.html name="settings_keep_screen_on_1.png" %}

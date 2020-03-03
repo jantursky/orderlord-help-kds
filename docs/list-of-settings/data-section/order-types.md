@@ -15,4 +15,8 @@ permalink: /list-of-settings/data-section/order-types
 
 Description.
 
-{% include img.html name="section_kitchen_history_1.png" %}
+{% include img.html name="settings_order_types_1.png" %}
+
+{% include img.html name="settings_order_types_2.png" %}
+
+{% include img.html name="settings_order_types_3.png" %}

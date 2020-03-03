@@ -15,4 +15,6 @@ permalink: /list-of-settings/design-section/display-statistics-header
 
 Description.
 
-{% include img.html name="section_kitchen_history_1.png" %}
+{% include img.html name="settings_display_statistics_header_1.png" %}
+
+{% include img.html name="settings_display_statistics_header_2.png" %}

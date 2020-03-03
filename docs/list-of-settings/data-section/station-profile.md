@@ -15,4 +15,10 @@ permalink: /list-of-settings/data-section/station-profile
 
 Description.
 
-{% include img.html name="section_kitchen_history_1.png" %}
+{% include img.html name="settings_station_profile_1.png" %}
+
+{% include img.html name="settings_station_profile_2.png" %}
+
+{% include img.html name="settings_station_profile_3.png" %}
+
+{% include img.html name="settings_station_profile_4.png" %}

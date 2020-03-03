@@ -15,4 +15,6 @@ permalink: /list-of-settings/design-section/display-unfinished-order-button
 
 Description.
 
-{% include img.html name="section_kitchen_history_1.png" %}
+{% include img.html name="settings_display_unfinished_order_button_1.png" %}
+
+{% include img.html name="settings_display_unfinished_order_button_2.png" %}

@@ -15,4 +15,8 @@ permalink: /list-of-settings/design-section/warning-colors
 
 Description.
 
-{% include img.html name="section_kitchen_history_1.png" %}
+{% include img.html name="settings_warning_colors_1.png" %}
+
+{% include img.html name="settings_warning_colors_2.png" %}
+
+{% include img.html name="settings_warning_colors_3.png" %}

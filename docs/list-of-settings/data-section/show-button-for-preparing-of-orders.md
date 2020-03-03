@@ -15,4 +15,6 @@ permalink: /list-of-settings/data-section/show-button-for-preparing-of-orders
 
 Description.
 
-{% include img.html name="section_kitchen_history_1.png" %}
+{% include img.html name="settings_show_button_for_preparing_order_1.png" %}
+
+{% include img.html name="settings_show_button_for_preparing_order_2.png" %}

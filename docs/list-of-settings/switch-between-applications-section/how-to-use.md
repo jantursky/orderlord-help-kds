@@ -15,4 +15,8 @@ permalink: /list-of-settings/switch-between-applications-section/how-to-use
 
 Description.
 
-{% include img.html name="section_kitchen_history_1.png" %}
+{% include img.html name="settings_switch_between_applications_1.png" %}
+
+{% include img.html name="settings_switch_between_applications_2.png" %}
+
+{% include img.html name="settings_switch_between_applications_3.png" %}

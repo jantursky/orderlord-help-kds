@@ -15,4 +15,18 @@ permalink: /list-of-settings/design-section/view-type
 
 Description.
 
-{% include img.html name="section_kitchen_history_1.png" %}
+{% include img.html name="settings_view_type_1.png" %}
+
+{% include img.html name="settings_view_type_2.png" %}
+
+{% include img.html name="settings_view_list_6.png" %}
+
+{% include img.html name="view_columns_1.png" %}
+
+{% include img.html name="view_food_summary_1.png" %}
+
+{% include img.html name="view_gridview_1.png" %}
+
+{% include img.html name="view_list_food_summary_1.png" %}
+
+{% include img.html name="view_list_quick_collect_1.png" %}

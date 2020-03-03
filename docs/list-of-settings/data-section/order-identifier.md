@@ -15,4 +15,12 @@ permalink: /list-of-settings/data-section/order-identifier
 
 Description.
 
-{% include img.html name="section_kitchen_history_1.png" %}
+{% include img.html name="settings_order_identifier_1.png" %}
+
+{% include img.html name="settings_order_identifier_2.png" %}
+
+{% include img.html name="settings_order_identifier_3.png" %}
+
+{% include img.html name="settings_order_identifier_4.png" %}
+
+{% include img.html name="settings_order_identifier_5.png" %}

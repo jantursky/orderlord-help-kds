@@ -15,4 +15,12 @@ permalink: /list-of-settings/data-section/deadline-type
 
 Description.
 
-{% include img.html name="section_kitchen_history_1.png" %}
+{% include img.html name="settings_deadline_type_1.png" %}
+
+{% include img.html name="settings_deadline_type_2.png" %}
+
+{% include img.html name="settings_deadline_type_3.png" %}
+
+{% include img.html name="settings_deadline_type_4.png" %}
+
+{% include img.html name="settings_deadline_type_5.png" %}

@@ -15,4 +15,8 @@ permalink: /list-of-settings/general-section/text-size
 
 Description.
 
-{% include img.html name="section_kitchen_history_1.png" %}
+{% include img.html name="settings_text_size_1.png" %}
+
+{% include img.html name="settings_text_size_2.png" %}
+
+{% include img.html name="settings_text_size_3.png" %}

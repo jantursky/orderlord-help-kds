@@ -15,4 +15,6 @@ permalink: /list-of-settings/data-section/brands-filter
 
 Description.
 
-{% include img.html name="section_kitchen_history_1.png" %}
+{% include img.html name="settings_brands_filtering_1.png" %}
+
+{% include img.html name="settings_brands_filtering_2.png" %}

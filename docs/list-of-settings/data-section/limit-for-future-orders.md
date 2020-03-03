@@ -15,4 +15,6 @@ permalink: /list-of-settings/data-section/limit-for-future-orders
 
 Description.
 
-{% include img.html name="section_kitchen_history_1.png" %}
+{% include img.html name="settings_limit_for_future_orders_1.png" %}
+
+{% include img.html name="settings_limit_for_future_orders_2.png" %}

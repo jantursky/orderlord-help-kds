@@ -15,4 +15,6 @@ permalink: /list-of-settings/design-section/fonts
 
 Description.
 
-{% include img.html name="section_kitchen_history_1.png" %}
+{% include img.html name="settings_fonts_1.png" %}
+
+{% include img.html name="settings_fonts_2.png" %}

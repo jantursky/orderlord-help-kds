@@ -15,4 +15,6 @@ permalink: /list-of-settings/data-section/display-delivery-id
 
 Description.
 
-{% include img.html name="section_kitchen_history_1.png" %}
+{% include img.html name="settings_display_delivery_id_1.png" %}
+
+{% include img.html name="settings_display_delivery_id_2.png" %}

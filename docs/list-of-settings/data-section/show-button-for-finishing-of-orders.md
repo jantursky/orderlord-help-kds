@@ -15,4 +15,8 @@ permalink: /list-of-settings/data-section/show-button-for-finishing-of-orders
 
 Description.
 
-{% include img.html name="section_kitchen_history_1.png" %}
+{% include img.html name="settings_show_button_for_finishing_order_1.png" %}
+
+{% include img.html name="settings_show_button_for_finishing_order_2.png" %}
+
+{% include img.html name="settings_show_button_for_finishing_order_3.png" %}

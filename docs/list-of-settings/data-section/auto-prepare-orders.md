@@ -15,4 +15,8 @@ permalink: /list-of-settings/data-section/auto-prepare-orders
 
 Description.
 
-{% include img.html name="section_kitchen_history_1.png" %}
+{% include img.html name="settings_auto_prepare_orders_1.png" %}
+
+{% include img.html name="settings_auto_prepare_orders_2.png" %}
+
+{% include img.html name="settings_auto_prepare_orders_3.png" %}

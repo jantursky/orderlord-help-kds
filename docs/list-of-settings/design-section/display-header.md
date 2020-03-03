@@ -15,4 +15,6 @@ permalink: /list-of-settings/design-section/display-header
 
 Description.
 
-{% include img.html name="section_kitchen_history_1.png" %}
+{% include img.html name="settings_display_header_1.png" %}
+
+{% include img.html name="settings_display_header_2.png" %}

@@ -15,4 +15,8 @@ permalink: /list-of-settings/general-section/soundinfo-notifications
 
 Description.
 
-{% include img.html name="section_kitchen_history_1.png" %}
+{% include img.html name="settings_sound_info_notiifications_1.png" %}
+
+{% include img.html name="settings_sound_info_notiifications_2.png" %}
+
+{% include img.html name="settings_sound_info_notiifications_3.png" %}

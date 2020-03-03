@@ -15,4 +15,6 @@ permalink: /list-of-settings/data-section/pin-functionality
 
 Description.
 
-{% include img.html name="section_kitchen_history_1.png" %}
+{% include img.html name="settings_pin_functionality_1.png" %}
+
+{% include img.html name="settings_pin_functionality_2.png" %}

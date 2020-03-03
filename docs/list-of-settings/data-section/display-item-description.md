@@ -15,4 +15,6 @@ permalink: /list-of-settings/data-section/display-item-description
 
 Description.
 
-{% include img.html name="section_kitchen_history_1.png" %}
+{% include img.html name="settings_display_item_description_1.png" %}
+
+{% include img.html name="settings_display_item_description_2.png" %}

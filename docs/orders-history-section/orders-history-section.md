@@ -6,7 +6,7 @@ has_children: true
 permalink: /orders-history-section
 ---
 
-# Timeline section
+# Orders History section
 {: .no_toc }
 
 ---

@@ -15,10 +15,8 @@ permalink: /timeline-section/how-to-use
 
 Description.
 
-{% include img.html name="section_timeline_1.png" %}
+{% include img.html name="section_timeline_6.png" %}
 
-{% include img.html name="section_timeline_2.png" %}
+{% include img.html name="section_timeline_7.png" %}
 
-{% include img.html name="section_timeline_3.png" %}
-
-{% include img.html name="section_timeline_4.png" %}
+{% include img.html name="section_timeline_8.png" %}

@@ -15,4 +15,6 @@ permalink: /list-of-settings/internet-section/data-refreshing-interval
 
 Description.
 
-{% include img.html name="section_kitchen_history_1.png" %}
+{% include img.html name="settings_data_refreshing_interval_1.png" %}
+
+{% include img.html name="settings_data_refreshing_interval_2.png" %}

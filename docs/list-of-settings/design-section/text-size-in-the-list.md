@@ -15,4 +15,10 @@ permalink: /list-of-settings/design-section/text-size-in-the-list
 
 Description.
 
-{% include img.html name="section_kitchen_history_1.png" %}
+{% include img.html name="settings_text_size_in_the_list_1.png" %}
+
+{% include img.html name="settings_text_size_in_the_list_2.png" %}
+
+{% include img.html name="settings_text_size_in_the_list_3.png" %}
+
+{% include img.html name="settings_text_size_in_the_list_4.png" %}

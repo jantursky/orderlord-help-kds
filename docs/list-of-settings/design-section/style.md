@@ -15,4 +15,8 @@ permalink: /list-of-settings/design-section/style
 
 Description.
 
-{% include img.html name="section_kitchen_history_1.png" %}
+{% include img.html name="settings_style_1.png" %}
+
+{% include img.html name="settings_style_2.png" %}
+
+{% include img.html name="settings_style_3.png" %}

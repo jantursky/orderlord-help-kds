@@ -15,4 +15,6 @@ permalink: /list-of-settings/data-section/hide-items-with-kitchen-hide-tag
 
 Description.
 
-{% include img.html name="section_kitchen_history_1.png" %}
+{% include img.html name="settings_hide_items_with_kitchen_hide_tag_1.png" %}
+
+{% include img.html name="settings_hide_items_with_kitchen_hide_tag_2.png" %}

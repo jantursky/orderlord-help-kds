@@ -15,4 +15,10 @@ permalink: /list-of-settings/design-section/colors
 
 Description.
 
-{% include img.html name="section_kitchen_history_1.png" %}
+{% include img.html name="settings_colors_1.png" %}
+
+{% include img.html name="settings_colors_2.png" %}
+
+{% include img.html name="settings_colors_4.png" %}
+
+{% include img.html name="settings_colors_3.png" %}

@@ -15,4 +15,8 @@ permalink: /list-of-settings/general-section/screen-orientation
 
 Description.
 
-{% include img.html name="section_kitchen_history_1.png" %}
+{% include img.html name="settings_screen_orientation_1.png" %}
+
+{% include img.html name="settings_screen_orientation_2.png" %}
+
+{% include img.html name="settings_screen_orientation_3.png" %}

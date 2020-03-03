@@ -15,4 +15,6 @@ permalink: /list-of-settings/internet-section/timeout
 
 Description.
 
-{% include img.html name="section_kitchen_history_1.png" %}
+{% include img.html name="settings_timeout_1.png" %}
+
+{% include img.html name="settings_timeout_2.png" %}

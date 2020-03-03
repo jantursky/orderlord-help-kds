@@ -15,4 +15,8 @@ permalink: /list-of-settings/data-section/additional-data-in-note
 
 Description.
 
-{% include img.html name="section_kitchen_history_1.png" %}
+{% include img.html name="settings_additional_data_in_note_1.png" %}
+
+{% include img.html name="settings_additional_data_in_note_2.png" %}
+
+{% include img.html name="settings_additional_data_in_note_3.png" %}

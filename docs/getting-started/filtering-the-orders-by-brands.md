@@ -15,6 +15,6 @@ permalink: /getting-started/filtering-the-orders-by-brands
 
 Description.
 
-{% include img.html name="view_list_6.png" %}
+{% include img.html name="getting_started_filtering_the_orders_by_brands_1.png" %}
 
-{% include img.html name="view_list_8.png" %}
+{% include img.html name="getting_started_filtering_the_orders_by_brands_2.png" %}
