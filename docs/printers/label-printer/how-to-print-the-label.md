@@ -19,6 +19,6 @@ Description.
 
 {% include img.html name="label_printer_print_label_2.png" %}
 
-{% include img.html name="label_printer_print_label_3.png" %}
-
 {% include img.html name="label_printer_print_label_4.png" %}
+
+{% include img.html name="label_printer_print_label_3.png" %}

@@ -13,7 +13,12 @@ permalink: /list-of-settings/data-section/pin-functionality
 
 ---
 
-Description.
+### LIST OF OPTIONS:
+1. Disabled
+1. By orders
+1. By deliveries + time
+1. By deliveries + position of the order in delivery
+1. By deliveries + unique delivery id + position of the order in delivery
 
 {% include img.html name="settings_pin_functionality_1.png" %}
 

@@ -12,7 +12,12 @@ permalink: /list-of-settings/drivers-statuses-section
 
 LIST OF SETTINGS:
 - [How to use]({{site.baseurl}}{% link docs/list-of-settings/drivers-statuses-section/how-to-use.md %})
-- [List of settings]({{site.baseurl}}{% link docs/list-of-settings/drivers-statuses-section/list-of-settings.md %})
+- [Update interval]({{site.baseurl}}{% link docs/list-of-settings/drivers-statuses-section/update-interval.md %})
+- [Driver initials]({{site.baseurl}}{% link docs/list-of-settings/drivers-statuses-section/driver-initials.md %})
+- [Courier time type]({{site.baseurl}}{% link docs/list-of-settings/drivers-statuses-section/courier-time-type.md %})
+- [Sorting drivers]({{site.baseurl}}{% link docs/list-of-settings/drivers-statuses-section/sorting-drivers.md %})
+- [Filter orders by selected drivers]({{site.baseurl}}{% link docs/list-of-settings/drivers-statuses-section/filter-orders-by-selected-drivers.md %})
+- [Display status icon]({{site.baseurl}}{% link docs/list-of-settings/drivers-statuses-section/display-status-icon.md %})
 
 {% include img.html name="menu_settings_customization.png" %}
 

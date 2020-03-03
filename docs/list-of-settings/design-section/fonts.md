@@ -18,3 +18,7 @@ Description.
 {% include img.html name="settings_fonts_1.png" %}
 
 {% include img.html name="settings_fonts_2.png" %}
+
+{% include img.html name="settings_fonts_3.png" %}
+
+{% include img.html name="settings_fonts_4.png" %}

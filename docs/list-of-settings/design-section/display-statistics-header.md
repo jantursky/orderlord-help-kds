@@ -18,3 +18,5 @@ Description.
 {% include img.html name="settings_display_statistics_header_1.png" %}
 
 {% include img.html name="settings_display_statistics_header_2.png" %}
+
+{% include img.html name="settings_display_statistics_header_3.png" %}

@@ -50,6 +50,7 @@ ga_tracking: UA-40899429-16
 plugins:
   - jekyll-seo-tag
   - jekyll-target-blank
+  # - jekyll-font-awesome-sass
 
 compress_html:
   clippings: all

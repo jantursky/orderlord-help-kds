@@ -15,4 +15,6 @@ permalink: /list-of-settings/alarm-for-new-orders-section/how-to-use
 
 Description.
 
-{% include img.html name="section_kitchen_history_1.png" %}
+{% include img.html name="settings_alarm_for_new_orders_how_to_use_1.png" %}
+
+{% include img.html name="settings_alarm_for_new_orders_how_to_use_2.png" %}

@@ -19,6 +19,8 @@ Description.
 
 {% include img.html name="settings_view_type_2.png" %}
 
+{% include img.html name="settings_view_type_3.png" %}
+
 {% include img.html name="settings_view_list_6.png" %}
 
 {% include img.html name="view_columns_1.png" %}

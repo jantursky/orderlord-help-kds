@@ -15,4 +15,8 @@ permalink: /list-of-settings/label-printer-section/automatic-printer-discovery
 
 Description.
 
-{% include img.html name="section_kitchen_history_1.png" %}
+{% include img.html name="settings_label_printer_automatic_printer_discovery_1.png" %}
+
+{% include img.html name="settings_label_printer_automatic_printer_discovery_2.png" %}
+
+{% include img.html name="settings_label_printer_automatic_printer_discovery_3.png" %}

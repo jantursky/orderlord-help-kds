@@ -16,4 +16,4 @@ TABLE OF CONTENTS:
 - [Receipt printer]({{site.baseurl}}{% link docs/printers/receipt-printer/receipt-printer.md %})
 - [Label printer]({{site.baseurl}}{% link docs/printers/label-printer/label-printer.md %})
 
-{% include img.html name="section_kitchen_history_1.png" %}
+{% include img.html name="printer_all_types_1.jpg" %}

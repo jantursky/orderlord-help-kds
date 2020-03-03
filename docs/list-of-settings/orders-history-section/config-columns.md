@@ -15,4 +15,8 @@ permalink: /list-of-settings/orders-history-section/config-columns
 
 Description.
 
-{% include img.html name="section_kitchen_history_1.png" %}
+{% include img.html name="settings_orders_history_section_config_columns_1.png" %}
+
+{% include img.html name="settings_orders_history_section_config_columns_2.png" %}
+
+{% include img.html name="settings_orders_history_section_config_columns_3.png" %}

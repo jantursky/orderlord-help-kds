@@ -20,3 +20,5 @@ Description.
 {% include img.html name="settings_sound_info_notiifications_2.png" %}
 
 {% include img.html name="settings_sound_info_notiifications_3.png" %}
+
+{% include img.html name="settings_sound_info_notiifications_4.png" %}

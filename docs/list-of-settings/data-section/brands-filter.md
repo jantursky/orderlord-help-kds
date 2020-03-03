@@ -18,3 +18,7 @@ Description.
 {% include img.html name="settings_brands_filtering_1.png" %}
 
 {% include img.html name="settings_brands_filtering_2.png" %}
+
+{% include img.html name="settings_brands_filtering_3.png" %}
+
+{% include img.html name="settings_brands_filtering_4.png" %}

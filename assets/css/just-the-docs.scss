@@ -7,6 +7,9 @@
 $logo: "{{ site.logo | absolute_url }}";
 {% endif %}
 
+// $fa-font-path: "fonts/font-awesome";
+// @import 'font-awesome';
+
 //
 // Import external dependencies
 //
@@ -25,6 +28,7 @@ $logo: "{{ site.logo | absolute_url }}";
 //
 
 @import "./custom/custom";
+@import "./custom/icomoon";
 
 //
 // Import custom color scheme scss

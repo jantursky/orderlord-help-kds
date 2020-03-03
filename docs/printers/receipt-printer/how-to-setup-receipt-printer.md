@@ -30,3 +30,5 @@ Description.
 {% include img.html name="receipt_printer_setup_7.png" %}
 
 {% include img.html name="receipt_printer_setup_8.png" %}
+
+{% include img.html name="receipt_printer_setup_9.png" %}

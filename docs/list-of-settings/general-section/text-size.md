@@ -20,3 +20,7 @@ Description.
 {% include img.html name="settings_text_size_2.png" %}
 
 {% include img.html name="settings_text_size_3.png" %}
+
+{% include img.html name="settings_text_size_4.png" %}
+
+{% include img.html name="settings_text_size_5.png" %}

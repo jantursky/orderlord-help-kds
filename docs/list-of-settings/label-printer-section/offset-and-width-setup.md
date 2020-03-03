@@ -15,4 +15,10 @@ permalink: /list-of-settings/label-printer-section/offset-and-width-setup
 
 Description.
 
-{% include img.html name="section_kitchen_history_1.png" %}
+{% include img.html name="settings_label_printer_offset_and_width_setup_1.png" %}
+
+{% include img.html name="settings_label_printer_offset_and_width_setup_2.png" %}
+
+{% include img.html name="settings_label_printer_offset_and_width_setup_3.png" %}
+
+{% include img.html name="settings_label_printer_offset_and_width_setup_4.png" %}

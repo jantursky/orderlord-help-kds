@@ -15,4 +15,12 @@ permalink: /list-of-settings/logic-of-texts-section/name-vs-short-name
 
 Description.
 
-{% include img.html name="section_kitchen_history_1.png" %}
+{% include img.html name="settings_logic_of_texts_name_vs_short_name_1.png" %}
+
+{% include img.html name="settings_logic_of_texts_name_vs_short_name_2.png" %}
+
+{% include img.html name="settings_logic_of_texts_name_vs_short_name_3.png" %}
+
+{% include img.html name="settings_logic_of_texts_name_vs_short_name_4.png" %}
+
+{% include img.html name="settings_logic_of_texts_name_vs_short_name_5.png" %}

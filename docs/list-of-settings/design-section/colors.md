@@ -19,6 +19,8 @@ Description.
 
 {% include img.html name="settings_colors_2.png" %}
 
+{% include img.html name="settings_colors_3.png" %}
+
 {% include img.html name="settings_colors_4.png" %}
 
-{% include img.html name="settings_colors_3.png" %}
+{% include img.html name="settings_colors_5.png" %}

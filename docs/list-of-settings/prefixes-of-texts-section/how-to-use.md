@@ -15,4 +15,6 @@ permalink: /list-of-settings/prefixes-of-texts-section/how-to-use
 
 Description.
 
-{% include img.html name="section_kitchen_history_1.png" %}
+{% include img.html name="settings_prefixes_of_texts_how_to_use_1.png" %}
+
+{% include img.html name="settings_prefixes_of_texts_how_to_use_2.png" %}

@@ -15,4 +15,10 @@ permalink: /list-of-settings/label-printer-section/label-customization
 
 Description.
 
-{% include img.html name="section_kitchen_history_1.png" %}
+{% include img.html name="settings_label_printer_label_customization_1.png" %}
+
+{% include img.html name="settings_label_printer_label_customization_2.png" %}
+
+{% include img.html name="settings_label_printer_label_customization_3.png" %}
+
+{% include img.html name="settings_label_printer_label_customization_4.png" %}

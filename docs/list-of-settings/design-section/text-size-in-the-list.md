@@ -22,3 +22,5 @@ Description.
 {% include img.html name="settings_text_size_in_the_list_3.png" %}
 
 {% include img.html name="settings_text_size_in_the_list_4.png" %}
+
+{% include img.html name="settings_text_size_in_the_list_5.png" %}

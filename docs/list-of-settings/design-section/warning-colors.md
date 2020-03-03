@@ -20,3 +20,5 @@ Description.
 {% include img.html name="settings_warning_colors_2.png" %}
 
 {% include img.html name="settings_warning_colors_3.png" %}
+
+{% include img.html name="settings_warning_colors_4.png" %}

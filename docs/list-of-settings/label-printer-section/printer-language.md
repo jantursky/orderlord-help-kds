@@ -15,4 +15,6 @@ permalink: /list-of-settings/label-printer-section/printer-language
 
 Description.
 
-{% include img.html name="section_kitchen_history_1.png" %}
+{% include img.html name="settings_label_printer_printer_language_1.png" %}
+
+{% include img.html name="settings_label_printer_printer_language_2.png" %}

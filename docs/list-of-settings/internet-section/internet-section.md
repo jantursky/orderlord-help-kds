@@ -3,6 +3,7 @@ layout: default
 title: Internet section
 nav_order: 4
 has_children: true
+has_toc: false
 parent: List of Settings
 permalink: /list-of-settings/internet-section
 ---

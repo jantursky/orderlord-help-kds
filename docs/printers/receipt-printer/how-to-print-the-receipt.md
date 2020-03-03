@@ -22,3 +22,5 @@ Description.
 {% include img.html name="receipt_printer_how_to_print_3.png" %}
 
 {% include img.html name="receipt_printer_how_to_print_4.png" %}
+
+{% include img.html name="receipt_printer_how_to_print_5.png" %}

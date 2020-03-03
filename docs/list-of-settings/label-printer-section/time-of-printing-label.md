@@ -13,6 +13,15 @@ permalink: /list-of-settings/label-printer-section/time-of-printing-label
 
 ---
 
-Description.
+### LIST OF OPTIONS:
+1. **Food is cooked**
+1. **Food is prepared**
+1. **Only manually printing**
 
-{% include img.html name="section_kitchen_history_1.png" %}
+{% include img.html name="settings_label_printer_time_of_printing_label_1.png" %}
+
+{% include img.html name="settings_label_printer_time_of_printing_label_2.png" %}
+
+{% include img.html name="settings_label_printer_time_of_printing_label_3.png" %}
+
+{% include img.html name="settings_label_printer_time_of_printing_label_4.png" %}

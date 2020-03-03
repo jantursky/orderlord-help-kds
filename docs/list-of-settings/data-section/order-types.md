@@ -20,3 +20,5 @@ Description.
 {% include img.html name="settings_order_types_2.png" %}
 
 {% include img.html name="settings_order_types_3.png" %}
+
+{% include img.html name="settings_order_types_4.png" %}

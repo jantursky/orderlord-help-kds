@@ -15,4 +15,6 @@ permalink: /list-of-settings/orders-history-section/use-the-last-filter
 
 Description.
 
-{% include img.html name="section_kitchen_history_1.png" %}
+{% include img.html name="settings_orders_history_section_use_the_last_filter_1.png" %}
+
+{% include img.html name="settings_orders_history_section_use_the_last_filter_2.png" %}

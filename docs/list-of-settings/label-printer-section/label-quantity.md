@@ -13,6 +13,12 @@ permalink: /list-of-settings/label-printer-section/label-quantity
 
 ---
 
-Description.
+### LIST OF OPTIONS:
+1. **Single label for every item**
+1. **Labels per quantity of an item**
 
-{% include img.html name="section_kitchen_history_1.png" %}
+{% include img.html name="settings_label_printer_label_quantity_1.png" %}
+
+{% include img.html name="settings_label_printer_label_quantity_2.png" %}
+
+{% include img.html name="settings_label_printer_label_quantity_3.png" %}

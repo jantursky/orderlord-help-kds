@@ -15,4 +15,6 @@ permalink: /list-of-settings/drivers-statuses-section/how-to-use
 
 Description.
 
-{% include img.html name="section_kitchen_history_1.png" %}
+{% include img.html name="settings_drivers_statuses_section_how_to_use_1.png" %}
+
+{% include img.html name="settings_drivers_statuses_section_how_to_use_2.png" %}

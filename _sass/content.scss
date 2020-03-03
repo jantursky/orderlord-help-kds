@@ -31,7 +31,8 @@
         top: 0.2em;
         left: -1.6em;
         color: $grey-dk-000;
-        content: counter(step-counter);
+        font-weight: bold;
+        content: counter(step-counter) ".";
         counter-increment: step-counter;
         @include fs-3;
 

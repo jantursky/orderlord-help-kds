@@ -19,8 +19,6 @@ TABLE OF CONTENTS:
 - [Customize the receipt]({{site.baseurl}}{% link docs/printers/receipt-printer/customize-the-receipt.md %})
 - [Additional settings]({{site.baseurl}}{% link docs/printers/receipt-printer/additional-settings.md %})
 
-{% include img.html name="receipt_printer_1.png" %}
+{% include img.html name="printer_receipt_1.jpg" %}
 
-{% include img.html name="receipt_printer_2.png" %}
-
-{% include img.html name="receipt_printer_3.png" %}
+{% include img.html name="printer_kitchen_receipt_1.jpg" %}

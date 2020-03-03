@@ -15,4 +15,10 @@ permalink: /list-of-settings/data-section/group-by-time-slots
 
 Description.
 
-{% include img.html name="section_kitchen_history_1.png" %}
+{% include img.html name="settings_group_by_time_slots_1.png" %}
+
+{% include img.html name="settings_group_by_time_slots_2.png" %}
+
+{% include img.html name="settings_group_by_time_slots_3.png" %}
+
+{% include img.html name="settings_group_by_time_slots_4.png" %}

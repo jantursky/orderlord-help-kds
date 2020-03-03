@@ -12,7 +12,6 @@ permalink: /list-of-settings/label-printer-section
 {: .no_toc }
 
 LIST OF SETTINGS:
-- [How to use]({{site.baseurl}}{% link docs/list-of-settings/label-printer-section/how-to-use.md %})
 - [Connection type]({{site.baseurl}}{% link docs/list-of-settings/label-printer-section/connection-type.md %})
 - [Automatic printer discovery]({{site.baseurl}}{% link docs/list-of-settings/label-printer-section/automatic-printer-discovery.md %})
 - [Printer language]({{site.baseurl}}{% link docs/list-of-settings/label-printer-section/printer-language.md %})

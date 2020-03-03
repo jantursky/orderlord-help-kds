@@ -19,4 +19,4 @@ TABLE OF CONTENTS:
 - [Customize the label]({{site.baseurl}}{% link docs/printers/label-printer/customize-the-label.md %})
 - [Additional settings]({{site.baseurl}}{% link docs/printers/label-printer/additional-settings.md %})
 
-{% include img.html name="section_kitchen_history_1.png" %}
+{% include img.html name="printer_label_1.jpg" %}
