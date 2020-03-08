@@ -2,7 +2,7 @@
 layout: default
 title: What is the Disturb mode?
 nav_order: 6
-has_children: true
+has_toc: false
 parent: Frequently asked questions (FAQ)
 permalink: /frequently-asked-questions-faq/what-is-the-disturb-mode
 ---

@@ -13,7 +13,19 @@ permalink: /list-of-settings/general-section/application-language
 
 ---
 
-Description.
+### The list of supported languages
+- **ربى - Arabic (ar)**
+- **English (en)**
+- **Čeština - Czech (cs)**
+- **Deutsch - German (de)**
+- **Español - Spanish (es)**
+- **Français - French (fr)**
+- **Italiano - Italian (it)**
+- **Slovenčina - Slovak (sk)**
+- **български - Bulgarian (bg)**
+- **Hrvatski - Croatian (hr)**
+- **Український - Ukrainian (uk)**
+- **Русский - Russian (ru)**
 
 {% include img.html name="settings_application_language_1.png" %}
 

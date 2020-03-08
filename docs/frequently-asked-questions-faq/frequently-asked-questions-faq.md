@@ -20,5 +20,3 @@ TABLE OF CONTENTS:
 - [How to support your language?]({{site.baseurl}}{% link docs/frequently-asked-questions-faq/how-to-support-your-language.md %})
 - [What is the Disturb mode?]({{site.baseurl}}{% link docs/frequently-asked-questions-faq/what-is-the-disturb-mode.md %})
 - [Some settings are not visible]({{site.baseurl}}{% link docs/frequently-asked-questions-faq/some-settings-are-not-visible.md %})
-
-{% include img.html name="section_kitchen_history_1.png" %}

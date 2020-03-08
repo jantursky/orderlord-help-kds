@@ -13,7 +13,14 @@ permalink: /list-of-settings/design-section/view-type
 
 ---
 
-Description.
+### The list of supported languages:
+- **Vertical List View**
+- **Vertical List View + Quick Collect Panel**
+- **Vertical List View + Food summary**
+- **Food summary**
+- **Grid View**
+- **Grid View with Categories**
+- **Columns View**
 
 {% include img.html name="settings_view_type_1.png" %}
 

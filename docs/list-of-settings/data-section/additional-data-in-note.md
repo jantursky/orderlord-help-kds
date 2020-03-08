@@ -13,7 +13,9 @@ permalink: /list-of-settings/data-section/additional-data-in-note
 
 ---
 
-Description.
+### LIST OF OPTIONS:
+- **Customer name**
+- **Customer address**
 
 {% include img.html name="settings_additional_data_in_note_1.png" %}
 

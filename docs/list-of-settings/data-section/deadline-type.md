@@ -13,7 +13,10 @@ permalink: /list-of-settings/data-section/deadline-type
 
 ---
 
-Description.
+### LIST OF OPTIONS:
+- **Time**
+- **Cound Down**
+- **Count Up**
 
 {% include img.html name="settings_deadline_type_1.png" %}
 

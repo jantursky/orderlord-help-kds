@@ -13,7 +13,10 @@ permalink: /list-of-settings/general-section/soundinfo-notifications
 
 ---
 
-Description.
+### The list of supported languages:
+- **Sound alert**
+- **Text alert**
+- **Notification in the notification bar**
 
 {% include img.html name="settings_sound_info_notiifications_1.png" %}
 

@@ -13,7 +13,14 @@ permalink: /list-of-settings/prefixes-of-texts-section/how-to-use
 
 ---
 
-Description.
+### LIST OF OPTIONS:
+- **Prexix for order note**
+- **Prexix for deal**
+- **Prexix for item**
+- **Prexix for addition**
+- **Prexix for ingredient**
+- **Prexix for food description**
+- **Prexix for food note**
 
 {% include img.html name="settings_prefixes_of_texts_how_to_use_1.png" %}
 

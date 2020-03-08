@@ -3,6 +3,7 @@ layout: default
 title: Date/time section
 nav_order: 14
 has_children: true
+has_toc: false
 parent: List of Settings
 permalink: /list-of-settings/date-time-section
 ---

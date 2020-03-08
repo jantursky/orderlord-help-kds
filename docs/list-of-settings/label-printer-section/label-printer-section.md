@@ -14,6 +14,7 @@ permalink: /list-of-settings/label-printer-section
 LIST OF SETTINGS:
 - [Connection type]({{site.baseurl}}{% link docs/list-of-settings/label-printer-section/connection-type.md %})
 - [Automatic printer discovery]({{site.baseurl}}{% link docs/list-of-settings/label-printer-section/automatic-printer-discovery.md %})
+- [Test print]({{site.baseurl}}{% link docs/list-of-settings/label-printer-section/test-print.md %})
 - [Printer language]({{site.baseurl}}{% link docs/list-of-settings/label-printer-section/printer-language.md %})
 - [Speed of printing]({{site.baseurl}}{% link docs/list-of-settings/label-printer-section/speed-of-printing.md %})
 - [Time of printing label]({{site.baseurl}}{% link docs/list-of-settings/label-printer-section/time-of-printing-label.md %})

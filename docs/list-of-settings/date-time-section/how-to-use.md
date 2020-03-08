@@ -13,6 +13,18 @@ permalink: /list-of-settings/date-time-section/how-to-use
 
 ---
 
-Description.
+### LIST OF OPTIONS:
+- **Date + time - format**
+- **Date + time - long format**
+- **Date - long format**
+- **Date - short format**
+- **Time - long format**
+- **Time - short format**
 
-{% include img.html name="section_kitchen_history_1.png" %}
+{% include img.html name="settings_date_time_section_how_to_use_1.png" %}
+
+{% include img.html name="settings_date_time_section_how_to_use_2.png" %}
+
+{% include img.html name="settings_date_time_section_how_to_use_3.png" %}
+
+{% include img.html name="settings_date_time_section_how_to_use_4.png" %}

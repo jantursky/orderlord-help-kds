@@ -3,6 +3,7 @@ layout: default
 title: Driver's statuses section
 nav_order: 10
 has_children: true
+has_toc: false
 parent: List of Settings
 permalink: /list-of-settings/drivers-statuses-section
 ---

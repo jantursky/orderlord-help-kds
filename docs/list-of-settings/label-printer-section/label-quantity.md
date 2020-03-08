@@ -22,3 +22,7 @@ permalink: /list-of-settings/label-printer-section/label-quantity
 {% include img.html name="settings_label_printer_label_quantity_2.png" %}
 
 {% include img.html name="settings_label_printer_label_quantity_3.png" %}
+
+{% include img.html name="settings_label_printer_label_quantity_4.jpg" %}
+
+{% include img.html name="settings_label_printer_label_quantity_5.jpg" %}

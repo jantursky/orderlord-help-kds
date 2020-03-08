@@ -2,7 +2,7 @@
 layout: default
 title: Some settings are not visible
 nav_order: 7
-has_children: true
+has_toc: false
 parent: Frequently asked questions (FAQ)
 permalink: /frequently-asked-questions-faq/some-settings-are-not-visible
 ---

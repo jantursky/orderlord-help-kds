@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Customize the receipt
-nav_order: 3
+nav_order: 4
 has_children: false
 grand_parent: Printers
 parent: Receipt printer
@@ -13,7 +13,11 @@ permalink: /printers/receipt-printer/customize-the-receipt
 
 ---
 
-Description.
+### LIST OF OPTIONS:
+1. **Visibility** - should be the specific info visible on the receipt or not
+1. **Text size** - determine one of the size from 1.00x/1.25x or 1.50x
+1. **Text style** - normal or bold text
+1. **Text case style** - normal text, all characters to lowercase, all characters to uppercase or uppercase only the first character for every word
 
 {% include img.html name="receipt_printer_customize_receipt_1.png" %}
 

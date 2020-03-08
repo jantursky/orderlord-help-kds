@@ -21,4 +21,4 @@ Description.
 
 {% include img.html name="settings_label_printer_offset_and_width_setup_3.png" %}
 
-{% include img.html name="settings_label_printer_offset_and_width_setup_4.png" %}
+{% include img.html name="settings_label_printer_offset_and_width_setup_4.jpg" %}

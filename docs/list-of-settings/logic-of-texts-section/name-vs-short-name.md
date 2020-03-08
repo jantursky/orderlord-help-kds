@@ -13,7 +13,11 @@ permalink: /list-of-settings/logic-of-texts-section/name-vs-short-name
 
 ---
 
-Description.
+### LIST OF OPTIONS:
+- **In the application**
+- **On the receipt**
+- **On the kitchen receipt**
+- **On the label**
 
 {% include img.html name="settings_logic_of_texts_name_vs_short_name_1.png" %}
 

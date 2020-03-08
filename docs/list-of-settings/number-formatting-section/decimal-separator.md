@@ -13,6 +13,10 @@ permalink: /list-of-settings/number-formatting-section/decimal-separator
 
 ---
 
-Description.
+### LIST OF OPTIONS:
+1. **Comma ,**
+1. **Dot .**
 
-{% include img.html name="section_kitchen_history_1.png" %}
+{% include img.html name="settings_number_formatting_section_decimal_separator_1.png" %}
+
+{% include img.html name="settings_number_formatting_section_decimal_separator_2.png" %}

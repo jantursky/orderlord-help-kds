@@ -16,3 +16,5 @@ permalink: /list-of-settings/receipt-printer-section/test-print
 Description.
 
 {% include img.html name="settings_receipt_printer_test_print_1.png" %}
+
+{% include img.html name="settings_receipt_printer_test_print_2.jpg" %}

@@ -13,7 +13,11 @@ permalink: /stock-management-section/filtering-the-data
 
 ---
 
-Description.
+### LIST OF FILTERING TYPES:
+1. **CHANGES** - you could filter all types or items which are in stock or out of stock
+1. **ITEM TYPES** - you could filter all types or only meals, deals, meals with variable price, pizzas, pizza deals or additions
+1. **SELECTED STORE** - select one of the stores for what the items will be filtered
+1. **SELECTED BRAND** - select one of the brands for what the items will be filtered
 
 {% include img.html name="section_stock_management_3.png" %}
 

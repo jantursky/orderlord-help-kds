@@ -2,7 +2,7 @@
 layout: default
 title: KDS offline mode
 nav_order: 4
-has_children: true
+has_toc: false
 parent: Frequently asked questions (FAQ)
 permalink: /frequently-asked-questions-faq/kds-offline-mode
 ---

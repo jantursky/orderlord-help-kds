@@ -13,7 +13,16 @@ permalink: /orders-history-section/filtering-the-data
 
 ---
 
-Description.
+### LIST OF FILTERING TYPES:
+1. **START DATE** - you are able to setup start date from what the filtering of the orders starts
+1. **END DATE+HOUR** - you are able to setup start date from what the filtering of the orders starts
+1. **SELECTED COURIERS** - determine orders for what courier should be filtered
+1. **SELECTED STORES** - determine one or multiple restaurants for filtering
+1. **SELECTED BRANDS** - determine one or multiple brands for filtering
+1. **ORDER TYPES** - you could determine Delivery, Collection or Store orders
+1. **ORDER STATES** - you could select one of the states: active orders, canceled orders, canceled orders after leaving the restaurant, canceled orders before leaving the restaurant, finished orders, discounted orders, late orders, not canceled orders, not cashed orders, on-time orders, orders with rating, orders with rating & comment
+1. **PAYMENT TYPES** - list of the payment types will be listed, where you could select one of them
+1. **CHANGES** - you could select one of the changes: delivery fee changed, discount changed, items changed, no selected, order type changed, payment type changed, price changed
 
 {% include img.html name="section_orders_history_4.png" %}
 

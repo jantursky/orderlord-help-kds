@@ -20,3 +20,5 @@ Description.
 {% include img.html name="settings_label_printer_automatic_printer_discovery_2.png" %}
 
 {% include img.html name="settings_label_printer_automatic_printer_discovery_3.png" %}
+
+{% include img.html name="settings_label_printer_automatic_printer_discovery_4.png" %}
