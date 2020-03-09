@@ -13,7 +13,7 @@ permalink: /getting-started/menu-sections
 
 ---
 
-### LIST OF OPTIONS:
+### List of options:
 
 1. **Kitchen**
 1. **Kitchen history**

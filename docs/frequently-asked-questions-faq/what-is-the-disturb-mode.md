@@ -1,7 +1,7 @@
 ---
 layout: default
 title: What is the Disturb mode?
-nav_order: 6
+nav_order: 7
 has_toc: false
 parent: Frequently asked questions (FAQ)
 permalink: /frequently-asked-questions-faq/what-is-the-disturb-mode
@@ -12,6 +12,30 @@ permalink: /frequently-asked-questions-faq/what-is-the-disturb-mode
 
 ---
 
-Description.
+### What is the Disturb mode
+**Do Not Disturb** allows you to limit or completely silence notifications and alerts on your device. It’s more powerful than simply putting your phone on Silent mode. Here are a few examples of where Do Not Disturb can come in handy:
 
-{% include img.html name="section_kitchen_history_1.png" %}
+- automatically mute notifications every night while you sleep
+- mute all interruptions until your alarm goes off
+- automatically mute sounds while you’re in a meeting
+- mute all interruptions except your favorite people
+- you can see how Do Not Disturb can be very useful in your everyday life. Notifications can be a huge distraction. Do Not Disturb manages notifications with three different levels of silence:
+
+1. **Total silence** – completely mutes your phone. Nothing will get through. Not even alarms.
+1. **Alarms only** – as the name implies, this is like Total Silence except alarms still work.
+1. **Priority only** – mutes everything except alarms, people, reminders, and events that you choose.
+
+### How to TURN OFF Disturb mode
+
+1. Navigate to the settings section.
+2. If the highlighted red row is displaying **"Do Not Disturb" mode**, click on this row. If this row is not displaying, [enable the sound notification]({{site.baseurl}}{% link docs/list-of-settings/general-section/sound-info-notifications.md %}). If this setting is enabled, Check to see if this row appears after the sound notifications are enabled. If not, then that means, that this application already granted access to handle **"Do Not Disturb" mode**.
+3. When the new screen is displayed (**Do not disturb access**), find in the list the kitchen application (**KDS**). 
+4. Enable the access for this application
+
+{% include img.html name="faq_what_is_the_disturb_mode_1.png" %}
+
+
+{% include img.html name="faq_what_is_the_disturb_mode_2.png" %}
+
+
+{% include img.html name="faq_what_is_the_disturb_mode_3.png" %}

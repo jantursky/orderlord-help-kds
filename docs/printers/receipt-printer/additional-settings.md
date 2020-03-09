@@ -13,7 +13,7 @@ permalink: /printers/receipt-printer/additional-settings
 
 ---
 
-### LIST OF SETTINGS:
+### List of settings:
 1. **Receipt reprints** - determine how many of receipts should be printed for every order
 1. **Kitchen reprints** - determine how many of kitchen receipts should be printed for every order
 1. **Characters per line** - depending on the vendor and model of the printer, you need to setup number of characters per line. Default value is 42 characters but you need to check that depending on the setup of your printer.

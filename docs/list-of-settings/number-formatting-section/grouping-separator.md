@@ -13,7 +13,7 @@ permalink: /list-of-settings/number-formatting-section/grouping-separator
 
 ---
 
-### LIST OF OPTIONS:
+### List of options:
 1. **Space**
 1. **Without separator**
 1. **Comma ,**

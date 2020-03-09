@@ -13,7 +13,7 @@ permalink: /list-of-settings/data-section/maximum-orders-to-display
 
 ---
 
-### LIST OF OPTIONS:
+### List of options:
 1. Unlimited
 1. 1-15 orders
 

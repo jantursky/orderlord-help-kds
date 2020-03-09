@@ -13,7 +13,7 @@ permalink: /list-of-settings/drivers-statuses-section/courier-time-type
 
 ---
 
-### LIST OF OPTIONS:
+### List of options:
 - **Estimated arrival time**
 - **Last online time**
 - **Last measured time**

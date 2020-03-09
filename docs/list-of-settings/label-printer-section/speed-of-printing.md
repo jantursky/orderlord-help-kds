@@ -13,7 +13,7 @@ permalink: /list-of-settings/label-printer-section/speed-of-printing
 
 ---
 
-### LIST OF OPTIONS:
+### List of options:
 1. **Slow**
 1. **Fast**
 

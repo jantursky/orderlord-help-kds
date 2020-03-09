@@ -13,7 +13,7 @@ permalink: /list-of-settings/number-formatting-section/decimal-separator
 
 ---
 
-### LIST OF OPTIONS:
+### List of options:
 1. **Comma ,**
 1. **Dot .**
 

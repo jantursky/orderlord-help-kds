@@ -1,7 +1,7 @@
 ---
 layout: default
 title: KDS offline mode
-nav_order: 4
+nav_order: 5
 has_toc: false
 parent: Frequently asked questions (FAQ)
 permalink: /frequently-asked-questions-faq/kds-offline-mode
@@ -12,6 +12,42 @@ permalink: /frequently-asked-questions-faq/kds-offline-mode
 
 ---
 
-Description.
+### Basic principle
+When the internet is turned off, device is not able to connect to the network, or **Wi-Fi module/LAN cable** is not working, the system is able to work in **limited state**. The orders, which already came to the device till that break-down moment, could be cooked and prepared, this information is stored locally and when the internet connection will be restored, it started to send one by one. The system is able to print labels with the printer if the printer is connected with the KDS device through [USB connection]({{site.baseurl}}{% link docs/printers/label-printer/how-to-setup-label-printer.md %})
 
-{% include img.html name="section_kitchen_history_1.png" %}
+
+
+| FUNCTIONALITY        									| <span class="text-green-100">ENABLED</span>  | <span class="text-red-100">DISABLED</span> |
+|:------------------------------------------------------|:---------|:---------|
+| set food as cooked									| <span class="text-green-100">**X**</span>        |          |
+| set food as prepared									| <span class="text-green-100">**X**</span>        |          |
+| reset food to cooked state							| <span class="text-green-100">**X**</span>        |          |
+| reset food to empty state								| <span class="text-green-100">**X**</span>        |          |
+| reset order											|          | <span class="text-red-100">**X**</span>        |
+| finish order											|          | <span class="text-red-100">**X**</span>        |
+| cancel order											|          | <span class="text-red-100">**X**</span>        |
+| print receipts connected through USB or Bluetooth		| <span class="text-green-100">**X**</span>        |          |
+| download the latest orders							|          |          |
+| updating data from settings section					|          | <span class="text-red-100">**X**</span>        |
+| print labels connected through USB					| <span class="text-green-100">**X**</span>        |          |
+| print labels connected through Wi-Fi					|          | <span class="text-red-100">**X**</span>        |
+| print receipts connected through Wi-Fi				|          | <span class="text-red-100">**X**</span>        |
+
+<!-- ### Working functionality offline
+- set food as cooked
+- set food as prepared
+- reset food to cooked state
+- reset food to empty state
+- print labels connected through USB
+- print receipts connected through USB or Bluetooth
+
+## Disabled functionality in offline mode
+- reset order
+- finish order
+- cancel order
+- download the latest orders
+- updating data from settings section
+- print labels connected through Wi-Fi
+- print receipts connected through Wi-Fi -->
+
+{% include img.html name="faq_kds_offline_mode.png" %}

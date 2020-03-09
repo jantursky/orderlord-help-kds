@@ -13,7 +13,7 @@ permalink: /list-of-settings/date-time-section/how-to-use
 
 ---
 
-### LIST OF OPTIONS:
+### List of options:
 - **Date + time - format**
 - **Date + time - long format**
 - **Date - long format**

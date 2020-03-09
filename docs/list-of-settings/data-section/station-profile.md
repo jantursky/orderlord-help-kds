@@ -13,7 +13,7 @@ permalink: /list-of-settings/data-section/station-profile
 
 ---
 
-### LIST OF OPTIONS:
+### List of options:
 - **Without change -> Cooked -> Prepared**
 - **Without change -> Cooked**
 - **Without change -> Prepared**

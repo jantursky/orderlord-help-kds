@@ -13,7 +13,7 @@ permalink: /orders-history-section/filtering-the-data
 
 ---
 
-### LIST OF FILTERING TYPES:
+### List of filtering types:
 1. **START DATE** - you are able to setup start date from what the filtering of the orders starts
 1. **END DATE+HOUR** - you are able to setup start date from what the filtering of the orders starts
 1. **SELECTED COURIERS** - determine orders for what courier should be filtered

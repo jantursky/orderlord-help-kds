@@ -19,7 +19,7 @@ Description.
 
 {% include img.html name="update_data_2.png" %}
 
-### Manually updating specific type of data
+### Manually updating specific type of data:
 
 1. **Update account settings**
 1. **Update menu**

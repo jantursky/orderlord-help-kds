@@ -13,7 +13,7 @@ permalink: /list-of-settings/data-section/additional-data-in-note
 
 ---
 
-### LIST OF OPTIONS:
+### List of options:
 - **Customer name**
 - **Customer address**
 

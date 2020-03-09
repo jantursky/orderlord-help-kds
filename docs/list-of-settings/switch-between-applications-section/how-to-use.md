@@ -13,7 +13,7 @@ permalink: /list-of-settings/switch-between-applications-section/how-to-use
 
 ---
 
-### LIST OF APPLICATIONS:
+### List of applications:
 1. Boxtracker
 1. Caller ID
 1. Customer Display System

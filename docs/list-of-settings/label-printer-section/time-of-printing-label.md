@@ -13,7 +13,7 @@ permalink: /list-of-settings/label-printer-section/time-of-printing-label
 
 ---
 
-### LIST OF OPTIONS:
+### List of options:
 1. **Food is cooked**
 1. **Food is prepared**
 1. **Only manually printing**

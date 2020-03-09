@@ -13,7 +13,7 @@ permalink: /list-of-settings/logic-of-texts-section/name-vs-short-name
 
 ---
 
-### LIST OF OPTIONS:
+### List of options:
 - **In the application**
 - **On the receipt**
 - **On the kitchen receipt**
