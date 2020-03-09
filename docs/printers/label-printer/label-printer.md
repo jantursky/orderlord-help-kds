@@ -13,7 +13,7 @@ permalink: /printers/label-printer
 
 ---
 
-TABLE OF CONTENTS:
+### Table of contents:
 - [How to setup label printer]({{site.baseurl}}{% link docs/printers/label-printer/how-to-setup-label-printer.md %})
 - [How to print the label]({{site.baseurl}}{% link docs/printers/label-printer/how-to-print-the-label.md %})
 - [Customize the label]({{site.baseurl}}{% link docs/printers/label-printer/customize-the-label.md %})

@@ -12,7 +12,7 @@ permalink: /frequently-asked-questions-faq
 
 ---
 
-TABLE OF CONTENTS:
+### Table of contents:
 - [Dictionary of Terms]({{site.baseurl}}{% link docs/frequently-asked-questions-faq/dictionary-of-terms.md %})
 - [Supported Android devices]({{site.baseurl}}{% link docs/frequently-asked-questions-faq/supported-android-devices.md %})
 - [Supported receipt printers]({{site.baseurl}}{% link docs/frequently-asked-questions-faq/supported-receipt-printers.md %})

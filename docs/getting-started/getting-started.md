@@ -12,7 +12,7 @@ permalink: /getting-started
 
 ---
 
-TABLE OF CONTENTS:
+### Table of contents:
 - [How to install the application]({{site.baseurl}}{% link docs/getting-started/how-to-install-the-application.md %})
 - [How to login]({{site.baseurl}}{% link docs/getting-started/how-to-login.md %})
 - [How to use the kitchen screen]({{site.baseurl}}{% link docs/getting-started/how-to-use-the-kitchen-screen.md %})

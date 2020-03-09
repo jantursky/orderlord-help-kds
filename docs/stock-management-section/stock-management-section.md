@@ -12,7 +12,7 @@ permalink: /stock-management-section
 
 ---
 
-TABLE OF CONTENTS:
+### Table of contents:
 - [How to use]({{site.baseurl}}{% link docs/stock-management-section/how-to-use.md %})
 - [Filtering the data]({{site.baseurl}}{% link docs/stock-management-section/filtering-the-data.md %})
 

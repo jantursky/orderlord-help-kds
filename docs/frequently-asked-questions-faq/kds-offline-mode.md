@@ -17,21 +17,21 @@ When the internet is turned off, device is not able to connect to the network, o
 
 
 
-| FUNCTIONALITY        									| <span class="text-green-100">ENABLED</span>  | <span class="text-red-100">DISABLED</span> |
-|:------------------------------------------------------|:---------|:---------|
-| set food as cooked									| <span class="text-green-100">**X**</span>        |          |
-| set food as prepared									| <span class="text-green-100">**X**</span>        |          |
-| reset food to cooked state							| <span class="text-green-100">**X**</span>        |          |
-| reset food to empty state								| <span class="text-green-100">**X**</span>        |          |
-| reset order											|          | <span class="text-red-100">**X**</span>        |
-| finish order											|          | <span class="text-red-100">**X**</span>        |
-| cancel order											|          | <span class="text-red-100">**X**</span>        |
-| print receipts connected through USB or Bluetooth		| <span class="text-green-100">**X**</span>        |          |
-| download the latest orders							|          |          |
-| updating data from settings section					|          | <span class="text-red-100">**X**</span>        |
-| print labels connected through USB					| <span class="text-green-100">**X**</span>        |          |
-| print labels connected through Wi-Fi					|          | <span class="text-red-100">**X**</span>        |
-| print receipts connected through Wi-Fi				|          | <span class="text-red-100">**X**</span>        |
+| FUNCTIONALITY									| <span class="text-green-100">ENABLED</span>  | <span class="text-red-100">DISABLED</span> |
+|:------------------------------------------------------|:------|:------|
+| set food as cooked									| <span class="text-green-100">{% include icon.html name="check" %}</span>|  |
+| set food as prepared									| <span class="text-green-100">{% include icon.html name="check" %}</span>|  |
+| reset food to cooked state							| <span class="text-green-100">{% include icon.html name="check" %}</span>|  |
+| reset food to empty state								| <span class="text-green-100">{% include icon.html name="check" %}</span>|  |
+| reset order											|  | <span class="text-red-100">{% include icon.html name="close" %}</span>|
+| finish order											|  | <span class="text-red-100">{% include icon.html name="close" %}</span>|
+| cancel order											|  | <span class="text-red-100">{% include icon.html name="close" %}</span>|
+| print receipts connected through USB or Bluetooth		| <span class="text-green-100">{% include icon.html name="check" %}</span>|  |
+| download the latest orders							|  |  |
+| updating data from settings section					|  | <span class="text-red-100">{% include icon.html name="close" %}</span>|
+| print labels connected through USB					| <span class="text-green-100">{% include icon.html name="check" %}</span>|  |
+| print labels connected through Wi-Fi					|  | <span class="text-red-100">{% include icon.html name="close" %}</span>|
+| print receipts connected through Wi-Fi				|  | <span class="text-red-100">{% include icon.html name="close" %}</span>|
 
 <!-- ### Working functionality offline
 - set food as cooked

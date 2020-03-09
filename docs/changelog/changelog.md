@@ -12,7 +12,7 @@ permalink: /changelog
 
 ---
 
-TABLE OF CONTENTS:
+### Table of contents:
 - [Latest release]({{site.baseurl}}{% link docs/changelog/latest-release.md %})
 - [List of changes]({{site.baseurl}}{% link docs/changelog/list-of-changes.md %})
 

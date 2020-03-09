@@ -12,7 +12,7 @@ permalink: /timeline-section
 
 ---
 
-TABLE OF CONTENTS:
+### Table of contents:
 - [How to use]({{site.baseurl}}{% link docs/timeline-section/how-to-use.md %})
 - [Filtering the data]({{site.baseurl}}{% link docs/timeline-section/filtering-the-data.md %})
 

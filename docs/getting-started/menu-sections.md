@@ -15,14 +15,14 @@ permalink: /getting-started/menu-sections
 
 ### List of options:
 
-1. **Kitchen**
-1. **Kitchen history**
-1. **Timeline**
-1. **Orders history**
-1. **Stock management**
-1. **Settings**
-1. **Report problem**
-1. **Logout**
+1. {% include icon.html name="format_list_bulleted" %} **Kitchen**
+1. {% include icon.html name="access_time" %} **Kitchen history**
+1. {% include icon.html name="timeline" %} **Timeline**
+1. {% include icon.html name="history" %} **Orders history**
+1. {% include icon.html name="add_shopping_cart" %} **Stock management**
+1. {% include icon.html name="settings" %} **Settings**
+1. {% include icon.html name="bug_report" %} **Report problem**
+1. {% include icon.html name="power_settings_new" %} **Logout**
 
 
 {% include img.html name="menu_1.png" %}

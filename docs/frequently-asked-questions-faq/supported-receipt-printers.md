@@ -13,11 +13,11 @@ permalink: /frequently-asked-questions-faq/supported-receipt-printers
 ---
 
 ### List of supported printers:
-- **AURES** - USB
-- **STAR** - Wi-Fi, Bluetooth, LAN
-- **CASHINO** - Bluetooth, USB
-- **BLUETOOTH** - Bluetooth
-- **EPSON** - Wi-Fi, Bluetooth, USB
-- **USB** - USB
+- {% include icon.html name="print" %} **AURES** - USB
+- {% include icon.html name="print" %} **STAR** - Wi-Fi, Bluetooth, LAN
+- {% include icon.html name="print" %} **CASHINO** - Bluetooth, USB
+- {% include icon.html name="print" %} **BLUETOOTH** - Bluetooth
+- {% include icon.html name="print" %} **EPSON** - Wi-Fi, Bluetooth, USB
+- {% include icon.html name="print" %} **USB** - USB
 
 {% include img.html name="receipt_printer_supported_receipt_printers.png" %}
