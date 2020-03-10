@@ -12,7 +12,7 @@ permalink: /frequently-asked-questions-faq/supported-receipt-printers
 
 ---
 
-### List of supported printers:
+## List of supported printers:
 - {% include icon.html name="print" %} **AURES** - USB
 - {% include icon.html name="print" %} **STAR** - Wi-Fi, Bluetooth, LAN
 - {% include icon.html name="print" %} **CASHINO** - Bluetooth, USB

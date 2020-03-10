@@ -12,7 +12,7 @@ permalink: /frequently-asked-questions-faq/kds-offline-mode
 
 ---
 
-### Basic principle
+## Basic principle
 When the internet is turned off, device is not able to connect to the network, or **Wi-Fi module/LAN cable** is not working, the system is able to work in **limited state**. The orders, which already came to the device till that break-down moment, could be cooked and prepared, this information is stored locally and when the internet connection will be restored, it started to send one by one. The system is able to print labels with the printer if the printer is connected with the KDS device through [USB connection]({{site.baseurl}}{% link docs/printers/label-printer/how-to-setup-label-printer.md %})
 
 
@@ -33,7 +33,7 @@ When the internet is turned off, device is not able to connect to the network, o
 | print labels connected through Wi-Fi					|  | <span class="text-red-100">{% include icon.html name="close" %}</span>|
 | print receipts connected through Wi-Fi				|  | <span class="text-red-100">{% include icon.html name="close" %}</span>|
 
-<!-- ### Working functionality offline
+<!-- ## Working functionality offline
 - set food as cooked
 - set food as prepared
 - reset food to cooked state

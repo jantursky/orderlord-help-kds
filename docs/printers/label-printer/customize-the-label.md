@@ -13,7 +13,7 @@ permalink: /printers/label-printer/customize-the-label
 
 ---
 
-### List of options:
+## List of options:
 1. **Visibility** - should be the specific info visible on the receipt or not
 1. **Text size** - determine the size from the interval 0.25x <-> 3.00x
 1. **Text case style** - normal text, all characters to lowercase, all characters to uppercase or uppercase only the first character for every word

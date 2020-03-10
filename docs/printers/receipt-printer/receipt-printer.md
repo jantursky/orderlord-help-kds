@@ -13,7 +13,7 @@ permalink: /printers/receipt-printer
 
 ---
 
-### Table of contents:
+## Table of contents:
 - [How to configure Epson printer]({{site.baseurl}}{% link docs/printers/receipt-printer/how-to-configure-epson-printer.md %})
 - [How to setup receipt printer]({{site.baseurl}}{% link docs/printers/receipt-printer/how-to-setup-receipt-printer.md %})
 - [How to print the receipt]({{site.baseurl}}{% link docs/printers/receipt-printer/how-to-print-the-receipt.md %})

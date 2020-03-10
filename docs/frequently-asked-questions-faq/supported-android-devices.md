@@ -12,7 +12,7 @@ permalink: /frequently-asked-questions-faq/supported-android-devices
 
 ---
 
-### Required specifications:
+## Required specifications:
 - **Android OS**
 - **Tablet device** - should be also smartphone (for preview purposes), but because of the functionality is the tablet better solution
 - Android version **4.4 (Android KitKat)** and up 
@@ -24,7 +24,7 @@ permalink: /frequently-asked-questions-faq/supported-android-devices
 
 ---
 
-### Optional specifications:
+## Optional specifications:
 - **Sound hardware** - for purposes of [sound notifications about new orders, new deliveries]({{site.baseurl}}{% link docs/list-of-settings/general-section/sound-info-notifications.md %}) or [Alarm feature]({{site.baseurl}}{% link docs/list-of-settings/alarm-for-new-orders-section/how-to-use.md %})
 - **Bluetooth module** - for connecting with Bluetooth Receipt printer
 

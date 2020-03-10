@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Menu sections
-nav_order: 7
-has_children: true
+nav_order: 11
+has_children: false
 has_toc: false
 parent: Getting Started
 permalink: /getting-started/menu-sections
@@ -13,7 +13,7 @@ permalink: /getting-started/menu-sections
 
 ---
 
-### List of options:
+## List of options:
 
 1. {% include icon.html name="format_list_bulleted" %} **Kitchen**
 1. {% include icon.html name="access_time" %} **Kitchen history**

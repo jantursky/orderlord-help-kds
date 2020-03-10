@@ -12,7 +12,7 @@ permalink: /list-of-settings/printers
 
 ---
 
-### Table of contents:
+## Table of contents:
 - [Receipt printer]({{site.baseurl}}{% link docs/printers/receipt-printer/receipt-printer.md %})
 - [Label printer]({{site.baseurl}}{% link docs/printers/label-printer/label-printer.md %})
 

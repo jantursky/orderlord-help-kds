@@ -13,7 +13,7 @@ permalink: /list-of-settings/data-section/pin-functionality
 
 ---
 
-### List of options:
+## List of options:
 1. Disabled
 1. By orders
 1. By deliveries + time

@@ -12,7 +12,7 @@ permalink: /frequently-asked-questions-faq/supported-label-printers
 
 ---
 
-### List of supported printers:
+## List of supported printers:
 - {% include icon.html name="label" %} **ZEBRA** - most used models: Zebra GX420t, Zebra GX420d, GK420d, GK420t, ZD420
 	- generally, all Zebra printers can work which can connect to **Ethernet** or **USB** and supports **ZPL language**
 	- labels are optimized for resolution 203dpi, the width should be 10cm and height at least 6cm (you could use also smaller or bigger sizes, but needs to be adjusted the design)

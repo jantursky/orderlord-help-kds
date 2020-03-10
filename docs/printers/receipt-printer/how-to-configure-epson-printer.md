@@ -19,7 +19,7 @@ permalink: /printers/receipt-printer/how-to-configure-epson-printer
 
 ---
 
-### Wi-Fi Epson printer
+## Wi-Fi Epson printer
 
 To set up a new Epson printer, first make sure that the printer is connected to the same network as your device (PC, tablet). Once connected, please print a **self-test page**. This can be easily done by holding the **FEED button** and turning the printer off and on. The part that you should check here is the IP Address. If it shows _192.168.192.168_, it means that the printer is not configured on the network.
 

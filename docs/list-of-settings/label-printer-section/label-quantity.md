@@ -13,7 +13,7 @@ permalink: /list-of-settings/label-printer-section/label-quantity
 
 ---
 
-### List of options:
+## List of options:
 1. **Single label for every item**
 1. **Labels per quantity of an item**
 

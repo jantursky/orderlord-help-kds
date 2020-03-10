@@ -7,24 +7,23 @@ permalink: /
 ---
 
 # Orderlord documentation
-{: .fs-9 }
 
-- [Getting Started](getting-started){: .btn .btn-primary .fs-4 }
+## Table of contents:
+- [Getting Started](getting-started)
+- [Timeline section](timeline-section)
+- [Orders History section](orders-history-section)
+- [Stock Management section](stock-management-section)
+- [Printers](printers)
+- [List of Settings](list-of-settings)
+- [Frequently asked questions (FAQ)](frequently-asked-questions-faq)
+- [Changelog](changelog)
+- [Troubleshooting](troubleshooting)
 
-- [Timeline section](timeline-section){: .btn .btn-primary .fs-4 }
+## How to install the application:
+- One way to install an app on your Android device is to use the official link in the **Google Play app**. You could follow [this guide to install the app](getting-started/how-to-install-the-application). Or use this direct link:
 
-- [Orders History section](orders-history-section){: .btn .btn-primary .fs-4 }
+{% include app_links_google_play.html %}
 
-- [Stock Management section](stock-management-section){: .btn .btn-primary .fs-4 }
+- Second way is to install the application from this link from the **ApkPure.com** website (always try to check if the version on the website is the latest one compared with Google Play website - **<span class="text-green-100">x.x.x</span> for Android**):
 
-- [Printers](printers){: .btn .btn-primary .fs-4 }
-
-- [List of Settings](list-of-settings){: .btn .btn-primary .fs-4 }
-
-- [Frequently asked questions (FAQ)](frequently-asked-questions-faq){: .btn .btn-primary .fs-4 }
-
-- [Changelog](changelog){: .btn .btn-primary .fs-4 }
-
-- [Troubleshooting](troubleshooting){: .btn .btn-primary .fs-4 }
-
-{% include app_links.html %}
+{% include app_links_apkpure.html %}

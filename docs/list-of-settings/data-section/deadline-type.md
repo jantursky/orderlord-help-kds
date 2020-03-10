@@ -13,7 +13,7 @@ permalink: /list-of-settings/data-section/deadline-type
 
 ---
 
-### List of options:
+## List of options:
 - **Time**
 - **Cound Down**
 - **Count Up**

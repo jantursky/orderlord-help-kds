@@ -13,7 +13,7 @@ permalink: /list-of-settings/general-section/application-language
 
 ---
 
-### The list of supported languages
+## The list of supported languages
 - {% include img.html name="flags/flag_ar.png" %} **ربى - Arabic (ar)**
 - {% include img.html name="flags/flag_us.png" %} **English (en)** 
 - {% include img.html name="flags/flag_cz.png" %} **Čeština - Czech (cs)**

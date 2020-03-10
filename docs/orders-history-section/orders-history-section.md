@@ -13,7 +13,7 @@ permalink: /orders-history-section
 ---
 
 
-### Table of contents:
+## Table of contents:
 - [How to use]({{site.baseurl}}{% link docs/orders-history-section/how-to-use.md %})
 - [Filtering the data]({{site.baseurl}}{% link docs/orders-history-section/filtering-the-data.md %})
 

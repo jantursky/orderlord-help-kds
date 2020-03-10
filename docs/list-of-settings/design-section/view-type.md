@@ -13,7 +13,7 @@ permalink: /list-of-settings/design-section/view-type
 
 ---
 
-### The list of supported languages:
+## The list of supported languages:
 - **Vertical List View**
 - **Vertical List View + Quick Collect Panel**
 - **Vertical List View + Food summary**

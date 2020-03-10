@@ -13,7 +13,7 @@ permalink: /list-of-settings/prefixes-of-texts-section/how-to-use
 
 ---
 
-### List of options:
+## List of options:
 - **Prexix for order note**
 - **Prexix for deal**
 - **Prexix for item**

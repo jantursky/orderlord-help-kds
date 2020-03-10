@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Filtering the orders by brands
-nav_order: 6
-has_children: true
+nav_order: 10
+has_children: false
 has_toc: false
 parent: Getting Started
 permalink: /getting-started/filtering-the-orders-by-brands

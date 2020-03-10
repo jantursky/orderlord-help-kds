@@ -13,7 +13,7 @@ permalink: /list-of-settings/general-section/sound-info-notifications
 
 ---
 
-### The list of supported languages:
+## The list of supported languages:
 - **Sound alert**
 - **Text alert**
 - **Notification in the notification bar**

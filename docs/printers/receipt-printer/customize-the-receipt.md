@@ -13,7 +13,7 @@ permalink: /printers/receipt-printer/customize-the-receipt
 
 ---
 
-### List of options:
+## List of options:
 1. **Visibility** - should be the specific info visible on the receipt or not
 1. **Text size** - determine one of the size from 1.00x/1.25x or 1.50x
 1. **Text style** - normal or bold text

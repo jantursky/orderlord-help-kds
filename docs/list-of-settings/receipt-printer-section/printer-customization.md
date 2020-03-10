@@ -13,7 +13,7 @@ permalink: /list-of-settings/receipt-printer-section/printer-customization
 
 ---
 
-### List of brands:
+## List of brands:
 - **AURES** - USB
 - **STAR** - Wi-Fi, Bluetooth, LAN
 	- **Printer series** - MPOP, FVP10, TSP100, TSP650II, TSP700II, TSP800II, SP700, SM-S210I, SM-S220I, SM-S230I, SM-T300/T300, SM-T400I, SM-L200, BSC10, SM-S210I STARTPRNT, SM-S220I STARTPRNT, SM-S230I STARTPRNT, SM-S300I STARTPRNT, SM-S400I STARTPRNT, SM-L300, MC-PRINT2, MC-PRINT3

@@ -13,7 +13,7 @@ permalink: /list-of-settings/general-section/screen-orientation
 
 ---
 
-### List of options:
+## List of options:
 1. **Portrait**
 1. **Portrait Sensor**
 1. **Landscape**

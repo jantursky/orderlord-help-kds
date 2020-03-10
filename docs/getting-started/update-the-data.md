@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Update the data
-nav_order: 8
-has_children: true
+nav_order: 12
+has_children: false
 has_toc: false
 parent: Getting Started
 permalink: /getting-started/update-the-data
@@ -19,7 +19,7 @@ Description.
 
 {% include img.html name="update_data_2.png" %}
 
-### Manually updating specific type of data:
+## Manually updating specific type of data:
 
 1. **Update account settings**
 1. **Update menu**
