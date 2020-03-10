@@ -23,8 +23,9 @@ If you want to reset status for all meals for the specific order, you could do t
 ## How to do that?
 - click on the _left block of the row_ (for instance **"Beef"** row)
 - **or** _long click_ on the whole row (for instance **"Beef"** row)
-- when the new dialog with the list of the options is displayed, click on the row **"Reset order"**.
-- progress dialog will be displayed, and trying to 
+- when the new dialog with the list of the options is displayed, click on the row {% include icon.html name="settings_backup_restore" %} **"Reset order"**.
+- progress dialog will be displayed, and trying to contact with the server to reset the order
+- once the order was reset, all meals for this food will setup the empty status
 
 
 ## Warning

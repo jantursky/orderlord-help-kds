@@ -23,7 +23,7 @@ If the order was handed over to the customer by courier, at the store, or the cu
 Once you click on this row, the order will be set as finished and will dismiss from the kitchen application. Only the place, where you are able to check this order, is from [**Orders history section.**]({{site.baseurl}}{% link docs/orders-history-section/orders-history-section.md %}) You could enable visibility of this button by following [**this guide.**]({{site.baseurl}}{% link docs/list-of-settings/data-section/show-button-for-finishing-of-orders.md %})
 
 ## Warning
-If you aren't able to find this setting in the settings section, it's because this setting is disabled by the administrator of the account (_you need to ask for the access_). 
+If you aren't able to find this setting in the settings section, it's because this setting is disabled by the administrator of the account (_you need to ask for the access_).
 
 {% include img.html name="finish_the_order_1.png" %}
 
