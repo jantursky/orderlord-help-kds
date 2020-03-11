@@ -11,9 +11,20 @@ permalink: /orders-history-section/filtering-the-data
 # Filtering the data
 {: .no_toc }
 
+1. TOC
+{:toc}
+
 ---
 
-## List of filtering types:
+## How to filter
+The user can filter orders 2 ways:
+1. By direct typing **order ID**, **order counter** or **customer phone**:
+	1. Click on the search icon {% include icon.html name="search" %}
+	1. Type the searched phrase
+	1. Click on the **DONE** or **SEARCH** button on the keyboard, orders will be searched on the server
+1. By specifying values of [filtering options](#list-of-filtering-types). The user can use combination of multiple options.
+
+## List of filtering types
 1. **START DATE** - you are able to setup start date from what the filtering of the orders starts
 1. **END DATE+HOUR** - you are able to setup start date from what the filtering of the orders starts
 1. **SELECTED COURIERS** - determine orders for what courier should be filtered

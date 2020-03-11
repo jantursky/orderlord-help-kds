@@ -75,12 +75,12 @@ Once the user is logged into the application, the **Kitchen section** is display
 	- the new dialog with the options will be displayed. On this dialog you are able to:
 		- **Reset food state to cooked** - setup the meal as cooked, removed prepared status
 		- **Reset food state** - setup the meal as not touched, removed cooked and prepared status
-		- **Reset order** - the status of all meals for this orders will be set as not touched (zero state) + ready status of the order will be removed. This row is displaying only if this action is enabled for the account in the account settings (handled by administrator of the account).
+		- **Reset order** - the status of all meals for this orders will be set as not touched (zero state) + ready status of the order will be removed. This row is displaying <span class="text-red-200">only if this action is enabled for the account in the account settings (handled by administrator of the account).</span>
 		- **Cancel order** - the order will be cancelled, and will be dismissed from the application. This row is displaying only if this action is enabled for the account in the account settings (handled by administrator of the account).
 		- **Print label** - communication with the label printer will be created and try to print the **label** (single or multiple by quantity of the meal, [depending on the setting]({{site.baseurl}}{% link docs/list-of-settings/label-printer-section/label-quantity.md %}). This option is displayed only if the label printer is setup in the settings section and depending on the meal cooked/prepared status.
 		- **Print receipt** - communication with the receipt printer will be created and try to print the **receipt** and **kitchen receipt**. This option is displayed only if the receipt printer is setup in the settings section.
 		- **Preview receipt** - new screen will be displayed with the preview of the receipt, which should be printed. The look of the result receipt is only approximate, depending on the specific vendor and model of the receipt.
-		- **Preview kitchen receipt** - same as the **Preview receipt**, but will print kitchen receipt.
+		- **Preview kitchen receipt** - same as the **Preview receipt**, but will display kitchen receipt.
 
 {% include img.html name="how_to_use_kitchen_screen_1_v3.png" %}
 

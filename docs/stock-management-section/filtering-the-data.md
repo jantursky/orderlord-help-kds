@@ -11,13 +11,21 @@ permalink: /stock-management-section/filtering-the-data
 # Filtering the data
 {: .no_toc }
 
+1. TOC
+{:toc}
+
 ---
 
-## List of filtering types:
-1. **CHANGES** - you could filter all types or items which are in stock or out of stock
-1. **ITEM TYPES** - you could filter all types or only meals, deals, meals with variable price, pizzas, pizza deals or additions
-1. **SELECTED STORE** - select one of the stores for what the items will be filtered
-1. **SELECTED BRAND** - select one of the brands for what the items will be filtered
+## How to filter
+For faster finding specific item, the user can filter the data multiple ways:
+1. Typing the searched phrase in the input line. The results are dynamically filtered during the typing. Results wll be highlighted <span class="text-green-200">**green color**</span> and underlined.
+2. By specifying values of [filtering options](#list-of-filtering-types). The user can use combination of multiple options.
+
+## List of filtering types
+1. **CHANGES** - you could filter all types or items which are <span class="text-green-200">**in stock**</span> or <span class="text-red-200">**out of stock**</span>
+1. **ITEM TYPES** - you could filter **all types** or only **meals**, **deals**, **meals with variable price**, **pizzas**, **pizza deals** or **additions**
+1. **SELECTED STORE** - select one of the stores for what the items will be filtered or for every store
+1. **SELECTED BRAND** - select one of the brands for what the items will be filtered or for every brand
 
 {% include img.html name="section_stock_management_3.png" %}
 

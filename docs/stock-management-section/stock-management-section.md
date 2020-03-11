@@ -10,7 +10,15 @@ permalink: /stock-management-section
 # Stock Management section
 {: .no_toc }
 
+1. TOC
+{:toc}
+
 ---
+
+## Description
+The section is displaying current availability status of every meals from single/multiple restaurants. The user can set the flag for meal that is no longer available in the kitchen (all supplies for the meal were spent) and filter the meals multiple ways.
+
+<span class="text-red-200">If the user can't see this section, it's disabled for the account in the account settings. **Ask the administrator of the account to enable this section.**</span>
 
 ## Table of contents:
 - [How to use]({{site.baseurl}}{% link docs/stock-management-section/how-to-use.md %})
