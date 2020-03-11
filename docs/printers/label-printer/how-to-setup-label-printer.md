@@ -92,21 +92,49 @@ Once you know, that the label has enabled Wi-Fi port for communication, and you 
 
 {% include img.html name="label_printer_how_to_setup_label_printer_wifi_4.png" %}
 
-- New dialog screen will be displayed, select the option **Static** and setup **IP Address**, **Subnet mask** and **Default gateway**
+- New dialog screen will be displayed, select the option **Static** and setup **IP Address**, **Subnet mask** and **Default gateway**. Type in the IP address that is free on the network, the subnet mask and the default gateway. Please note that if you need to set up more printers, each has to have a unique IP address.
+	- To find out what IP address to set up, do the following:
+		- on **Windows PC**:
+			1. Open the command prompt (cmd) from Windows **Run**
+			1. Type in **ipconfig** and hit **ENTER**. It will populate the data with all the necessary information: IP address, Subnet Mask and Default Gateway.
+			1. Find the **Ethernet** or **Wi-Fi** adapter's block of text. There should be the mention **IP Address**, **Subnet Mask** and **Default Gateway** info. 
+			1. Use the first 3 numbers from this IP address to set up the IP address of your printer, and add the 4th number as a unique ID between 1-255. For example, if the IP is _192.168.20.1_ on the PC, you may use _192.168.20.21_ for the printer. You just need to be sure, that this new assigned IP address is not assigned to another device in the network.
+
+		- on **Mac PC**:
+			1. open the **Network settings**, select **Wi-fi** and click on **Advanced**
+			1. switch to **TCP/IP** tab and search for these data: **IPv4 address** = IP address of the PC. Use the first 3 numbers from this IP address to set up the IP address of your printer, and add the 4th number as a unique ID between 1-255. For example, if the IP is _192.168.20.1_ on the PC, you may use _192.168.20.21_ for the printer. **Subnet Mask** = Subnet Mask, **Router** = Default Gateway
+- click on **Next** button without changing any other settings and on the last screen, click **Finish** button
+- the printer should restart itself with a new assigned IP address. After the printer restarted, do a **Test print** and check if the printed test label with the configuration contains the new IP address.
+	- <span class="text-green-100">{% include icon.html name="check" %}</span> if yes, **congratulations**, you setup the IP address for the label printer and you are able to use the label printer
+	- <span class="text-red-200">{% include icon.html name="cancel" %}</span> if not, contact the [support with e-mail](mailto:support@orderlord.com), who will try to solve the issue
 
 {% include img.html name="label_printer_how_to_setup_label_printer_wifi_5.png" %}
 
+- once everything was setup properly, you could try to connect with the label printer. Go to the **Label printer** category ([guide](#where-is-label-printer-category))
+- click on the {% include icon.html name="print" %} **Enable label printing** option for {% include icon.html name="check_box" %}
+
 {% include img.html name="label_printer_setup_4.png" %}
+
+- once this option is enabled, list of settings will be displayed. Click on the {% include icon.html name="phonelink_ring" %} **Connection type** option. 
 
 {% include img.html name="label_printer_setup_5.png" %}
 
+- select from the opened dialog option **Wi-Fi** and click on <span class="text-green-200">**SET SELECTED**</span> button
+
 {% include img.html name="label_printer_setup_6.png" %}
 
-{% include img.html name="label_printer_setup_7.png" %}
+- you have 2 options how to setup IP address and port of the label printer:
+- **automatic** - click on the {% include icon.html name="search" %} **Automatic printer discovery** row, new dialog will be displayed and the application will try to find the Zebra printer in the same network as the Android device is connected. If the Zebra is listed in the list of founded devices, click on the device and IP address and port of the printer will be setup automatically
+
+{% include img.html name="settings_label_printer_automatic_printer_discovery_3.png" %}
+
+- **manual** - click on the {% include icon.html name="label" %} **The IP address of the printer** row, new dialog will be displayed, type there assigned IP of the printer (for example **"192.168.1.30"**) and click on <span class="text-green-200">**SET SELECTED**</span> button. Then click on the {% include icon.html name="label" %} **TCP port of the printer** row, another dialog will be displayed, type there port of the printer (the default is **"9100"** - try to use this value) and click on <span class="text-green-200">**SET SELECTED**</span> button.
 
 {% include img.html name="label_printer_setup_8.png" %}
 
+- **congratulations**, you have prepared the label printer for the use
+
 ## General warnings
-- <span class="text-red-200">always be sure, that the label printer has paper</span>
-- <span class="text-red-200">if the printer is printing, but the paper is empty, the roll of paper in the printer is opposite</span>
-- <span class="text-red-200">if the printer is connected to the network (router/modem or switch), be sure that you configured the IP address of the printer during connection on the same network</span>
+- <span class="text-red-200">_always be sure, that the label printer has paper_</span>
+- <span class="text-red-200">_if the printer is printing, but the paper is empty, the roll of paper in the printer is opposite_</span>
+- <span class="text-red-200">_if the printer is connected to the network (**router/modem or switch**), be sure that you configured the IP address of the printer during connection on the same network_</span>
