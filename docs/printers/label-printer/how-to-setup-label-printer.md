@@ -56,14 +56,45 @@ Once you know, that the label printer supports USB communication, follow these s
 - <span class="text-red-200">You need everytime to allow access the application with the label printer with popup.</span>
 - <span class="text-red-200">If the popup for allowing access wasn't displayed, try to attempt to rotate the cable to certain angles. It is possible that the USB cable has faulty contacts and only communicates under a certain degree of connection.</span>
 - <span class="text-red-200">It could happened, that even if you setup everything, the printer isn't able to print labels. It's because that that USB cable is a wrong type and is not supporting **Read/Write** feature</span>
-- <span class="text-red-200">Warning</span>
 
 {% include img.html name="label_printer_how_to_setup_label_printer_usb_2.jpg" %}
 
-
 ## Wi-Fi Communication
+Communication with a Wi-Fi connection with Label printer is a bit harder for configuration. 
 
-Description.
+First of all, you need to know, if the label printer has available Wi-Fi (called Ethernet) connection. You could to be sure by two ways:
+1. Check the back side of the label printer. Be sure, that there is a port for **LAN cable**.
+1. Try to do **the test print** of that label printer. Follow the steps for test print:
+	1. Make sure the media is properly loaded and the top cover of the printer is closed. Then, turn the printer power on if you have not already done so. When the status light is solid green, press and hold **the Feed button until the status light flashes once.**
+	1. **Release the Feed button**. A configuration label will print.
+	1. On this printer label configuration, there should be mentioned the line **"IP ADDRESS"** (or something similar describing IP address):
+		1. If this line is mentioned there:
+			1. and the IP address hasn't default value (mentioned in the 2. option) - the label printer should have already setup IP address
+			1. and the IP address is in the format **255.255.255.255**, **192.168.254.254**, **192.168.192.168**, **0.0.0.0** or similar - then you need to setup a new IP address for this printer
+		1. If you aren't able to find this line:
+			1. The printer has disabled Wi-Fi (Ethernet) port, you know that this printer should have Wi-Fi working connection and you need to ask for the _service support_ to solve this issue
+			1. The printer hasn't Wi-Fi working communication, even that there is a port - it's because companies are forcing the customer to buy **additional Wi-Fi hardware** for the printer
+
+{% include img.html name="label_printer_how_to_setup_label_printer_wifi_1.jpg" %}
+
+Once you know, that the label has enabled Wi-Fi port for communication, and you need to setup a new IP address of the Label printer, follow the steps:
+- Install the [**Zebra setup utilities**](https://www.zebra.com/us/en/support-downloads/printer-software/printer-setup-utilities.html) into the PC.
+- Connect the label printer with the PC - through the USB cable mostly or LAN cable (depends on the ports of the printer).
+- Open the application **Zebra setup utilities**, there should be a empty list of added label printers
+
+{% include img.html name="label_printer_how_to_setup_label_printer_wifi_2.png" %}
+
+- Click on the **Install New Printer** button and follow the new screen for adding connected label printer. If the list already contains any printer (before or after installing new printer), select this printer (specific one, where you want to configure), and click on the **Configure Printer Connectivity** button.
+
+{% include img.html name="label_printer_how_to_setup_label_printer_wifi_3.png" %}
+
+- New dialog screen will be displayed, where select the option **Wireless**
+
+{% include img.html name="label_printer_how_to_setup_label_printer_wifi_4.png" %}
+
+- New dialog screen will be displayed, select the option **Static** and setup **IP Address**, **Subnet mask** and **Default gateway**
+
+{% include img.html name="label_printer_how_to_setup_label_printer_wifi_5.png" %}
 
 {% include img.html name="label_printer_setup_4.png" %}
 
