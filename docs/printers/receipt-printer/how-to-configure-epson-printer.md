@@ -1,6 +1,6 @@
 ---
 layout: default
-title: How to configure Epson printer
+title: How to configure Epson Wi-Fi printer
 nav_order: 1
 has_children: false
 grand_parent: Printers
@@ -19,7 +19,11 @@ permalink: /printers/receipt-printer/how-to-configure-epson-printer
 
 ---
 
-## Wi-Fi Epson printer
+## Bluetooth communication
+
+## USB communication
+
+## Wi-Fi communication
 
 To set up a new Epson printer, first make sure that the printer is connected to the same network as your device (PC, tablet). Once connected, please print a **self-test page**. This can be easily done by holding the **FEED button** and turning the printer off and on. The part that you should check here is the IP Address. If it shows _192.168.192.168_, it means that the printer is not configured on the network.
 
@@ -43,4 +47,4 @@ To configure the printer on the network:
 			1. open the **Network settings**, select **Wi-fi** and click on **Advanced**
 			1. switch to **TCP/IP** tab and search for these data: **IPv4 address** = IP address of the PC. Use the first 3 numbers from this IP address to set up the IP address of your printer, and add the 4th number as a unique ID between 1-255. For example, if the IP is _192.168.20.1_ on the PC, you may use _192.168.20.21_ for the printer. **Subnet Mask** = Subnet Mask, **Router** = Default Gateway
 
-1. Once all the data is added to the printer in **Epson Net Config**, you can refresh in the tool and the IP address will be visible. Now you should be able to find the printer in POS app Epson Discovery. If it's not possible, try to type the newly assigned IP address of the printer directly on the configuration screen and try to do **Test print**. It's because your network could be designed that way, that the devices are not directly discoverable through Epson discovery, so you need to input the IP address directly and do **Test print**.
+1. Once all the data is added to the printer in **Epson Net Config**, you can refresh in the tool and the IP address will be visible. Now you should be able to find the printer in POS app Epson Discovery. If it's not possible, try to type the newly assigned IP address of the printer directly on the configuration screen and try to do **Test print**. <span class="text-red-200">It's because your network could be designed that way, that the devices are not directly discoverable through Epson discovery</span>, so you need to **input the IP address directly** and do **Test print**.

@@ -20,7 +20,7 @@ The section is displaying current availability status of every meals from single
 
 <span class="text-red-200">If the user can't see this section, it's disabled for the account in the account settings. **Ask the administrator of the account to enable this section.**</span>
 
-## Table of contents:
+## Table of contents
 - [How to use]({{site.baseurl}}{% link docs/stock-management-section/how-to-use.md %})
 - [Filtering the data]({{site.baseurl}}{% link docs/stock-management-section/filtering-the-data.md %})
 

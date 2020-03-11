@@ -12,7 +12,7 @@ permalink: /troubleshooting
 
 ---
 
-## Table of contents:
+## Table of contents
 - [Login issues]({{site.baseurl}}{% link docs/troubleshooting/login-issues.md %})
 - [Network issues]({{site.baseurl}}{% link docs/troubleshooting/network-issues.md %})
 - [Translation issues]({{site.baseurl}}{% link docs/troubleshooting/translation-issues.md %})

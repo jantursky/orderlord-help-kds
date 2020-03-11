@@ -8,7 +8,7 @@ permalink: /
 
 # Orderlord documentation
 
-## Table of contents:
+## Table of contents
 - [Getting Started](getting-started)
 - [Timeline section](timeline-section)
 - [Orders History section](orders-history-section)
@@ -19,7 +19,7 @@ permalink: /
 - [Changelog](changelog)
 - [Troubleshooting](troubleshooting)
 
-## How to install the application:
+## How to install the application
 - One way to install an app on your Android device is to use the official link in the **Google Play app**. You could follow [this guide to install the app](getting-started/how-to-install-the-application). Or use this direct link:
 
 {% include app_links_google_play.html %}

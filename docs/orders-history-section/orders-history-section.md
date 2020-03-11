@@ -20,7 +20,7 @@ The list of orders created in the system. The user can search for the specific o
 
 <span class="text-red-200">If the user doesn't see any results even for the time intervals when orders were created and stored in the system, this is because the user doesn't have the permission. **Ask the administrator of the account for this permission.**</span>
 
-## Table of contents:
+## Table of contents
 - [How to use]({{site.baseurl}}{% link docs/orders-history-section/how-to-use.md %})
 - [Filtering the data]({{site.baseurl}}{% link docs/orders-history-section/filtering-the-data.md %})
 
