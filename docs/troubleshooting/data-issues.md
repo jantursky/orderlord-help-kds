@@ -2,7 +2,8 @@
 layout: default
 title: Data issues
 nav_order: 4
-has_children: true
+has_children: false
+has_toc: false
 parent: Troubleshooting
 permalink: /troubleshooting/data-issues
 ---
@@ -10,8 +11,9 @@ permalink: /troubleshooting/data-issues
 # Data issues
 {: .no_toc }
 
+1. TOC
+{:toc}
+
 ---
 
 Description.
-
-{% include img.html name="section_kitchen_history_1.png" %}
