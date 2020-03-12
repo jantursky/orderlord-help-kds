@@ -55,7 +55,7 @@ Once you know, that the label printer supports USB communication, follow these s
 <span class="text-red-200">Warnings:</span>
 - <span class="text-red-200">You need everytime to allow access the application with the label printer with popup.</span>
 - <span class="text-red-200">If the popup for allowing access wasn't displayed, try to attempt to rotate the cable to certain angles. It is possible that the USB cable has faulty contacts and only communicates under a certain degree of connection.</span>
-- <span class="text-red-200">It could happened, that even if you setup everything, the printer isn't able to print labels. It's because that that USB cable is a wrong type and is not supporting **Read/Write** feature</span>
+- <span class="text-red-200">It could happened, that even if you setup everything, the printer isn't able to print labels. It's because that USB cable is a wrong type and is not supporting **Read/Write** feature</span>
 
 {% include img.html name="label_printer_how_to_setup_label_printer_usb_2.jpg" %}
 
@@ -133,6 +133,9 @@ Once you know, that the label has enabled Wi-Fi port for communication, and you 
 {% include img.html name="label_printer_setup_8.png" %}
 
 - **congratulations**, you have prepared the label printer for the use
+
+## Bluetooth communication
+Bluetooth communication with the printer is currently not supported. In this case, please [contact us by email.](mailto:support@orderlord.com)
 
 ## General warnings
 - <span class="text-red-200">_always be sure, that the label printer has paper_</span>

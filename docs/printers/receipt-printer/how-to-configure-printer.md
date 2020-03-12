@@ -1,14 +1,14 @@
 ---
 layout: default
-title: How to configure Epson Wi-Fi printer
+title: How to configure printer
 nav_order: 1
 has_children: false
 grand_parent: Printers
 parent: Receipt printer
-permalink: /printers/receipt-printer/how-to-configure-epson-printer
+permalink: /printers/receipt-printer/how-to-configure-printer
 ---
 
-# How to configure Epson printer
+# How to configure printer
 {: .no_toc }
 
 ## Table of contents
@@ -20,8 +20,22 @@ permalink: /printers/receipt-printer/how-to-configure-epson-printer
 ---
 
 ## Bluetooth communication
+Follow steps for the Bluetooth setup:
+1. Turn on the printer, the bluetooth of the printer should be enabled automatically.
+1. Turn on {% include icon.html name="bluetooth" %} the bluetooth on the Android device.
+1. Open {% include icon.html name="settings" %} the settings section on the Android device. Try to find {% include icon.html name="bluetooth" %} **Bluetooth** category
+1. Once the bluetooth detail will be displayed, _automatic discovery_ functionality should try to find receipt printer. Once the printer was found (compare the MAC Address of the printer, should be on the label on the bottom side of the printer, like **11:22:33:44:55:66**), click on this row. The Android device will start to pair the device and the receipt printer.
+1. The printer was successfully paired through Bluetooth, if the printer is listed in the **List of paired devices**.
 
 ## USB communication
+First of all, you need to check if your specific receipt printer has allowed USB communication and reading/writing feature:
+- <span class="text-green-100">{% include icon.html name="check" %}</span> check if the receipt printer has {% include icon.html name="usb" %} USB port
+- <span class="text-green-100">{% include icon.html name="check" %}</span> check if in the box of receipt printer was added also USB cable
+- <span class="text-green-100">{% include icon.html name="check" %}</span> during connection the receipt printer with your Android device, the [popup for allowing access for the USB device]({{site.baseurl}}{% link assets/images/kds/receipt_printer_how_to_setup_receipt_printer_usb_3.jpg %}) will be displayed.
+
+{% include img.html name="receipt_printer_how_to_setup_receipt_printer_usb_1.jpg" %}
+
+{% include img.html name="receipt_printer_how_to_setup_receipt_printer_usb_3.jpg" %}
 
 ## Wi-Fi communication
 

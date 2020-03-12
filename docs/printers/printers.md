@@ -18,7 +18,7 @@ During working with the kitchen application, the user has an option to let the a
 - **or** _long click_ on the whole row
 	- the new dialog with the options will be displayed. On this dialog you are able to:
 		- {% include icon.html name="label" %} **Print label** - communication with the label printer will be created and try to print the **label** (single or multiple by quantity of the meal, [depending on the setting]({{site.baseurl}}{% link docs/list-of-settings/label-printer-section/label-quantity.md %}). This option is displayed only if the label printer is setup in the settings section and depending on the meal cooked/prepared status.
-		- {% include icon.html name="receipt" %} **Print receipt** - communication with the receipt printer will be created and try to print the **receipt** and **kitchen receipt**. This option is displayed only if the receipt printer is setup [in the settings section.]({{site.baseurl}}{% link docs/printers/receipt-printer/how-to-setup-receipt-printer.md %})
+		- {% include icon.html name="receipt" %} **Print receipt** - communication with the receipt printer will be created and try to print the **receipt** and **kitchen receipt**. This option is displayed only if the receipt printer is setup [in the settings section.]({{site.baseurl}}{% link docs/printers/receipt-printer/how-to-setup-receipt-printer-in-the-app.md %})
 
 ## Table of contents
 - [Label printer]({{site.baseurl}}{% link docs/printers/label-printer/label-printer.md %})
