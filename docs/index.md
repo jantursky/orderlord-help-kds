@@ -24,6 +24,6 @@ permalink: /
 
 {% include app_links_google_play.html %}
 
-- Second way is to install the application from this link from the **ApkPure.com** website (always try to check if the version on the website is the latest one compared with Google Play website - **<span class="text-green-100">x.x.x</span> for Android**):
+- The second way is to install the application from this link from the **ApkPure.com** website (always try to check if the version on the website is the latest one compared with Google Play website - **<span class="text-green-100">x.x.x</span> for Android**):
 
 {% include app_links_apkpure.html %}

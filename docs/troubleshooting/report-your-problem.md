@@ -47,3 +47,5 @@ When the right button combo is pressed, your device’s screen will flash, usual
 - When you select any **gmail.com** option, click on the <span class="text-green-100">**OK**</span> button. The report will start to send information about the problem also with additional data, like _application database_ (for testing purposes), _basic information about Android device_, etc.
 
 {% include img.html name="section_report_problem_6.png" %}
+
+- <span class="text-red-200">if you receive an **"Email not allowed"** error while sending a message, the email account you used to send the report is not enabled for Gmail. Enable this option in your Google Account settings, ask your Google Account administrator to enable this option, or create a new personal Google Account that should have this option enabled automatically. After enabling this option, select **"Reset Google Account"** when sending the report and try sending the report again.</span>

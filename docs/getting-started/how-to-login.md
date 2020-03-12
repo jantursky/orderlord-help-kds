@@ -13,7 +13,7 @@ permalink: /getting-started/how-to-login
 
 ---
 
-- Open the application **"Orderlord KDS"**. Type on the first input line **Email** assigned email for the cook. The format of the login name should be email address, like **test@gmail.com** (just as example). Be aware to not add spaces on the start or end of the input.
+- Open the application **"Orderlord KDS"**. Type on the first input line **Email** assigned email for the cook. The format of the login name should be an email address, like **test@gmail.com** (just as an example). Be aware to not add spaces on the start or end of the input.
 
 {% include img.html name="login_1.png" %}
 
@@ -21,7 +21,7 @@ permalink: /getting-started/how-to-login
 
 {% include img.html name="login_2.png" %}
 
-- **During first logging into the application**, the Android system will prompt the dialog to allow access for reading/writing into storage. This permission is used for the purposes of sending log report and creating backup for the user's applications settings which will be later restored from the storage.
+- **During first logging into the application**, the Android system will prompt the dialog to allow access for reading/writing into storage. This permission is used for the purposes of sending log reports and creating a backup for the user's application settings which will be later restored from the storage.
 
 {% include img.html name="login_3.png" %}
 

@@ -17,7 +17,7 @@ permalink: /timeline-section/how-to-use
 ---
 
 ## How to use the screen
-The whole screen contained from the header, filtering and the list of the results. The user can filter for the specific date by clicking on the black **DATE** row. This row is also swipeable, to the left and right for faster selecting previous or next day. The user can't select the date in the future. Quick filter by typing the text is under the filtering by date. By clicking on the right icon {% include icon.html name="filter_list" %}, the dialog with selecting specific type of the event will be displayed. The list of results with fastscroller is displayed under this filtering row.
+The whole screen contained from the header, filtering and the list of the results. The user can filter for the specific date by clicking on the black **DATE** row. This row is also swipeable, to the left and right for faster selecting previous or next day. The user can't select the date in the future. Quick filter by typing the text is under the filtering by date. By clicking on the right icon {% include icon.html name="filter_list" %}, the dialog with selecting a specific type of event will be displayed. The list of results with fast scroller is displayed under this filtering row.
 
 ## Description of the Timeline screen
 Here is the description of the screen:
