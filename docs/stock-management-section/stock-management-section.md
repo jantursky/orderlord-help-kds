@@ -16,7 +16,7 @@ permalink: /stock-management-section
 ---
 
 ## Description
-The section is displaying current availability status of every meals from single/multiple restaurants. The user can set the flag for meal that is no longer available in the kitchen (all supplies for the meal were spent) and filter the meals multiple ways.
+The section is displaying the current availability status of every meal from single/multiple restaurants. The user can set the flag for a meal that is no longer available in the kitchen (all supplies for the meal were spent) and filter the meals multiple ways.
 
 <span class="text-red-200">If the user can't see this section, it's disabled for the account in the account settings. **Ask the administrator of the account to enable this section.**</span>
 

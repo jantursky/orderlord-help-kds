@@ -22,7 +22,7 @@ The user can filter orders 2 ways:
 	1. Click on the search icon {% include icon.html name="search" %}
 	1. Type the searched phrase
 	1. Click on the **DONE** or **SEARCH** button on the keyboard, orders will be searched on the server
-1. By specifying values of [filtering options](#list-of-filtering-types). The user can use combination of multiple options.
+1. By specifying the values of [filtering options](#list-of-filtering-types). The user can use a combination of multiple options.
 
 ## List of filtering types
 1. **START DATE** - you are able to setup start date from what the filtering of the orders starts
@@ -33,7 +33,7 @@ The user can filter orders 2 ways:
 1. **ORDER TYPES** - you could determine Delivery, Collection or Store orders
 1. **ORDER STATES** - you could select one of the states: active orders, canceled orders, canceled orders after leaving the restaurant, canceled orders before leaving the restaurant, finished orders, discounted orders, late orders, not canceled orders, not cashed orders, on-time orders, orders with rating, orders with rating & comment
 1. **PAYMENT TYPES** - list of the payment types will be listed, where you could select one of them
-1. **CHANGES** - you could select one of the changes: delivery fee changed, discount changed, items changed, no selected, order type changed, payment type changed, price changed
+1. **CHANGES** - you could select one of the changes: delivery fee changed, discount changed, items changed, no selected, order type changed, payment type changed, the price changed
 
 {% include img.html name="section_orders_history_4.png" %}
 

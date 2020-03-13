@@ -14,7 +14,7 @@ permalink: /printers/receipt-printer
 ---
 
 ## Description
-When the user in the kitchen needs to print receipt for the customer or kitchen receipt for the overview of the order on the paper for the kitchen receipt holder, then you could use **receipt printer** functionality. If for the purposes of your business, you need to attach additional data on the receipt, about order, customer, or restaurant data, then you could use [customization of the receipt]({{site.baseurl}}{% link docs/printers/receipt-printer/customize-the-receipt.md %}) functionality.
+When the user in the kitchen needs to print a receipt for the customer or kitchen receipt for the overview of the order on the paper for the kitchen receipt holder, then you could use **receipt printer** functionality. If for the purposes of your business, you need to attach additional data on the receipt, about an order, customer, or restaurant data, then you could use [customization of the receipt]({{site.baseurl}}{% link docs/printers/receipt-printer/customize-the-receipt.md %}) functionality.
 
 ## Table of contents
 - [How to configure printer]({{site.baseurl}}{% link docs/printers/receipt-printer/how-to-configure-printer.md %})

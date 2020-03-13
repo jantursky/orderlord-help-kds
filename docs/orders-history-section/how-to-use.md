@@ -17,9 +17,9 @@ permalink: /orders-history-section/how-to-use
 ---
 
 ## How to use the screen
-The whole screen contained from the header, filtering and the list of the results. The user can use two ways of filtering, by direct input of searched order information or with filtering options in the <span class="text-grey-dk-100">**grey boxes**</span>. The list of results is displayed under this filtering options. The table of results is scrollable horizontally {% include icon.html name="swap_horiz" %} and vertically {% include icon.html name="swap_vert" %}. By clicking on the row with the order will display the list of options:
+The whole screen contained from the header, filtering and the list of the results. The user can use two ways of filtering, by direct input of searched order information or with filtering options in the <span class="text-grey-dk-100">**grey boxes**</span>. The list of results is displayed under these filtering options. The table of results is scrollable horizontally {% include icon.html name="swap_horiz" %} and vertically {% include icon.html name="swap_vert" %}. By clicking on the row with the order will display the list of options:
 - **Print receipt** - the communication with the printer is created and trying to print receipt/kitchen receipt, depending on the [receipt printer customization]({{site.baseurl}}{% link docs/printers/receipt-printer/receipt-printer.md %}).
-- **Preview receipt** - new screen will be displayed with the preview of the receipt, which should be printed. The look of the result receipt is only approximate, depending on the specific vendor and model of the receipt.
+- **Preview receipt** - a new screen will be displayed with the preview of the receipt, which should be printed. The look of the resulting receipt is only approximate, depending on the specific vendor and model of the receipt.
 - **Preview kitchen receipt** - same as the **Preview receipt**, but will display kitchen receipt.
 
 ## Description of the Orders history screen

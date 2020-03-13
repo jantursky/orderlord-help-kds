@@ -21,13 +21,13 @@ In the category {% include icon.html name="receipt" %} **Receipt printer**, find
 
 {% include img.html name="receipt_printer_customize_receipt_3.png" %}
 
-On the left side is the list of all information about the order, that could be printed on the receipt. This list is vertically scrollable, and every information is customizable by [list of options](#list-of-options). Right side is displaying the preview of the receipt (_visualization_). You could find much faster the receipt information on the left side by clicking on the specific information on this visualized receipt. 
+On the left side is the list of all information about the order, that could be printed on the receipt. This list is vertically scrollable, and every information is customizable by a [list of options](#list-of-options). The right side is displaying the preview of the receipt (_visualization_). You could find much faster the receipt information on the left side by clicking on the specific information on this visualized receipt. 
 
 {% include img.html name="receipt_printer_customize_receipt_4_v2.png" %}
 
 ## List of options
 1. **Visibility** - should be the specific info visible on the receipt or not
-1. **Text size** - determine one of the size from 1.00x/1.25x or 1.50x <span class="text-red-200">(some vendors/models doesn't support the different text sizes)</span>
+1. **Text size** - determine one of the sizes from 1.00x/1.25x or 1.50x <span class="text-red-200">(some vendors/models doesn't support the different text sizes)</span>
 1. **Text style** - normal or **bold** text
 1. **Text case style**
 	- **normal text** - example _Lorem ipsum dolor sit_

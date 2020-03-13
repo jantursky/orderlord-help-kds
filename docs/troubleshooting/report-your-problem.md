@@ -28,7 +28,7 @@ Once the problem of any type will occur, and the user isn't able to solve the pr
 
 {% include img.html name="section_report_problem_2.png" %}
 
-- Add the description of the problem. Try to be more specific and mention also _an identifier_ of the specific data (like _Order number 19 is missing bacon_). You could also add the contact email, where our support team will contact you as soon as possible. You could also add attachments for a better description of the problem. You could take screenshots multiple ways:
+- Add the description of the problem. Try to be more specific and mention also _an identifier_ of the specific data (like _Order number 19 is missing bacon_). You could also add the contact email, where our support team will contact you as soon as possible. You could also add attachments for a better description of the problem. You could take screenshots in multiple ways:
 	- pressing two buttons on your Android device; normally the volume down and power button. 
 	- on other devices, you might need to use the home button + power button combo.
 	- either way, press the two buttons simultaneously and hold for a second.
@@ -44,7 +44,7 @@ When the right button combo is pressed, your device’s screen will flash, usual
 
 {% include img.html name="section_report_problem_5.png" %}
 
-- When you select any **gmail.com** option, click on the <span class="text-green-100">**OK**</span> button. The report will start to send information about the problem also with additional data, like _application database_ (for testing purposes), _basic information about Android device_, etc.
+- When you select any **gmail.com** option, click on the <span class="text-green-100">**OK**</span> button. The report will start to send information about the problem also with additional data, like _application database_ (for testing purposes), _basic information about the Android device_, etc.
 
 {% include img.html name="section_report_problem_6.png" %}
 

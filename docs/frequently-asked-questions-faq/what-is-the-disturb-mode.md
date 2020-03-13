@@ -16,7 +16,7 @@ permalink: /frequently-asked-questions-faq/what-is-the-disturb-mode
 ---
 
 ## What is the Disturb mode
-{% include icon.html name="do_not_disturb" %} **Do Not Disturb** allows you to limit or completely silence notifications and alerts on your device. It’s more powerful than simply putting your phone on Silent mode. Here are a few examples of where Do Not Disturb can come in handy:
+{% include icon.html name="do_not_disturb" %} **Do Not Disturb** allows you to limit or completely silence notifications and alerts on your device. It’s more powerful than simply putting your phone on **silent mode**. Here are a few examples of where Do Not Disturb can come in handy:
 
 - automatically mute notifications every night while you sleep
 - mute all interruptions until your alarm goes off
@@ -41,6 +41,6 @@ permalink: /frequently-asked-questions-faq/what-is-the-disturb-mode
 {% include img.html name="faq_what_is_the_disturb_mode_2.png" %}
 
 
-- Enable the access for this application
+- Enable access for this application
 
 {% include img.html name="faq_what_is_the_disturb_mode_3.png" %}
