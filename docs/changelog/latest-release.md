@@ -25,6 +25,7 @@ permalink: /changelog/latest-release
 • added option "Warning colors" - you could customize threshold for different warning levels and background colors of order headers
 • added option "Display brand name" - you could enable visibility of this information in the order header
 • added option "Display creator name" - you could enable visibility of this information in the order header. Creator name could be like "System" (created from Web Dashboard/POS) or the name of the external integration
+• added option "Display pickup time" - you could enable visibility of this information in the order header.
 • added option "Shifting of the time" - you could shift the original time of the device in the interval +/- 180 mins. For the purposes of shifting time for different stages per cook.
 • added opening options for the food by long click on the whole row
 • improved settings - mostly translations of the texts
