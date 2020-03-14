@@ -11,9 +11,16 @@ permalink: /list-of-settings/data-section/brands-filter
 # Brands filter
 {: .no_toc }
 
+1. TOC
+{:toc}
+
 ---
 
-Description.
+## Description
+Set a display limitation of individual orders depending on the selected tags that are set on orders
+
+## Where to find the option
+{% include locate_option.html category_icon="label" category_name="Data" option_icon="label" option_name="Brands filter" %}
 
 {% include img.html name="settings_brands_filtering_1.png" %}
 

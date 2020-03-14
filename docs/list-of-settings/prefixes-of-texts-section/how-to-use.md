@@ -11,16 +11,25 @@ permalink: /list-of-settings/prefixes-of-texts-section/how-to-use
 # How to use
 {: .no_toc }
 
+1. TOC
+{:toc}
+
 ---
 
-## List of options:
-- **Prexix for order note**
-- **Prexix for deal**
-- **Prexix for item**
-- **Prexix for addition**
-- **Prexix for ingredient**
-- **Prexix for food description**
-- **Prexix for food note**
+## Description
+Customize the text, that will be displayed before the data.
+
+## Where to find the option
+{% include locate_option.html category_icon="text_fields" category_name="Prefixes of texts" option_icon="text_fields" option_name="Prefix for ..." %}
+
+## List of options
+- **Prefix for order note**
+- **Prefix for deal**
+- **Prefix for item**
+- **Prefix for addition**
+- **Prefix for ingredient**
+- **Prefix for food description**
+- **Prefix for food note**
 
 {% include img.html name="settings_prefixes_of_texts_how_to_use_1.png" %}
 

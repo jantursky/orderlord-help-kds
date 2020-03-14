@@ -11,8 +11,15 @@ permalink: /list-of-settings/general-section/keep-the-screen-on
 # Keep the screen on
 {: .no_toc }
 
+1. TOC
+{:toc}
+
 ---
 
-Description.
+## Description
+Do not turn off the screen even if the device has activated sleep mode.
+
+## Where to find the option
+{% include locate_option.html category_icon="settings" category_name="General" option_icon="brightness_high" option_name="Keep the screen on" %}
 
 {% include img.html name="settings_keep_screen_on_1.png" %}

@@ -11,9 +11,16 @@ permalink: /list-of-settings/data-section/display-item-description
 # Display item description
 {: .no_toc }
 
+1. TOC
+{:toc}
+
 ---
 
-Description.
+## Description
+The item description will be displayed under the item
+
+## Where to find the option
+{% include locate_option.html category_icon="label" category_name="Data" option_icon="visibility" option_name="Display item description" %}
 
 {% include img.html name="settings_display_item_description_1.png" %}
 

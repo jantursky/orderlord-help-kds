@@ -11,9 +11,16 @@ permalink: /list-of-settings/design-section/display-statistics-header
 # Display statistics header
 {: .no_toc }
 
+1. TOC
+{:toc}
+
 ---
 
-Description.
+## Description
+The header is located above the list of meals and contains information information about the current number of orders and their distribution by type
+
+## Where to find the option
+{% include locate_option.html category_icon="palette" category_name="Design" option_icon="visibility" option_name="Display statistics header" %}
 
 {% include img.html name="settings_display_statistics_header_1.png" %}
 

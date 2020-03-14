@@ -11,20 +11,27 @@ permalink: /list-of-settings/general-section/screen-orientation
 # Screen orientation
 {: .no_toc }
 
+1. TOC
+{:toc}
+
 ---
 
-## List of options:
-1. **Portrait**
-1. **Portrait Sensor**
-1. **Landscape**
-1. **Landscape Sensor**
-1. **Sensor**
-1. **Full sensor**
-1. **Full user**
-1. **No sensor**
+## Description
+Adjust fixed orientation or by the sensor for the device screen
+
+## List of options
+1. **Portrait** - the screen orientation of the application will be _fixed to Portrait_ angle.
+1. **Portrait Sensor** - same as **Portrait**, but will allow to rotate even to opposite side of the angle (180°)
+1. **Landscape** - the screen orientation of the application will be _fixed to Landscape_ angle.
+1. **Landscape Sensor** - same as **Landscape**, but will allow to rotate even to opposite side of the angle (180°)
+1. **Sensor** - the device will change the orientation depending on it's angle. The orientation will be changed automatically.
+1. **Full sensor** - same as **Sensor**, in the all 4 angles
+1. **Full user** - use the user's current preferred orientation of the handset. 
+1. **No sensor** - the orientation of the device will be not changed
 
 {% include img.html name="settings_screen_orientation_1.png" %}
 
-{% include img.html name="settings_screen_orientation_2.png" %}
+## Where to find the option
+{% include locate_option.html category_icon="settings" category_name="General" option_icon="screen_rotation" option_name="Screen orientation" %}
 
-{% include img.html name="settings_screen_orientation_3.png" %}
+{% include img.html name="settings_screen_orientation_2.png" %}

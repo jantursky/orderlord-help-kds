@@ -11,9 +11,16 @@ permalink: /list-of-settings/general-section/text-size
 # Text size
 {: .no_toc }
 
+1. TOC
+{:toc}
+
 ---
 
-Description.
+## Description.
+Adjust the size of every text in the application. <span class="text-red-200">Imprortant message - the sizes of the text in the list/grid, where are displaying the orders and meals will not change. [It's separate setting for that purpose.]({{site.baseurl}}{% link docs/list-of-settings/design-section/text-size-in-the-list.md %})</span>
+
+## Where to find the option
+{% include locate_option.html category_icon="settings" category_name="General" option_icon="text_fields" option_name="Text size" %}
 
 {% include img.html name="settings_text_size_1.png" %}
 

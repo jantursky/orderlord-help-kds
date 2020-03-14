@@ -11,9 +11,16 @@ permalink: /list-of-settings/design-section/text-size-in-the-list
 # Text size in the list
 {: .no_toc }
 
+1. TOC
+{:toc}
+
 ---
 
-Description.
+## Description
+Adjust the size of every text in the list on the main screen
+
+## Where to find the option
+{% include locate_option.html category_icon="palette" category_name="Design" option_icon="text_fields" option_name="Text size in the list" %}
 
 {% include img.html name="settings_text_size_in_the_list_1.png" %}
 

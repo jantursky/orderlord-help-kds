@@ -11,9 +11,18 @@ permalink: /list-of-settings/data-section/station-profile
 # Station profile
 {: .no_toc }
 
+1. TOC
+{:toc}
+
 ---
 
-## List of options:
+## Description
+How to change the state of a meal by clicking on a row
+
+## Where to find the option
+{% include locate_option.html category_icon="label" category_name="Data" option_icon="playlist_play" option_name="Station profile" %}
+
+## List of options
 - **Without change -> Cooked -> Prepared**
 - **Without change -> Cooked**
 - **Without change -> Prepared**

@@ -11,9 +11,18 @@ permalink: /list-of-settings/receipt-printer-section/printer-customization
 # Printer customization
 {: .no_toc }
 
+1. TOC
+{:toc}
+
 ---
 
-## List of brands:
+## Description
+Customization of the brand, model, connection type and other settings
+
+## Where to find the option
+{% include locate_option.html category_icon="receipt" category_name="Receipt printer" option_icon="settings" option_name="Printer customization" %}
+
+## List of brands
 - **AURES** - USB
 - **STAR** - Wi-Fi, Bluetooth, LAN
 	- **Printer series** - MPOP, FVP10, TSP100, TSP650II, TSP700II, TSP800II, SP700, SM-S210I, SM-S220I, SM-S230I, SM-T300/T300, SM-T400I, SM-L200, BSC10, SM-S210I STARTPRNT, SM-S220I STARTPRNT, SM-S230I STARTPRNT, SM-S300I STARTPRNT, SM-S400I STARTPRNT, SM-L300, MC-PRINT2, MC-PRINT3

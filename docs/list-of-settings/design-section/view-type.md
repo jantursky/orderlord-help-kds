@@ -11,9 +11,18 @@ permalink: /list-of-settings/design-section/view-type
 # View type
 {: .no_toc }
 
+1. TOC
+{:toc}
+
 ---
 
-## The list of supported languages:
+## Description
+Adjust the design of the list
+
+## Where to find the option
+{% include locate_option.html category_icon="palette" category_name="Design" option_icon="palette" option_name="Colors" %}
+
+## The list of views
 - **Vertical List View**
 - **Vertical List View + Quick Collect Panel**
 - **Vertical List View + Food summary**

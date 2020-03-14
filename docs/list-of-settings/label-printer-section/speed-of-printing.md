@@ -11,9 +11,18 @@ permalink: /list-of-settings/label-printer-section/speed-of-printing
 # Speed of printing
 {: .no_toc }
 
+1. TOC
+{:toc}
+
 ---
 
-## List of options:
+## Description
+Choose a connection speed to the printer with additional connection control
+
+## Where to find the option
+{% include locate_option.html category_icon="label" category_name="Label printer" option_icon="access_time" option_name="Speed of printing" %}
+
+## List of options
 1. **Slow**
 1. **Fast**
 

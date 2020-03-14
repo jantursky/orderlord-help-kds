@@ -11,9 +11,16 @@ permalink: /list-of-settings/data-section/order-identifier
 # Order identifier
 {: .no_toc }
 
+1. TOC
+{:toc}
+
 ---
 
-Description.
+## Description
+Set what type of ID to show for each order
+
+## Where to find the option
+{% include locate_option.html category_icon="label" category_name="Data" option_icon="text_fields" option_name="Order identifier" %}
 
 {% include img.html name="settings_order_identifier_1.png" %}
 

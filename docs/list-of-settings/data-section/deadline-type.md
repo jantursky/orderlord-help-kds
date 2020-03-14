@@ -11,9 +11,18 @@ permalink: /list-of-settings/data-section/deadline-type
 # Deadline type
 {: .no_toc }
 
+1. TOC
+{:toc}
+
 ---
 
-## List of options:
+## Description
+Set what type of ID to show for each order
+
+## Where to find the option
+{% include locate_option.html category_icon="label" category_name="Data" option_icon="timer" option_name="Deadline type" %}
+
+## List of options
 - **Time**
 - **Cound Down**
 - **Count Up**

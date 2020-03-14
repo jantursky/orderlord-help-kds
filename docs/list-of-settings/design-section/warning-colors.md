@@ -11,9 +11,16 @@ permalink: /list-of-settings/design-section/warning-colors
 # Warning colors
 {: .no_toc }
 
+1. TOC
+{:toc}
+
 ---
 
-Description.
+## Description
+Customize the background colors of orders that change based on the current time
+
+## Where to find the option
+{% include locate_option.html category_icon="palette" category_name="Design" option_icon="palette" option_name="Warning colors" %}
 
 {% include img.html name="settings_warning_colors_1.png" %}
 

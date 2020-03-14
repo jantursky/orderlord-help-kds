@@ -11,9 +11,16 @@ permalink: /list-of-settings/label-printer-section/automatic-printer-discovery
 # Automatic printer discovery
 {: .no_toc }
 
+1. TOC
+{:toc}
+
 ---
 
-Description.
+## Description
+Search for Zebra devices connected to the same network (as long as the network is enabled to see other devices on the network)
+
+## Where to find the option
+{% include locate_option.html category_icon="label" category_name="Label printer" option_icon="search" option_name="Automatic printer discovery" %}
 
 {% include img.html name="settings_label_printer_automatic_printer_discovery_1.png" %}
 

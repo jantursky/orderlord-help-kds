@@ -11,9 +11,18 @@ permalink: /list-of-settings/logic-of-texts-section/name-vs-short-name
 # Name vs. Short name
 {: .no_toc }
 
+1. TOC
+{:toc}
+
 ---
 
-## List of options:
+## Description
+Customize, what type of the name of the item should be displayed and where
+
+## Where to find the option
+{% include locate_option.html category_icon="text_fields" category_name="Logic of texts" option_icon="text_fields" option_name="Name vs. Short Name" %}
+
+## List of options
 - **In the application**
 - **On the receipt**
 - **On the kitchen receipt**

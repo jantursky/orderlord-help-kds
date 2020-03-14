@@ -11,9 +11,18 @@ permalink: /list-of-settings/data-section/maximum-orders-to-display
 # Maximum orders to display
 {: .no_toc }
 
+1. TOC
+{:toc}
+
 ---
 
-## List of options:
+## Description
+Set the number of orders that will be displayed on the main screen
+
+## Where to find the option
+{% include locate_option.html category_icon="label" category_name="Data" option_icon="format_list_numbered" option_name="Maximum orders to display" %}
+
+## List of options
 1. Unlimited
 1. 1-15 orders
 

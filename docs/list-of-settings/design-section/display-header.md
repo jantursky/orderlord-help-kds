@@ -11,9 +11,16 @@ permalink: /list-of-settings/design-section/display-header
 # Display header
 {: .no_toc }
 
+1. TOC
+{:toc}
+
 ---
 
-Description.
+## Description
+If the header is hidden, the only way to open the menu is swipe the left side to the right
+
+## Where to find the option
+{% include locate_option.html category_icon="palette" category_name="Design" option_icon="visibility" option_name="Display header" %}
 
 {% include img.html name="settings_display_header_1.png" %}
 

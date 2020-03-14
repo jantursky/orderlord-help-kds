@@ -11,9 +11,16 @@ permalink: /list-of-settings/receipt-printer-section/test-print
 # Test print
 {: .no_toc }
 
+1. TOC
+{:toc}
+
 ---
 
-Description.
+## Description
+Print a test receipt if all necessary data is set depending on the connection type
+
+## Where to find the option
+{% include locate_option.html category_icon="receipt" category_name="Receipt printer" option_icon="receipt" option_name="Test print" %}
 
 {% include img.html name="settings_receipt_printer_test_print_1.png" %}
 

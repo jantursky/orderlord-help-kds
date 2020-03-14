@@ -11,9 +11,18 @@ permalink: /list-of-settings/data-section/additional-data-in-note
 # Additional data in 'Note'
 {: .no_toc }
 
+1. TOC
+{:toc}
+
 ---
 
-## List of options:
+## Description
+Additional data that will appear in the order information line
+
+## Where to find the option
+{% include locate_option.html category_icon="label" category_name="Data" option_icon="list" option_name="Additional data in 'Note'" %}
+
+## List of options
 - **Customer name**
 - **Customer address**
 

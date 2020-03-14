@@ -11,9 +11,18 @@ permalink: /list-of-settings/date-time-section/how-to-use
 # How to use
 {: .no_toc }
 
+1. TOC
+{:toc}
+
 ---
 
-## List of options:
+## Description
+
+
+## Where to find the option
+{% include locate_option.html category_icon="event_note" category_name="Date/time" option_icon="event_note" option_name="Date + time" %}
+
+## List of options
 - **Date + time - format**
 - **Date + time - long format**
 - **Date - long format**

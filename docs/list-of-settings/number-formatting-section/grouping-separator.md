@@ -11,9 +11,18 @@ permalink: /list-of-settings/number-formatting-section/grouping-separator
 # Grouping separator
 {: .no_toc }
 
+1. TOC
+{:toc}
+
 ---
 
-## List of options:
+## Description
+Determine, what separator should be between every triple of numbers (e.g. 1 248 or 1,248)
+
+## Where to find the option
+{% include locate_option.html category_icon="looks_one" category_name="Number formatting" option_icon="looks_one" option_name="Grouping separator" %}
+
+## List of options
 1. **Space**
 1. **Without separator**
 1. **Comma ,**

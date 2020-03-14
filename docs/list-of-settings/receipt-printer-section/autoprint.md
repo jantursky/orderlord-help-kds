@@ -11,8 +11,15 @@ permalink: /list-of-settings/receipt-printer-section/autoprint
 # Autoprint
 {: .no_toc }
 
+1. TOC
+{:toc}
+
 ---
 
-Description.
+## Description
+If enabled, the printer will print the order automatically
+
+## Where to find the option
+{% include locate_option.html category_icon="receipt" category_name="Receipt printer" option_icon="print" option_name="Autoprint" %}
 
 {% include img.html name="settings_receipt_printer_autoprint_1.png" %}

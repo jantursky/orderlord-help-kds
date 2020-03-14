@@ -11,9 +11,16 @@ permalink: /list-of-settings/design-section/fonts
 # Fonts
 {: .no_toc }
 
+1. TOC
+{:toc}
+
 ---
 
-Description.
+## Description
+Customize fonts for the texts in the list
+
+## Where to find the option
+{% include locate_option.html category_icon="palette" category_name="Design" option_icon="font_download" option_name="Fonts" %}
 
 {% include img.html name="settings_fonts_1.png" %}
 

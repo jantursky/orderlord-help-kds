@@ -11,9 +11,16 @@ permalink: /list-of-settings/receipt-printer-section/kitchen-reprint-design
 # Kitchen reprint design
 {: .no_toc }
 
+1. TOC
+{:toc}
+
 ---
 
-Description.
+## Description
+
+
+## Where to find the option
+{% include locate_option.html category_icon="receipt" category_name="Receipt printer" option_icon="format_list_numbered" option_name="Kitchen reprint design" %}
 
 {% include img.html name="settings_receipt_printer_kitchen_reprint_design_1.png" %}
 

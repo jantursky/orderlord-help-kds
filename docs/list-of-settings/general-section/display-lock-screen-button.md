@@ -11,9 +11,16 @@ permalink: /list-of-settings/general-section/display-lock-screen-button
 # Display Lock screen button
 {: .no_toc }
 
+1. TOC
+{:toc}
+
 ---
 
-Description.
+## Description
+To unlock, use your password or PIN.
+
+## Where to find the option
+{% include locate_option.html category_icon="settings" category_name="General" option_icon="lock" option_name="Display Lock screen button" %}
 
 {% include img.html name="settings_display_lock_screen_button_1.png" %}
 

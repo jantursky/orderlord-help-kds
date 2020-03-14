@@ -11,9 +11,18 @@ permalink: /list-of-settings/number-formatting-section/decimal-separator
 # Decimal separator
 {: .no_toc }
 
+1. TOC
+{:toc}
+
 ---
 
-## List of options:
+## Description
+Determine, what separator should be between decimal and integer (e.g. 1,248.56 or 1,248,56)
+
+## Where to find the option
+{% include locate_option.html category_icon="looks_one" category_name="Number formatting" option_icon="looks_one" option_name="Decimal separator" %}
+
+## List of options
 1. **Comma ,**
 1. **Dot .**
 

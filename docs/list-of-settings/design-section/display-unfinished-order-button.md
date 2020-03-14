@@ -11,9 +11,17 @@ permalink: /list-of-settings/design-section/display-unfinished-order-button
 # Display 'Unfinished order' button
 {: .no_toc }
 
+1. TOC
+{:toc}
+
 ---
 
-Description.
+
+## Description
+The button is displayed if there are unfinished orders in the list where the food has started cooking
+
+## Where to find the option
+{% include locate_option.html category_icon="palette" category_name="Design" option_icon="visibility" option_name="Display 'Unfinished order' button" %}
 
 {% include img.html name="settings_display_unfinished_order_button_1.png" %}
 

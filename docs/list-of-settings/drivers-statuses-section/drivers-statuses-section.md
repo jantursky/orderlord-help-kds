@@ -25,7 +25,7 @@ permalink: /list-of-settings/drivers-statuses-section
 - [Filter orders by selected drivers]({{site.baseurl}}{% link docs/list-of-settings/drivers-statuses-section/filter-orders-by-selected-drivers.md %})
 - [Display status icon]({{site.baseurl}}{% link docs/list-of-settings/drivers-statuses-section/display-status-icon.md %})
 
-## Where to find the option
+## Where to find the category
 - Open the menu from the left side and find {% include icon.html name="settings" %} [**Settings**]({{site.baseurl}}{% link docs/list-of-settings/list-of-settings.md %}) section
 - After clicking on this section, the new screen with be displayed. Click on the {% include icon.html name="settings" %} **Customization** category
 - The list of the settings under this category will be displayed, and you could see, what is the current path, where are you at the moment ({% include icon.html name="home" %} **HOME** {% include icon.html name="chevron_right" %} {% include icon.html name="settings" %} **CUSTOMIZATION**)

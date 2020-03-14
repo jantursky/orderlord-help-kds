@@ -11,9 +11,18 @@ permalink: /list-of-settings/label-printer-section/time-of-printing-label
 # Time of printing label
 {: .no_toc }
 
+1. TOC
+{:toc}
+
 ---
 
-## List of options:
+## Description
+The label will start printing in a specific moment
+
+## Where to find the option
+{% include locate_option.html category_icon="label" category_name="Label printer" option_icon="access_time" option_name="Time of printing label" %}
+
+## List of options
 1. **Food is cooked**
 1. **Food is prepared**
 1. **Only manually printing**

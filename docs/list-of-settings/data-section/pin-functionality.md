@@ -11,9 +11,18 @@ permalink: /list-of-settings/data-section/pin-functionality
 # PIN functionality
 {: .no_toc }
 
+1. TOC
+{:toc}
+
 ---
 
-## List of options:
+## Description
+How to organize deliveries and orders in the list
+
+## Where to find the option
+{% include locate_option.html category_icon="label" category_name="Data" option_icon="move_to_inbox" option_name="PIN functionality" %}
+
+## List of options
 1. Disabled
 1. By orders
 1. By deliveries + time

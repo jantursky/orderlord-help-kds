@@ -11,9 +11,18 @@ permalink: /list-of-settings/label-printer-section/label-quantity
 # Label quantity
 {: .no_toc }
 
+1. TOC
+{:toc}
+
 ---
 
-## List of options:
+## Description
+Set the number of labels to print depending on the amount of food
+
+## Where to find the option
+{% include locate_option.html category_icon="label" category_name="Label printer" option_icon="label" option_name="Label quantity" %}
+
+## List of options
 1. **Single label for every item**
 1. **Labels per quantity of an item**
 
