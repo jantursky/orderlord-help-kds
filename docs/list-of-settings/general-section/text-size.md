@@ -16,7 +16,7 @@ permalink: /list-of-settings/general-section/text-size
 
 ---
 
-## Description.
+## Description
 Adjust the size of every text in the application. Once the user select new size, the application will be restarted and changed to the new text size. <span class="text-red-200">Important message - the sizes of the text in the list/grid, where are displaying the orders and meals will not change. [It's separate setting for that purpose.]({{site.baseurl}}{% link docs/list-of-settings/design-section/text-size-in-the-list.md %})</span>
 
 ## Where to find the option
