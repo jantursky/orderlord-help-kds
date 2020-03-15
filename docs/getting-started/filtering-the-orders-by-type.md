@@ -26,9 +26,8 @@ The cook has the option to dynamically filter the orders by order type, if it's 
 - the cook can't disable all order types, because they will be not displayed any results 
 
 ## Warning
-Depending on the allowed order types from [**the settings section.**]({{site.baseurl}}{% link docs/list-of-settings/data-section/order-types.md %}), specific order types will be displayed at all.
+Depending on the allowed order types from [**the settings section**]({{site.baseurl}}{% link docs/list-of-settings/data-section/order-types.md %}), specific order types will be displayed at all.
 
+{% include img.html name="view_list_6_v3.png" %}
 
-{% include img.html name="view_list_6.png" %}
-
-{% include img.html name="view_list_8.png" %}
+{% include img.html name="view_list_8_v2.png" %}

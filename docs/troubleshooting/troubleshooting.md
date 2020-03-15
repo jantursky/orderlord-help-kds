@@ -20,5 +20,3 @@ permalink: /troubleshooting
 - [Sound issues]({{site.baseurl}}{% link docs/troubleshooting/sound-issues.md %})
 - [Printer issues]({{site.baseurl}}{% link docs/troubleshooting/printer-issues.md %})
 - [Report your problem]({{site.baseurl}}{% link docs/troubleshooting/report-your-problem.md %})
-
-{% include img.html name="section_kitchen_history_1.png" %}

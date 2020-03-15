@@ -20,18 +20,18 @@ permalink: /list-of-settings/general-section/application-language
 The application will restaurt automatically when you change the language. If the change did not occur, set the same language on your device.
 
 ## The list of supported languages
-- {% include img_single.html name="flags/flag_ar.png" %} **ربى - Arabic (ar)**
-- {% include img_single.html name="flags/flag_us.png" %} **English (en)** 
-- {% include img_single.html name="flags/flag_cz.png" %} **Čeština - Czech (cs)**
-- {% include img_single.html name="flags/flag_de.png" %} **Deutsch - German (de)**
-- {% include img_single.html name="flags/flag_es.png" %} **Español - Spanish (es)**
-- {% include img_single.html name="flags/flag_fr.png" %} **Français - French (fr)**
-- {% include img_single.html name="flags/flag_it.png" %} **Italiano - Italian (it)**
-- {% include img_single.html name="flags/flag_sk.png" %} **Slovenčina - Slovak (sk)**
-- {% include img_single.html name="flags/flag_bg.png" %} **български - Bulgarian (bg)**
-- {% include img_single.html name="flags/flag_hr.png" %} **Hrvatski - Croatian (hr)**
-- {% include img_single.html name="flags/flag_ua.png" %} **Український - Ukrainian (uk)**
-- {% include img_single.html name="flags/flag_ru.png" %} **Русский - Russian (ru)**
+- {% include img_single_not_clickable.html name="flags/flag_ar.png" %} **ربى - Arabic (ar)**
+- {% include img_single_not_clickable.html name="flags/flag_us.png" %} **English (en)** 
+- {% include img_single_not_clickable.html name="flags/flag_cz.png" %} **Čeština - Czech (cs)**
+- {% include img_single_not_clickable.html name="flags/flag_de.png" %} **Deutsch - German (de)**
+- {% include img_single_not_clickable.html name="flags/flag_es.png" %} **Español - Spanish (es)**
+- {% include img_single_not_clickable.html name="flags/flag_fr.png" %} **Français - French (fr)**
+- {% include img_single_not_clickable.html name="flags/flag_it.png" %} **Italiano - Italian (it)**
+- {% include img_single_not_clickable.html name="flags/flag_sk.png" %} **Slovenčina - Slovak (sk)**
+- {% include img_single_not_clickable.html name="flags/flag_bg.png" %} **български - Bulgarian (bg)**
+- {% include img_single_not_clickable.html name="flags/flag_hr.png" %} **Hrvatski - Croatian (hr)**
+- {% include img_single_not_clickable.html name="flags/flag_ua.png" %} **Український - Ukrainian (uk)**
+- {% include img_single_not_clickable.html name="flags/flag_ru.png" %} **Русский - Russian (ru)**
 
 ## Where to find the option
 {% include locate_option.html category_icon="settings" category_name="General" option_icon="translate" option_name="Application language" %}

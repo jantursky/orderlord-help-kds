@@ -39,20 +39,20 @@ Once the user is logged into the application, the **Kitchen section** is display
 {% include img.html name="how_to_use_kitchen_screen_1.png" %}
 
 ## Description of the information in the list
-1. **New orders/Table number/Specific delivery** - header informing about a group of orders which belong to the specific delivery, under the same table or aren't assigned.
-1. **Finishing order's time** - time, when the order should be finished (delivered to the customer), handed over the customer in the store once he will arrive or finished the order for the customer in the store.
-1. **Order type icon** - determining if the order is **delivery order** {% include icon.html name="motorcycle" %}, **collection order** {% include icon.html name="room_service" %} or **store order** {% include icon.html name="store" %}
-1. **Order counter** - internal counter of the order in the system. The counter is starting from **001** from the beginning of the day. Every other order has increased counter.
-1. **Timed order** - red indicator <span class="text-red-200">**!**</span>, which is used for the purposes, if the customer wants his order to be delivered/finished in the specific time.
-1. **Name of the item** - the item could be **a meal**, **a meal with variable price** or **pizza**
-1. **Quantity of the item** - how many pieces of this item are ordered
-1. **Cooked/prepared quantity** - how many pieces of this item are <span class="text-orange-200">**cooked**</span>/<span class="text-green-200">**prepared**</span> depending on the colored circle
-1. **Cooked/prepared indicator** - <span class="text-orange-200">**cooked**</span> or <span class="text-green-200">**prepared**</span> indicator
-1. **Item note** - additional note added to the item
-1. **Item's additions** - additional additions added to the item also with the added quantity
-1. **Item's ingredients** - additional ingredients removed from the item
-1. **Cooked label** - <span class="text-orange-200">**this orange label**</span> indicated, that the specific meal was cooked in the kitchen
-1. **Prepared label** - <span class="text-green-200">**this green label**</span> indicated, that the specific meal was prepared in the kitchen
+{% include data_info/data_info_new_orders_table_number_specific_delivery.html %}
+{% include data_info/data_info_finishing_orders_time.html %}
+{% include data_info/data_info_order_type_icon.html %}
+{% include data_info/data_info_order_counter.html %}
+{% include data_info/data_info_timed_order.html %}
+{% include data_info/data_info_name_of_the_item.html %}
+{% include data_info/data_info_quantity_of_the_item.html %}
+{% include data_info/data_info_cooked_prepared_quantity.html %}
+{% include data_info/data_info_cooked_prepared_indicator.html %}
+{% include data_info/data_info_item_note.html %}
+{% include data_info/data_info_items_additions.html %}
+{% include data_info/data_info_items_ingredients.html %}
+{% include data_info/data_info_cooked_label.html %}
+{% include data_info/data_info_prepared_label.html %}
 
 {% include img.html name="how_to_use_kitchen_screen_1_v2.png" %}
 

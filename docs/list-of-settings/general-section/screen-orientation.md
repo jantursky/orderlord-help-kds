@@ -17,7 +17,7 @@ permalink: /list-of-settings/general-section/screen-orientation
 ---
 
 ## Description
-Adjust fixed orientation or by the sensor for the device screen
+Adjust fixed orientation or by the sensor for the device screen. The screen will be adjusted automatically after selected one of the option.
 
 ## List of options
 1. **Portrait** - the screen orientation of the application will be _fixed to Portrait_ angle.

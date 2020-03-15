@@ -22,6 +22,9 @@ To unlock, use your password or PIN.
 ## Where to find the option
 {% include locate_option.html category_icon="settings" category_name="General" option_icon="lock" option_name="Display Lock screen button" %}
 
+## How to use
+By clicking on the option, the new icon <span class="text-red-200">{% include icon.html name="lock" %}</span> will be displayed in the header bar (top right corner). Once you click on this icon, **locking screen will be displayed**. You could unlock this screen with PIN (if it's setup for the user) or password.
+
 {% include img.html name="settings_display_lock_screen_button_1.png" %}
 
 {% include img.html name="settings_display_lock_screen_button_2.png" %}

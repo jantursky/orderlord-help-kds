@@ -17,7 +17,7 @@ permalink: /list-of-settings/general-section/keep-the-screen-on
 ---
 
 ## Description
-Do not turn off the screen even if the device has activated sleep mode.
+Do not turn off the screen even if the device has activated sleep mode. Once the option was selected, the application will activate this setting, and keep turned on the screen.
 
 ## Where to find the option
 {% include locate_option.html category_icon="settings" category_name="General" option_icon="brightness_high" option_name="Keep the screen on" %}
