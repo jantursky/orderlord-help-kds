@@ -70,7 +70,6 @@ Adjust the design of the list. The orders and meals, that are displayed are disp
 {% include img.html name="view_food_summary_1.png" %}
 
 - **Grid View** - this view is displaying orders in the grid view. Every order is stacked from left to the right, once it reached the end of the line, jumps to the next row, again from left to right. If the order has more item than is the height of the grid **block**, then the rest items are displaying in the next block on the right. Description of the design:
-	{% include data_info/data_info_new_orders_table_number_specific_delivery.html %}
 	{% include data_info/data_info_finishing_orders_time.html %}
 	{% include data_info/data_info_order_type_icon.html %}
 	{% include data_info/data_info_order_counter.html %}
