@@ -17,6 +17,7 @@ permalink: /list-of-settings/receipt-printer-section/kitchen-reprint-design
 ---
 
 ## Description
+The user could customize design and the information on the kitchen receipt, which will be printed. Text size, text style and text case style are adjustable.
 
 
 ## Where to find the option

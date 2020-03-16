@@ -17,7 +17,7 @@ permalink: /list-of-settings/receipt-printer-section/receipt-design
 ---
 
 ## Description
-
+The user could customize design and the information on the receipt, which will be printed. Text size, text style and text case style are adjustable.
 
 ## Where to find the option
 {% include locate_option.html category_icon="receipt" category_name="Receipt printer" option_icon="format_list_numbered" option_name="Receipt design" %}

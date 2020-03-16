@@ -22,6 +22,12 @@ Order drivers by selected parameter
 ## Where to find the option
 {% include locate_option.html category_icon="directions_car" category_name="Drivers' statuses" option_icon="filter_list" option_name="Sorting drivers" %}
 
+## List of options
+- **Estimated arrival time** - time of the arrival of the driver to the customer
+- **Last online time** - the last time, when the courier was online
+- **Last measured time** - the last time, when the courier GPS position was measured
+- **Name and surname**
+
 {% include img.html name="settings_drivers_statuses_section_sorting_drivers_1.png" %}
 
 {% include img.html name="settings_drivers_statuses_section_sorting_drivers_2.png" %}

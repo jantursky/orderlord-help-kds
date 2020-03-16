@@ -17,7 +17,7 @@ permalink: /list-of-settings/receipt-printer-section/empty-lines-at-the-start-en
 ---
 
 ## Description
-
+Determine, how many empty lines should be printed before the first text line and after the last text line
 
 ## Where to find the option
 {% include locate_option.html category_icon="receipt" category_name="Receipt printer" option_icon="format_list_numbered" option_name="Empty lines at the start/end" %}

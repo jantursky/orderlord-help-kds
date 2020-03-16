@@ -22,11 +22,17 @@ Customize, what type of the name of the item should be displayed and where
 ## Where to find the option
 {% include locate_option.html category_icon="text_fields" category_name="Logic of texts" option_icon="text_fields" option_name="Name vs. Short Name" %}
 
-## List of options
+## List of place
 - **In the application**
 - **On the receipt**
 - **On the kitchen receipt**
 - **On the label**
+
+## List of options
+- **Name** - (for instance "True Traditional Neapolitan Margherita Pizza")
+- **Short name (if exists)** - (for instance "Margherita")
+- **Short name + Name** - (for instance "Margherita + True Traditional Neapolitan Margherita Pizza")
+- **Name + Short name** - (for instance "True Traditional Neapolitan Margherita Pizza + Margherita")
 
 {% include img.html name="settings_logic_of_texts_name_vs_short_name_1.png" %}
 

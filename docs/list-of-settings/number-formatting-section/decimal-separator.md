@@ -23,8 +23,8 @@ Determine, what separator should be between decimal and integer (e.g. 1,248.56 o
 {% include locate_option.html category_icon="looks_one" category_name="Number formatting" option_icon="looks_one" option_name="Decimal separator" %}
 
 ## List of options
-1. **Comma ,**
-1. **Dot .**
+1. **Comma ,** - the format is **"1 248,56"**
+1. **Dot .** - the format is **"1 248.56"**
 
 {% include img.html name="settings_number_formatting_section_decimal_separator_1.png" %}
 

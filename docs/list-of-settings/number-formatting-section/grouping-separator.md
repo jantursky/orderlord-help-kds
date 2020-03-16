@@ -23,12 +23,12 @@ Determine, what separator should be between every triple of numbers (e.g. 1 248 
 {% include locate_option.html category_icon="looks_one" category_name="Number formatting" option_icon="looks_one" option_name="Grouping separator" %}
 
 ## List of options
-1. **Space**
-1. **Without separator**
-1. **Comma ,**
-1. **Dot .**
-1. **Dash -**
-1. **Underscore _**
+1. **Space** - the format is **"1 248"**
+1. **Without separator** - the format is **"1248"**
+1. **Comma ,** - the format is **"1,248"**
+1. **Dot .** - the format is **"1.248"**
+1. **Dash -** - the format is **"1-248"**
+1. **Underscore _** - the format is **"1_248"**
 
 {% include img.html name="settings_number_formatting_section_grouping_separator_1.png" %}
 {% include img.html name="settings_number_formatting_section_grouping_separator_2.png" %}

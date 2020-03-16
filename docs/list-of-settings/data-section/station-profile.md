@@ -23,10 +23,10 @@ How to change the state of a meal by clicking on a row
 {% include locate_option.html category_icon="label" category_name="Data" option_icon="playlist_play" option_name="Station profile" %}
 
 ## List of options
-- **Without change -> Cooked -> Prepared**
-- **Without change -> Cooked**
-- **Without change -> Prepared**
-- **Cooked -> Prepared**
+- **Without change -> Cooked -> Prepared** - when you click on the row with the food, the food status changes from <span class="text-grey-dk-100">**Without change status**</span> to <span class="text-orange-200">**Cooked status**</span> (the number of clicks depends on the amount of food). Subsequently, the status changes from <span class="text-orange-200">**Cooked status**</span> to <span class="text-green-200">**Prepared status**</span>.
+- **Without change -> Cooked** - when you click on the row with the food, the food status changes from <span class="text-grey-dk-100">**Without change status**</span> to <span class="text-orange-200">**Cooked status**</span> (the number of clicks depends on the amount of food).
+- **Without change -> Prepared** - when you click on the row with the food, the food status changes from <span class="text-grey-dk-100">**Without change status**</span> to <span class="text-green-200">**Prepared status**</span> (the number of clicks depends on the amount of food).
+- **Cooked -> Prepared** - when you click on the row with the food, the food status changes from <span class="text-orange-200">**Cooked status**</span> to <span class="text-green-200">**Prepared status**</span> (the number of clicks depends on the amount of food).
 
 {% include img.html name="settings_station_profile_1.png" %}
 

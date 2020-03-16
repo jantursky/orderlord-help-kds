@@ -23,9 +23,9 @@ Show a specific time when the driver is ready for delivery or is in restaurant
 {% include locate_option.html category_icon="directions_car" category_name="Drivers' statuses" option_icon="access_time" option_name="Courier time type" %}
 
 ## List of options
-- **Estimated arrival time**
-- **Last online time**
-- **Last measured time**
+- **Estimated arrival time** - time of the arrival of the driver to the customer
+- **Last online time** - the last time, when the courier was online
+- **Last measured time** - the last time, when the courier GPS position was measured
 
 {% include img.html name="settings_drivers_statuses_section_courier_time_type_1.png" %}
 

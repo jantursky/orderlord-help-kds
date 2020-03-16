@@ -17,7 +17,7 @@ permalink: /list-of-settings/receipt-printer-section/characters-per-line
 ---
 
 ## Description
-
+Depending on the vendor and model of the printer, you need to set up a number of characters per line. The default value is 42 characters but you need to check that depending on the setup of your printer.
 
 ## Where to find the option
 {% include locate_option.html category_icon="receipt" category_name="Receipt printer" option_icon="format_list_numbered" option_name="Characters per line" %}

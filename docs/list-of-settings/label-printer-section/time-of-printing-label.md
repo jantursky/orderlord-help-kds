@@ -23,9 +23,10 @@ The label will start printing in a specific moment
 {% include locate_option.html category_icon="label" category_name="Label printer" option_icon="access_time" option_name="Time of printing label" %}
 
 ## List of options
-1. **Food is cooked**
-1. **Food is prepared**
-1. **Only manually printing**
+1. **Food is cooked** - once the meal is cooked, the label will be printed automatically
+1. **Food is prepared** - once the meal is prepared, the label will be printed automatically
+1. **Only manually printing** - labels will be printed only manually, once the user will select this option from the list of options for the meal. [Follow this guide]({{site.baseurl}}{% link docs/printers/receipt-printer/how-to-print-the-receipt.md %}#manual-printing)
+
 
 {% include img.html name="settings_label_printer_time_of_printing_label_1.png" %}
 
