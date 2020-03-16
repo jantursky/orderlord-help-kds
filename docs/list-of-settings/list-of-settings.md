@@ -10,7 +10,7 @@ permalink: /list-of-settings
 # List of Settings
 {: .no_toc }
 
-LIST OF SECTIONS:
+LIST OF SECTIONS
 - [General section]({{site.baseurl}}{% link docs/list-of-settings/general-section/general-section.md %})
 - [Design section]({{site.baseurl}}{% link docs/list-of-settings/design-section/design-section.md %})
 - [Data section]({{site.baseurl}}{% link docs/list-of-settings/data-section/data-section.md %})

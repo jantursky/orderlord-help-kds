@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Display item description
-nav_order: 17
+nav_order: 19
 parent: Data section
 grand_parent: List of Settings
 has_toc: false

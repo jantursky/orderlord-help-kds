@@ -33,8 +33,12 @@ permalink: /list-of-settings/data-section
 - [Maximum orders to display]({{site.baseurl}}{% link docs/list-of-settings/data-section/maximum-orders-to-display.md %})
 - [Additional data in 'Note']({{site.baseurl}}{% link docs/list-of-settings/data-section/additional-data-in-note.md %})
 - [Display delivery ID]({{site.baseurl}}{% link docs/list-of-settings/data-section/display-delivery-id.md %})
+- [Display brand name]({{site.baseurl}}{% link docs/list-of-settings/data-section/display-brand-name.md %})
+- [Display creator name]({{site.baseurl}}{% link docs/list-of-settings/data-section/display-creator-name.md %})
 - [Display item description]({{site.baseurl}}{% link docs/list-of-settings/data-section/display-item-description.md %})
+- [Display pickup time]({{site.baseurl}}{% link docs/list-of-settings/data-section/display-pickup-time.md %})
 - [Order identifier]({{site.baseurl}}{% link docs/list-of-settings/data-section/order-identifier.md %})
+- [Shifting of the time]({{site.baseurl}}{% link docs/list-of-settings/data-section/shifting-of-the-time.md %})
 
 ## Where to find the category
 - Open the menu from the left side and find {% include icon.html name="settings" %} [**Settings**]({{site.baseurl}}{% link docs/list-of-settings/list-of-settings.md %}) section
