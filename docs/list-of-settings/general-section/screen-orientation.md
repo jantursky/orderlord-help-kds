@@ -20,12 +20,12 @@ permalink: /list-of-settings/general-section/screen-orientation
 Adjust fixed orientation or by the sensor for the device screen. The screen will be adjusted automatically after selected one of the option.
 
 ## List of options
-1. **Portrait** - the screen orientation of the application will be _fixed to Portrait_ angle.
-1. **Portrait Sensor** - same as **Portrait**, but will allow to rotate even to opposite side of the angle (180°)
-1. **Landscape** - the screen orientation of the application will be _fixed to Landscape_ angle.
-1. **Landscape Sensor** - same as **Landscape**, but will allow to rotate even to opposite side of the angle (180°)
-1. **Sensor** - the device will change the orientation depending on it's angle. The orientation will be changed automatically.
-1. **Full sensor** - same as **Sensor**, in the all 4 angles
+1. **Portrait** - the screen orientation of the application will be _fixed to the Portrait_ angle.
+1. **Portrait Sensor** - same as **Portrait**, but will allow rotating even to the opposite side of the angle (180°)
+1. **Landscape** - the screen orientation of the application will be _fixed to the Landscape_ angle.
+1. **Landscape Sensor** - same as **Landscape**, but will allow rotating even to the opposite side of the angle (180°)
+1. **Sensor** - the device will change the orientation depending on its angle. The orientation will be changed automatically.
+1. **Full sensor** - same as **Sensor**, in all 4 angles
 1. **Full user** - use the user's current preferred orientation of the handset. 
 1. **No sensor** - the orientation of the device will be not changed
 

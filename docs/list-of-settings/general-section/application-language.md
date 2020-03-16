@@ -49,6 +49,8 @@ Once the user click on the option, the new dialog will be displayed. The list of
 
 {% include img.html name="settings_application_language_4.png" %}
 
+{% include img.html name="settings_application_language_5.png" %}
+
 ## Support your language
 To add another text translation, [visit this section.]({{site.baseurl}}{% link docs/frequently-asked-questions-faq/how-to-support-your-language.md %})
 

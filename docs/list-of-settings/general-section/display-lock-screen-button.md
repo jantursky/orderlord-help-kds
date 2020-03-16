@@ -27,6 +27,10 @@ By clicking on the option, the new icon <span class="text-red-200">{% include ic
 
 {% include img.html name="settings_display_lock_screen_button_1.png" %}
 
+- the user can change the user, who will be authenticate. He could be verified by PIN, inputting the 4 digits. If the user hasn't set up the PIN, then he needs to use the password verification.
+
 {% include img.html name="settings_display_lock_screen_button_2.png" %}
+
+- once the user types the password, he needs to click on the **LOGIN** button or click **OK** button on the virtual keyboard.
 
 {% include img.html name="settings_display_lock_screen_button_3.png" %}
