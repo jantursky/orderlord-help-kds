@@ -45,3 +45,11 @@ Customization of the brand, model, connection type and other settings
 {% include img.html name="settings_receipt_printer_customization_5.png" %}
 
 {% include img.html name="settings_receipt_printer_customization_6.png" %}
+
+- depending on the application language setup, the receipt printer will print receipts in the appropriate language
+
+{% include img.html name="settings_receipt_printer_customization_7.jpg" %}
+
+- depending on the models and characters per line, the printed receipt could have a different output
+
+{% include img.html name="settings_receipt_printer_customization_8.jpg" %}
