@@ -17,7 +17,7 @@ permalink: /getting-started/update-the-data
 ---
 
 ## Description
-The kitchen application contains the logic, that every 30 seconds, the update mechanism contacts the server and updates the orders and the meals to the latest one. But the cook has also an option for manually updating the **Kitchen screen**.
+The Kitchen application contains the logic, that every 30 seconds, the update mechanism contacts the server and updates the orders and the meals to the latest one. But the cook has also an option for manually updating the **Kitchen screen**.
 
 ## How to manually update
 There are 2 ways, how to manually update the data:

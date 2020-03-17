@@ -17,7 +17,7 @@ permalink: /getting-started/reset-the-order
 ---
 
 ## Description
-If you want to reset status for all meals for the specific order, you could do that with **Reset the order** option. That means, that even if the meal was already <span class="text-orange-200">**cooked**</span>/<span class="text-green-200">**prepared**</span>, this status will be removed from all meals of this order. Ready status for the order will be also removed.
+If you want to reset status for all meals for the specific order, you could do that with {% include icon.html name="settings_backup_restore" %} **Reset order** option. That means, that even if the meal was already <span class="text-orange-200">**cooked**</span>/<span class="text-green-200">**prepared**</span>, this status will be removed from all meals of this order. Ready status for the order will be also removed.
 
 
 ## How to do that?

@@ -26,8 +26,8 @@ So even if the cook **1.** belongs to the restaurant **"Test store"**, he is goi
 
 ## How to do that?
 - setup the menu, setup multiple brands (in this case 3) and attach this 3 brands to the store **"Test store"**
-- in the kitchen application, **update the menu** and **brands** to the latest in [**the settings section**]({{site.baseurl}}{% link docs/getting-started/update-the-data.md %})
-- find [**Brands filtering setting**]({{site.baseurl}}{% link docs/list-of-settings/data-section/tags-filter.md %}) in the settings section
+- in the Kitchen application, **update the menu** and **brands** to the latest in [**the settings section**]({{site.baseurl}}{% link docs/getting-started/update-the-data.md %})
+- find [**Brands filtering**]({{site.baseurl}}{% link docs/list-of-settings/data-section/tags-filter.md %}) setting in the settings section
 - select the brands, that the cook should see only. You could select also combination of multiple brands.
 - in the **Kitchen screen** section should be visible only orders that belong to the selected brand/brands
 

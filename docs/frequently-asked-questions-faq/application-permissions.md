@@ -16,7 +16,7 @@ permalink: /frequently-asked-questions-faq/application-permissions
 ---
 
 ## List of permission
-For the purposes of 100% usage of the app, the kitchen application requires these permissions:
+For the purposes of 100% usage of the app, the Kitchen application requires these permissions:
 - **Internet/Access network state/Access wifi state** - check, if the connection with the internet is available, running or disconnected
 - **Access notification policy** - for handling the {% include icon.html name="do_not_disturb" %} [**Do Not Disturb mode**]({{site.baseurl}}{% link docs/frequently-asked-questions-faq/what-is-the-disturb-mode.md %})** - play sound/notifications even if this mode is enabled
 - **Bluetooth** - for the communication with the {% include icon.html name="bluetooth" %} Bluetooth printer

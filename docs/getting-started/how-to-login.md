@@ -13,7 +13,7 @@ permalink: /getting-started/how-to-login
 
 ---
 
-- Open the application **"Orderlord KDS"**. Type on the first input line **Email** assigned email for the cook. The format of the login name should be an email address, like **test@gmail.com** (just as an example). Be aware to not add spaces on the start or end of the input.
+- Open the application **"Orderlord KDS"** (or **"Kitchen"**). Type on the first input line **Email** assigned email for the cook. The format of the login name should be an email address, like **test@gmail.com** (just as an example). Be aware to not add spaces on the start or end of the input.
 
 {% include img.html name="login_1.png" %}
 
@@ -21,10 +21,10 @@ permalink: /getting-started/how-to-login
 
 {% include img.html name="login_2.png" %}
 
-- **During first logging into the application**, the Android system will prompt the dialog to allow access for reading/writing into storage. This permission is used for the purposes of sending log reports and creating a backup for the user's application settings which will be later restored from the storage.
+- **During first logging into the application**, the Android system will prompt the dialog to allow "Access for reading/writing into storage". This permission is used for the purposes of sending log reports and creating a backup for the user's application settings which will be later restored from the storage.
 
 {% include img.html name="login_3.png" %}
 
-- The application will try to check that the credentials are valid and sign in. The user is then moved to the [**main application page**]({{site.baseurl}}{% link docs/getting-started/how-to-use-the-kitchen-screen.md %}).
+- The application will try to check that the credentials are valid and sign in. The user is then moved to the [**Kitchen screen**]({{site.baseurl}}{% link docs/getting-started/how-to-use-the-kitchen-screen.md %}).
 
 {% include img.html name="login_4.png" %}

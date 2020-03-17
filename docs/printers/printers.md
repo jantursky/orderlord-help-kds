@@ -13,7 +13,7 @@ permalink: /list-of-settings/printers
 ---
 
 ## Description
-During working with the kitchen application, the user has an option to let the application print **labels/receipts/kitchen receipts** _automatically_ or _manually_, depending on the setup. This functionality needs to have external printer hardware, in some cases also with the cables and connection to the network (depends on the communication). If the user needs to print manually, he could do that simple in the {% include icon.html name="format_list_bulleted" %} [**Kitchen**]({{site.baseurl}}{% link docs/getting-started/how-to-use-the-kitchen-screen.md %}) section:
+During working with the Kitchen application, the user has an option to let the application print **labels/receipts/kitchen receipts** _automatically_ or _manually_, depending on the setup. This functionality needs to have external printer hardware, in some cases also with the cables and connection to the network (depends on the communication). If the user needs to print manually, he could do that simple in the {% include icon.html name="format_list_bulleted" %} [**Kitchen**]({{site.baseurl}}{% link docs/getting-started/how-to-use-the-kitchen-screen.md %}) section:
 - click on the _left block of the row_
 - **or** _long click_ on the whole row
 	- the new dialog with the options will be displayed. On this dialog you are able to:

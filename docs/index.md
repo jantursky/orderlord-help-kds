@@ -20,7 +20,7 @@ permalink: /
 - [Troubleshooting](troubleshooting)
 
 ## How to install the application
-- One way to install an app on your Android device is to use the official link in the **Google Play app**. You could follow [this guide to install the app](getting-started/how-to-install-the-application). Or use this direct link:
+- One way to install an application on your Android device is to use the official link in the **Google Play Store** application. You could follow [this guide to install the app](getting-started/how-to-install-the-application). Or use this direct link:
 
 {% include app_links_google_play.html %}
 

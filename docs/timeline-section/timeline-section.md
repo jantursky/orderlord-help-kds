@@ -16,7 +16,7 @@ permalink: /timeline-section
 ---
 
 ## Description
-The list of past actions that the cook performs during working with the kitchen application sorted by the date and time. The user can filter these events by the name or for the specific event type. 
+The list of past actions that the cook performs during working with the Kitchen application sorted by the date and time. The user can filter these events by the name or for the specific event type. 
 
 <span class="text-red-200">The number of events logged for the timeline is limited, depending on the device. Once the application was uninstalled, or the cache of the application was deleted (through device Settings), **the timeline data will be deleted**.</span>
 

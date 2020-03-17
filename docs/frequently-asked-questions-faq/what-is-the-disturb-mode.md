@@ -36,7 +36,7 @@ permalink: /frequently-asked-questions-faq/what-is-the-disturb-mode
 {% include img.html name="faq_what_is_the_disturb_mode_1.png" %}
 
 
-- When the new screen is displayed (**Do not disturb access**), find in the list the kitchen application (**KDS**). 
+- When the new screen is displayed (**Do not disturb access**), find in the list the Kitchen application (**KDS**). 
 
 {% include img.html name="faq_what_is_the_disturb_mode_2.png" %}
 

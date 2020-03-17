@@ -21,7 +21,7 @@ permalink: /printers/receipt-printer/how-to-print-the-receipt
 - After clicking on this section, the new screen with the display. Click on the {% include icon.html name="settings" %} **Customization** category
 - The list of the settings under this category will be displayed, and you could see, what is the current path, where are you at the moment ({% include icon.html name="home" %} **HOME** {% include icon.html name="chevron_right" %} {% include icon.html name="settings" %} **CUSTOMIZATION**)
 - Search in the list of categories {% include icon.html name="receipt" %} **Receipt printer** category and click on this row.
-- If you want to print the receipts/kitchen receipts automatically, search the option {% include icon.html name="access_time" %} **Autoprint** and click on this row to enable {% include icon.html name="check_box" %}. Once the order comes to the kitchen application, the Android device will try to create a connection with the printer and print the receipt/kitchen receipt.
+- If you want to print the receipts/kitchen receipts automatically, search the option {% include icon.html name="access_time" %} **Autoprint** and click on this row to enable {% include icon.html name="check_box" %}. Once the order comes to the Kitchen application, the Android device will try to create a connection with the printer and print the receipt/kitchen receipt.
 
 {% include img.html name="receipt_printer_how_to_print_1.png" %}
 

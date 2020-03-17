@@ -21,11 +21,11 @@ permalink: /getting-started/how-to-install-the-application
 
 ## Follow the steps:
 
-- Try to find a **Google Play application** in your device. If this application hasn't the icon on the home screen, try to look for it in the menu of all application {% include icon.html name="apps" %}. Once you find this application, click on the icon. If you are still not able to find the app, install the app from the [ApkPure link.](#direct-download)
+- Try to find a **Google Play Store** application in your device. If this application hasn't the icon on the home screen, try to look for it in the menu of all application {% include icon.html name="apps" %}. Once you find this application, click on the icon. If you are still not able to find the app, install the application from the [ApkPure.com link.](#direct-download)
 
 {% include img.html name="installation_1.jpg" %}
 
-- Click on the search bar on the top of the application.
+- Click on {% include icon.html name="menu" %} the search bar on the top of the application.
 
 {% include img.html name="installation_2.jpg" %}
 

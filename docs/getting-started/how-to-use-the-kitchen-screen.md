@@ -20,16 +20,16 @@ permalink: /getting-started/how-to-use-the-kitchen-screen
 Once the user is logged into the application, the **Kitchen section** is displayed. Here is the description of the screen:
 1. **Menu icon** - opening the menu with all application sections
 1. **Name of the section** - Kitchen section is the default one, but you could select another section through **Menu icon**
-1. **Internet connection indicator** - <span class="text-green-200">**the green circle**</span> is indicating, that the network is stable and the application is successfully connected to the server. <span class="text-red-200">**The red circle**</span> will display, once the internet is not available.
+1. **Internet connection indicator** - <span class="text-green-200">**the green circle**</span> is indicating, that the network is stable and the application is successfully connected to the server. <span class="text-red-200">**The red circle**</span> will display, once the internet is not available {% include icon.html name="signal_wifi_off" %}.
 1. **User email** - email of the logged user
-1. **Number of items in the list** - Meals are calculated from the list of displayed meals, depending on the number of individual meals
+1. **Number of items in the list** - meals are calculated from the list of displayed meals, depending on the number of individual meals
 1. **Total orders** - number of total orders, even the late and future orders
 1. **Late orders** - the order will be late when the order preparation time exceeds the current device time
 1. **Future orders** - the order is in the future state when his preparation (finishes) time is higher the restaurant's interval time for delivery/collection or store orders
 1. **Delivery orders** - {% include icon.html name="motorcycle" %} amount of delivery orders in the list
 1. **Collection orders** - {% include icon.html name="room_service" %} amount of collection orders in the list
 1. **Store orders** - {% include icon.html name="store" %} amount of store orders in the list
-1. **Fastscroller** - By long-click down on the fast scroller, the cook can reach the orders more quickly. At the same time, the order ID that is currently displayed is displayed as preview information.
+1. **Fastscroller** - by long-click down on the fast scroller, the cook can reach the orders more quickly. At the same time, the order ID that is currently displayed is displayed as preview information.
 1. **Unfinished order/orders above/below** - this <span class="text-blue-100">**blue button**</span>, which is displaying on the top/bottom off the screen is informing, that below in the list is already started order in the cooking/preparing status, but not finished.
 1. **Device time** - current time of the device (clock time)
 1. **Last update** - information about last updated time of deliveries and orders from the server
