@@ -25,3 +25,4 @@ permalink: /getting-started
 - [Filtering the orders by brands]({{site.baseurl}}{% link docs/getting-started/filtering-the-orders-by-brands.md %})
 - [Menu sections]({{site.baseurl}}{% link docs/getting-started/menu-sections.md %})
 - [Update the data]({{site.baseurl}}{% link docs/getting-started/update-the-data.md %})
+- [How to logout]({{site.baseurl}}{% link docs/getting-started/how-to-logout.md %})
