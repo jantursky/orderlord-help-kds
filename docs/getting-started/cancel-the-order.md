@@ -17,7 +17,7 @@ permalink: /getting-started/cancel-the-order
 ---
 
 ## Description
-If you need to cancel the order directly from the Kitchen application, then this option is right for you. Once the order was canceled, the order will dismiss from the application, only the place, where you are able to find it, is from [**Orders history section.**]({{site.baseurl}}{% link docs/orders-history-section/orders-history-section.md %})
+If you need to cancel the order directly from the Kitchen application, then this option is right for you. Once the order was canceled, the order will dismiss from the application, only the place, where you are able to find it, is from the [**Orders history section.**]({{site.baseurl}}{% link docs/orders-history-section/orders-history-section.md %})
 
 ## How to do that?
 - click on the _left block of the row_ (for instance **"Beef"** row)

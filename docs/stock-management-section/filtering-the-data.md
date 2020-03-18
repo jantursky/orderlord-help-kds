@@ -17,8 +17,8 @@ permalink: /stock-management-section/filtering-the-data
 ---
 
 ## How to filter
-For faster finding a specific item, the user can filter the data multiple ways:
-1. Typing the searched phrase in the input line. The results are dynamically filtered during typing. Results will be highlighted <span class="text-green-200">**green color**</span> and underlined.
+For faster finding a specific item, the user can filter the data in multiple ways:
+1. Typing the searched phrase in the input line. The results are dynamically filtered during typing. The results will be highlighted <span class="text-green-200">**green color**</span> and underlined.
 2. By specifying the values of [filtering options](#list-of-filtering-types). The user can use a combination of multiple options.
 
 ## List of filtering types
