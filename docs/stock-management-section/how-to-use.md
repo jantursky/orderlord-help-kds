@@ -17,7 +17,7 @@ permalink: /stock-management-section/how-to-use
 ---
 
 ## How to use the screen
-The whole screen contained from the header, filtering and the list of the items. The user can filter the items with filtering options in the <span class="text-grey-dk-100">**grey boxes**</span>. Under the filtering options is the option to filter the items by direct input of the phrase. The list of results is displayed under this direct input. On the right side of every item is displayed the button with the option to set the item as <span class="text-green-200">**"IN STOCK"**</span> or <span class="text-red-200">**"OUT OF STOCK"**</span>. The user can scroll faster on the list with **fast scroller**.
+The whole screen contained from the header, filtering and the list of the items. The user can filter the items with filtering options in the <span class="text-grey-dk-100">**grey boxes**</span>. Under the filtering options is the option to filter the items by direct input of the phrase. The list of results is displayed under this direct input. On the right side of every item is displayed the button with the option to set the item as <span class="text-green-200">**"IN STOCK"**</span> or <span class="text-red-200">**"OUT OF STOCK"**</span>. The user can scroll faster on the list with the **fast scroller**.
 
 To set the availability of the item, the user can do that by clicking on the button:
 - if <span class="text-green-200">**"SET ITEM AS IN STOCK"**</span> button is displayed, by clicking on it, the dialog with the list of options will be displayed:
