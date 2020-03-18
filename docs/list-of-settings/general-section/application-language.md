@@ -17,7 +17,7 @@ permalink: /list-of-settings/general-section/application-language
 ---
 
 ## Description
-The application will restaurt automatically when you change the language. If the change did not occur, set the same language on your device.
+The application will restart automatically when you change the language. If the change did not occur, set the same language on your device.
 
 ## The list of supported languages
 - {% include img_single_not_clickable.html name="flags/flag_ar.png" %} **ربى - Arabic (ar)**
