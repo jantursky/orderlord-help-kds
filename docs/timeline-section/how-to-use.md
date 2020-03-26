@@ -22,7 +22,7 @@ The whole screen contained from the header, filtering and the list of the result
 ## Description of the Timeline screen
 Here is the description of the screen:
 1. **Menu icon** - opening the menu with all application sections
-1. **Name of the section** - Timeline section is the default one, but you could select another section through **Menu icon**
+1. **Name of the section** - Kitchen section is the default one, but you could select another section through **Menu icon**
 1. **Internet connection indicator** - <span class="text-green-200">**the green circle**</span> is indicating, that the network is stable and the application is successfully connected to the server. <span class="text-red-200">**The red circle**</span> will display, once the internet is not available.
 1. **Number of results** - the number of results, which are displaying in the list
 1. **Date of data** - selected date, for which the events are displaying. The current date is the default one.
