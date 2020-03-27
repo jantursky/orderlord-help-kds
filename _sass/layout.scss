@@ -207,3 +207,17 @@ body {
     justify-self: end;
   }
 }
+
+.custom_center {
+  text-align: center;;
+}
+
+.custom_smartphone {
+  padding-left: 0px;
+  padding-right: 0px;
+
+  @include mq(lg) {
+    padding-left: 250px;
+    padding-right: 250px;
+  }
+}
