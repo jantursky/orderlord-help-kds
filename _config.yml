@@ -35,8 +35,18 @@ heading_anchors: true
 
 # Aux links for the upper right navigation
 aux_links:
-  "Orderlord.com":
+  "Orderlord.com": 
     - "https://orderlord.com/"
+  "KDS": 
+    - "https://jantursky.github.io/orderlord-help-kds/"
+  "Driver": 
+    - "https://jantursky.github.io/orderlord-help-driver/"
+  "Caller ID":
+   - "https://jantursky.github.io/orderlord-help-caller-id/"
+  "POS":
+   - "https://jantursky.github.io/orderlord-help-pos/"
+  "HR":
+   - "https://jantursky.github.io/orderlord-help-hr/"
 
 # Footer content appears at the bottom of every page's main content
 footer_content: "Copyright &copy; 2020 Orderlord.com."
