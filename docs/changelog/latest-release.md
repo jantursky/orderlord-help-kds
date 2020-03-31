@@ -27,6 +27,8 @@ permalink: /changelog/latest-release
 • added option "Display creator name" - you could enable visibility of this information in the order header. Creator name could be like "System" (created from Web Dashboard/POS) or the name of the external integration
 • added option "Display pickup time" - you could enable visibility of this information in the order header.
 • added option "Shifting of the time" - you could shift the original time of the device in the interval +/- 180 mins. For the purposes of shifting time for different stages per cook.
+• added confirm dialog for finishing the order
+• added update logic during accepting new orders for Alarm feature
 • added opening options for the food by long click on the whole row
 • improved settings - mostly translations of the texts
 ```

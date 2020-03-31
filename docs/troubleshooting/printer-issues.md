@@ -44,6 +44,12 @@ Turn the printer off. Use a paper clip or tip of a pen to press and hold the res
 ## Tickets are printing in red ink
 Tickets normally print in black ink. <span class="text-red-200">If your tickets begin printing only in red ink, it means, that the paper is at the end of the roll.</span>
 
+## Labels are printing very slowly
+You could increase the speed of printing with [this setting]({{site.baseurl}}{% link docs/list-of-settings/label-printer-section/speed-of-printing.md %}). <span class="text-red-200">But you need to be aware, that it could increase the error rate.</span>
+
+## Data of the order aren't printing
+If some of the data from the order aren't printing, even if you're are sure, that the order is containing this information, make sure, that you enabled printing of that information for the [label printer]({{site.baseurl}}{% link docs/list-of-settings/label-printer-section/label-customization.md %}) or [receipt printer]({{site.baseurl}}{% link docs/list-of-settings/receipt-printer-section/receipt-design.md %}).
+
 ## Duplicate tickets are printing
 It could be caused of wrong [receipt customization]({{site.baseurl}}{% link docs/printers/receipt-printer/additional-settings.md %}) of [label customization]({{site.baseurl}}{% link docs/list-of-settings/label-printer-section/label-quantity.md %}).
 
