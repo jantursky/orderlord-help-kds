@@ -16,9 +16,9 @@ permalink: /getting-started/how-to-install-the-application
 
 ---
 
-## Direct download:
+## Direct download
 
-- You could install the application directly from one of this two links:
+- You could install the application directly from one of these two links:
 
 {% include app_links.html %}
 
@@ -56,7 +56,7 @@ permalink: /getting-started/how-to-install-the-application
 
 {% include img_tablet.html name="getting_started_how_to_install_the_application_apkpure_2.png" %}
 
-- type the address **"www.apkpure.com"** and click on the **GO** button on the virtual keyboard
+- type the address **"www.apkpure.com"** and click on the **GO** button or {% include icon.html name="arrow_forward" %} right arrow on the virtual keyboard
 
 {% include img_tablet.html name="getting_started_how_to_install_the_application_apkpure_3.png" %}
 
@@ -84,7 +84,7 @@ permalink: /getting-started/how-to-install-the-application
 
 {% include img_tablet.html name="getting_started_how_to_install_the_application_apkpure_9.png" %}
 
-- wait, until the file is downloaded. Once the file was downloaded, click on the file.
+- wait, until the file is downloaded. Once the file was downloaded, click on the file or <span class="text-blue-100">**OPEN**</span> button.
 
 {% include img_tablet.html name="getting_started_how_to_install_the_application_apkpure_10.png" %}
 
