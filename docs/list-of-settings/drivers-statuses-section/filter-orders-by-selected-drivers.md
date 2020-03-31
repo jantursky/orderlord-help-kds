@@ -22,8 +22,8 @@ Enabling this feature will allow you to click on drivers and filter out their or
 ## Where to find the option
 {% include locate_option.html category_icon="directions_car" category_name="Drivers' statuses" option_icon="touch_app" option_name="Filter orders by selected drivers" %}
 
-{% include img.html name="settings_drivers_statuses_section_filter_orders_by_selected_drivers_1.png" %}
+{% include img_tablet.html name="settings_drivers_statuses_section_filter_orders_by_selected_drivers_1.png" %}
 
-{% include img.html name="settings_drivers_statuses_section_filter_orders_by_selected_drivers_2.png" %}
+{% include img_tablet.html name="settings_drivers_statuses_section_filter_orders_by_selected_drivers_2.png" %}
 
-{% include img.html name="settings_drivers_statuses_section_filter_orders_by_selected_drivers_3.png" %}
+{% include img_tablet.html name="settings_drivers_statuses_section_filter_orders_by_selected_drivers_3.png" %}

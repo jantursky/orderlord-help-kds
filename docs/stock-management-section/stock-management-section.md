@@ -25,6 +25,6 @@ The section is displaying the current availability status of every meal from sin
 - [Filtering the data]({{site.baseurl}}{% link docs/stock-management-section/filtering-the-data.md %})
 
 
-{% include img.html name="section_stock_management_detail_1.png" %}
+{% include img_tablet.html name="section_stock_management_detail_1.png" %}
 
-{% include img.html name="section_stock_management_detail_2.png" %}
+{% include img_tablet.html name="section_stock_management_detail_2.png" %}

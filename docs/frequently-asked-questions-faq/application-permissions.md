@@ -28,4 +28,4 @@ For the purposes of 100% usage of the app, the Kitchen application requires thes
 ## First installation
 During the logging first time on the login screen, the user will be prompted to **Accept Read/Write external storage** ([usage](#list-of-permission)). Once the user accepts this permission, he will be logged in. _This process is only one-time_, he must repeat it only when <span class="text-red-200">_the application was uninstalled and installed again_</span> or when the <span class="text-red-200">_application cache was deleted_</span>.
 
-{% include img.html name="faq_application_permissions_1.png" %}
+{% include img_tablet.html name="faq_application_permissions_1.png" %}

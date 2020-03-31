@@ -26,6 +26,6 @@ Determine, what separator should be between decimal and integer (e.g. 1,248.56 o
 1. **Comma ,** - the format is **"1 248,56"**
 1. **Dot .** - the format is **"1 248.56"**
 
-{% include img.html name="settings_number_formatting_section_decimal_separator_1.png" %}
+{% include img_tablet.html name="settings_number_formatting_section_decimal_separator_1.png" %}
 
-{% include img.html name="settings_number_formatting_section_decimal_separator_2.png" %}
+{% include img_tablet.html name="settings_number_formatting_section_decimal_separator_2.png" %}

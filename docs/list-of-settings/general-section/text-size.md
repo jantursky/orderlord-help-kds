@@ -22,12 +22,12 @@ Adjust the size of every text in the application. Once the user selects a new si
 ## Where to find the option
 {% include locate_option.html category_icon="settings" category_name="General" option_icon="text_fields" option_name="Text size" %}
 
-{% include img.html name="settings_text_size_1.png" %}
+{% include img_tablet.html name="settings_text_size_1.png" %}
 
-{% include img.html name="settings_text_size_2.png" %}
+{% include img_tablet.html name="settings_text_size_2.png" %}
 
-{% include img.html name="settings_text_size_3.png" %}
+{% include img_tablet.html name="settings_text_size_3.png" %}
 
-{% include img.html name="settings_text_size_4.png" %}
+{% include img_tablet.html name="settings_text_size_4.png" %}
 
-{% include img.html name="settings_text_size_5.png" %}
+{% include img_tablet.html name="settings_text_size_5.png" %}

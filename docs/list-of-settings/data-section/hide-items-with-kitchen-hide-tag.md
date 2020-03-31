@@ -22,6 +22,6 @@ If an item has a tag set, it will not appear in the list
 ## Where to find the option
 {% include locate_option.html category_icon="label" category_name="Data" option_icon="visibility" option_name="Hide items with 'Kitchen hide' tag" %}
 
-{% include img.html name="settings_hide_items_with_kitchen_hide_tag_1.png" %}
+{% include img_tablet.html name="settings_hide_items_with_kitchen_hide_tag_1.png" %}
 
-{% include img.html name="settings_hide_items_with_kitchen_hide_tag_2.png" %}
+{% include img_tablet.html name="settings_hide_items_with_kitchen_hide_tag_2.png" %}

@@ -29,9 +29,9 @@ Adjust fixed orientation or by the sensor for the device screen. The screen will
 1. **Full user** - use the user's current preferred orientation of the handset. 
 1. **No sensor** - the orientation of the device will be not changed
 
-{% include img.html name="settings_screen_orientation_1.png" %}
+{% include img_tablet.html name="settings_screen_orientation_1.png" %}
 
 ## Where to find the option
 {% include locate_option.html category_icon="settings" category_name="General" option_icon="screen_rotation" option_name="Screen orientation" %}
 
-{% include img.html name="settings_screen_orientation_2.png" %}
+{% include img_tablet.html name="settings_screen_orientation_2.png" %}

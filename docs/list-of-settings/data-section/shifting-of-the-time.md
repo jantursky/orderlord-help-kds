@@ -28,10 +28,10 @@ The time of the device can be adjusted.
 1. **Device time (do not changes)** - the default time of the Android device will be used.  
 1. **Shift time (in minutes)** - the time of the device will be increased of decreased for selected minutes.
 
-{% include img.html name="settings_shifting_of_the_time_1.png" %}
+{% include img_tablet.html name="settings_shifting_of_the_time_1.png" %}
 
-{% include img.html name="settings_shifting_of_the_time_2.png" %}
+{% include img_tablet.html name="settings_shifting_of_the_time_2.png" %}
 
-{% include img.html name="settings_shifting_of_the_time_3.png" %}
+{% include img_tablet.html name="settings_shifting_of_the_time_3.png" %}
 
-{% include img.html name="settings_shifting_of_the_time_4.png" %}
+{% include img_tablet.html name="settings_shifting_of_the_time_4.png" %}

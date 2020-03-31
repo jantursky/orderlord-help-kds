@@ -31,6 +31,6 @@ Customize the text, that will be displayed before the data.
 - **Prefix for food description** - default value is empty text
 - **Prefix for food note** - default value is empty text
 
-{% include img.html name="settings_prefixes_of_texts_how_to_use_1.png" %}
+{% include img_tablet.html name="settings_prefixes_of_texts_how_to_use_1.png" %}
 
-{% include img.html name="settings_prefixes_of_texts_how_to_use_2.png" %}
+{% include img_tablet.html name="settings_prefixes_of_texts_how_to_use_2.png" %}

@@ -22,4 +22,4 @@ If you need to stick (attach) label on the box with the meal for the customer (f
 - [Customize the label]({{site.baseurl}}{% link docs/printers/label-printer/customize-the-label.md %})
 - [Additional settings]({{site.baseurl}}{% link docs/printers/label-printer/additional-settings.md %})
 
-{% include img.html name="printer_label_1.jpg" %}
+{% include img_tablet.html name="printer_label_1.jpg" %}

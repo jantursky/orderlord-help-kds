@@ -34,12 +34,12 @@ Customize, what type of the name of the item should be displayed and where
 - **Short name + Name** - (for instance "Margherita + True Traditional Neapolitan Margherita Pizza")
 - **Name + Short name** - (for instance "True Traditional Neapolitan Margherita Pizza + Margherita")
 
-{% include img.html name="settings_logic_of_texts_name_vs_short_name_1.png" %}
+{% include img_tablet.html name="settings_logic_of_texts_name_vs_short_name_1.png" %}
 
-{% include img.html name="settings_logic_of_texts_name_vs_short_name_2.png" %}
+{% include img_tablet.html name="settings_logic_of_texts_name_vs_short_name_2.png" %}
 
-{% include img.html name="settings_logic_of_texts_name_vs_short_name_3.png" %}
+{% include img_tablet.html name="settings_logic_of_texts_name_vs_short_name_3.png" %}
 
-{% include img.html name="settings_logic_of_texts_name_vs_short_name_4.png" %}
+{% include img_tablet.html name="settings_logic_of_texts_name_vs_short_name_4.png" %}
 
-{% include img.html name="settings_logic_of_texts_name_vs_short_name_5.png" %}
+{% include img_tablet.html name="settings_logic_of_texts_name_vs_short_name_5.png" %}

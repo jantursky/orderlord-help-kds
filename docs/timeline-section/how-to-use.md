@@ -35,8 +35,8 @@ Here is the description of the screen:
 1. **Description of the timeline** - details about the timeline like **"New value"**, **"Name of the item"**, **"Filter data"**, **"Email"**, **"New value"**, etc.
 1. **Additional info of the timeline** - information, which could help determine the item, order or delivery
 
-{% include img.html name="section_timeline_6.png" %}
+{% include img_tablet.html name="section_timeline_6.png" %}
 
-{% include img.html name="section_timeline_7.png" %}
+{% include img_tablet.html name="section_timeline_7.png" %}
 
-{% include img.html name="section_timeline_8.png" %}
+{% include img_tablet.html name="section_timeline_8.png" %}

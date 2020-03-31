@@ -34,22 +34,22 @@ Customization of the brand, model, connection type and other settings
 	- **Printer series** - TM-M10 series, TM-M30 series, TM-P20 series, TM-P60 series, TM-P60II series, TM-P80 series, TM-T20 series, TM-T60 series, TM-T70 series, TM-T81 series, TM-T82 series, TM-T83 series, TM-T88 series, TM-T90 series, TM-T90KP series, TM-U220 series, TM-U330 series, TM-L90 series, TM-H6000 series
 - **USB** - {% include icon.html name="usb" %} _USB_
 
-{% include img.html name="settings_receipt_printer_customization_1.png" %}
+{% include img_tablet.html name="settings_receipt_printer_customization_1.png" %}
 
-{% include img.html name="settings_receipt_printer_customization_2.png" %}
+{% include img_tablet.html name="settings_receipt_printer_customization_2.png" %}
 
-{% include img.html name="settings_receipt_printer_customization_3.png" %}
+{% include img_tablet.html name="settings_receipt_printer_customization_3.png" %}
 
-{% include img.html name="settings_receipt_printer_customization_4.png" %}
+{% include img_tablet.html name="settings_receipt_printer_customization_4.png" %}
 
-{% include img.html name="settings_receipt_printer_customization_5.png" %}
+{% include img_tablet.html name="settings_receipt_printer_customization_5.png" %}
 
-{% include img.html name="settings_receipt_printer_customization_6.png" %}
+{% include img_tablet.html name="settings_receipt_printer_customization_6.png" %}
 
 - depending on the application language setup, the receipt printer will print receipts in the appropriate language
 
-{% include img.html name="settings_receipt_printer_customization_7.jpg" %}
+{% include img_tablet.html name="settings_receipt_printer_customization_7.jpg" %}
 
 - depending on the models and characters per line, the printed receipt could have a different output
 
-{% include img.html name="settings_receipt_printer_customization_8.jpg" %}
+{% include img_tablet.html name="settings_receipt_printer_customization_8.jpg" %}

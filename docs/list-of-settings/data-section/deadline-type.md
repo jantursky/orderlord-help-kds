@@ -35,12 +35,12 @@ Select the time format for each order in the list
 	- **order deadline time** is **13:30**
 	- the formula will be **((12:05 + 45 mins. - 15 mins.) - 13:30) = 12:35 - 13:30 = -55 mins.** will be displayed
 
-{% include img.html name="settings_deadline_type_1.png" %}
+{% include img_tablet.html name="settings_deadline_type_1.png" %}
 
-{% include img.html name="settings_deadline_type_2.png" %}
+{% include img_tablet.html name="settings_deadline_type_2.png" %}
 
-{% include img.html name="settings_deadline_type_3.png" %}
+{% include img_tablet.html name="settings_deadline_type_3.png" %}
 
-{% include img.html name="settings_deadline_type_4.png" %}
+{% include img_tablet.html name="settings_deadline_type_4.png" %}
 
-{% include img.html name="settings_deadline_type_5.png" %}
+{% include img_tablet.html name="settings_deadline_type_5.png" %}

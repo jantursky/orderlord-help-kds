@@ -25,6 +25,6 @@ The list of orders created in the system. The user can search for the specific o
 - [Filtering the data]({{site.baseurl}}{% link docs/orders-history-section/filtering-the-data.md %})
 
 
-{% include img.html name="section_orders_history_preview_1.png" %}
+{% include img_tablet.html name="section_orders_history_preview_1.png" %}
 
-{% include img.html name="section_orders_history_preview_2.png" %}
+{% include img_tablet.html name="section_orders_history_preview_2.png" %}

@@ -55,6 +55,6 @@ How to organize deliveries and orders in the list
 	1. else by **priority of the order**
 	1. else by **deadline of the order**
 
-{% include img.html name="settings_pin_functionality_1.png" %}
+{% include img_tablet.html name="settings_pin_functionality_1.png" %}
 
-{% include img.html name="settings_pin_functionality_2.png" %}
+{% include img_tablet.html name="settings_pin_functionality_2.png" %}

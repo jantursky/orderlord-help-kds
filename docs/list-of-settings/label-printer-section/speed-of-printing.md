@@ -26,6 +26,6 @@ Choose a connection speed to the printer with additional connection control
 1. **Slow** - the connection to the printer is established within 5-10 seconds, but various additional printer parameters such as "paper quantity", "data overload", "open printer", etc. are cheched
 1. **Fast** - the connection to the printer is established within 1-2 seconds without additional control
 
-{% include img.html name="settings_label_printer_speed_of_printing_1.png" %}
+{% include img_tablet.html name="settings_label_printer_speed_of_printing_1.png" %}
 
-{% include img.html name="settings_label_printer_speed_of_printing_2.png" %}
+{% include img_tablet.html name="settings_label_printer_speed_of_printing_2.png" %}

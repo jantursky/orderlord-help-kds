@@ -22,6 +22,6 @@ The creator name will be displayed at the top of each order
 ## Where to find the option
 {% include locate_option.html category_icon="label" category_name="Data" option_icon="visibility" option_name="Display creator name" %}
 
-{% include img.html name="settings_display_creator_name_1.png" %}
+{% include img_tablet.html name="settings_display_creator_name_1.png" %}
 
-{% include img.html name="settings_display_creator_name_2.png" %}
+{% include img_tablet.html name="settings_display_creator_name_2.png" %}

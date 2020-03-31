@@ -22,10 +22,10 @@ Customize the background colors of orders that change based on the current time
 ## Where to find the option
 {% include locate_option.html category_icon="palette" category_name="Design" option_icon="palette" option_name="Warning colors" %}
 
-{% include img.html name="settings_warning_colors_1.png" %}
+{% include img_tablet.html name="settings_warning_colors_1.png" %}
 
-{% include img.html name="settings_warning_colors_2.png" %}
+{% include img_tablet.html name="settings_warning_colors_2.png" %}
 
-{% include img.html name="settings_warning_colors_3.png" %}
+{% include img_tablet.html name="settings_warning_colors_3.png" %}
 
-{% include img.html name="settings_warning_colors_4.png" %}
+{% include img_tablet.html name="settings_warning_colors_4.png" %}

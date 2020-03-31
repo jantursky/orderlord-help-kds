@@ -26,8 +26,8 @@ The button appears at the top of each order
 - Search in the list of categories {% include icon.html name="label" %} **Data** category and click on this row.
 - Click on the row {% include icon.html name="move_to_inbox" %} **Show button for finishing of orders**.
 
-{% include img.html name="settings_show_button_for_finishing_order_1.png" %}
+{% include img_tablet.html name="settings_show_button_for_finishing_order_1.png" %}
 
-{% include img.html name="settings_show_button_for_finishing_order_2.png" %}
+{% include img_tablet.html name="settings_show_button_for_finishing_order_2.png" %}
 
-{% include img.html name="settings_show_button_for_finishing_order_3.png" %}
+{% include img_tablet.html name="settings_show_button_for_finishing_order_3.png" %}

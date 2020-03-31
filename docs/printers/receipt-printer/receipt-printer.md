@@ -23,6 +23,6 @@ When the user in the kitchen needs to print a receipt for the customer or kitche
 - [Customize the receipt]({{site.baseurl}}{% link docs/printers/receipt-printer/customize-the-receipt.md %})
 - [Additional settings]({{site.baseurl}}{% link docs/printers/receipt-printer/additional-settings.md %})
 
-{% include img.html name="printer_receipt_1.jpg" %}
+{% include img_tablet.html name="printer_receipt_1.jpg" %}
 
-{% include img.html name="printer_kitchen_receipt_1.jpg" %}
+{% include img_tablet.html name="printer_kitchen_receipt_1.jpg" %}

@@ -27,6 +27,6 @@ Show a specific time when the driver is ready for delivery or is in restaurant
 - **Last online time** - the last time, when the courier was online
 - **Last measured time** - the last time, when the courier GPS position was measured
 
-{% include img.html name="settings_drivers_statuses_section_courier_time_type_1.png" %}
+{% include img_tablet.html name="settings_drivers_statuses_section_courier_time_type_1.png" %}
 
-{% include img.html name="settings_drivers_statuses_section_courier_time_type_2.png" %}
+{% include img_tablet.html name="settings_drivers_statuses_section_courier_time_type_2.png" %}

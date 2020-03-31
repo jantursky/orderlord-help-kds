@@ -28,6 +28,6 @@ Order drivers by selected parameter
 - **Last measured time** - the last time, when the courier GPS position was measured
 - **Name and surname**
 
-{% include img.html name="settings_drivers_statuses_section_sorting_drivers_1.png" %}
+{% include img_tablet.html name="settings_drivers_statuses_section_sorting_drivers_1.png" %}
 
-{% include img.html name="settings_drivers_statuses_section_sorting_drivers_2.png" %}
+{% include img_tablet.html name="settings_drivers_statuses_section_sorting_drivers_2.png" %}

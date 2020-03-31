@@ -31,6 +31,6 @@ So even if the cook **1.** belongs to the restaurant **"Test store"**, he is goi
 - select the brands, that the cook should see only. You could select also combination of multiple brands.
 - in the **Kitchen screen** section should be visible only orders that belong to the selected brand/brands
 
-{% include img.html name="getting_started_filtering_the_orders_by_brands_1.png" %}
+{% include img_tablet.html name="getting_started_filtering_the_orders_by_brands_1.png" %}
 
-{% include img.html name="getting_started_filtering_the_orders_by_brands_2.png" %}
+{% include img_tablet.html name="getting_started_filtering_the_orders_by_brands_2.png" %}

@@ -37,6 +37,6 @@ Let's say, that he makes **pizza**, **pasta** and **pastry** meal types. These 3
 ## Warning
 Order status **ready** for the whole order isn't set up automatically, because it could happen, that you don't have to see all meals for the order. This **ready** status is indicating the manager in the **Web Dashboard** or in the **Point of Sale Android Application** that all meals are <span class="text-orange-200">**cooked**</span> + <span class="text-green-200">**prepared**</span> and could be delivered (it has just an informative purpose). With the combination of multiple devices with the Kitchen application, you could achieve, that the order with all meals will be _processed_ properly by cooks.
 
-{% include img.html name="getting_started_filtering_the_orders_by_tags_1.png" %}
+{% include img_tablet.html name="getting_started_filtering_the_orders_by_tags_1.png" %}
 
-{% include img.html name="getting_started_filtering_the_orders_by_tags_2.png" %}
+{% include img_tablet.html name="getting_started_filtering_the_orders_by_tags_2.png" %}

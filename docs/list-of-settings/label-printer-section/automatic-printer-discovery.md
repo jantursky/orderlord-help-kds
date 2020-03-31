@@ -22,10 +22,10 @@ Search for Zebra devices connected to the same network (as long as the network i
 ## Where to find the option
 {% include locate_option.html category_icon="label" category_name="Label printer" option_icon="search" option_name="Automatic printer discovery" %}
 
-{% include img.html name="settings_label_printer_automatic_printer_discovery_1.png" %}
+{% include img_tablet.html name="settings_label_printer_automatic_printer_discovery_1.png" %}
 
-{% include img.html name="settings_label_printer_automatic_printer_discovery_2.png" %}
+{% include img_tablet.html name="settings_label_printer_automatic_printer_discovery_2.png" %}
 
-{% include img.html name="settings_label_printer_automatic_printer_discovery_3.png" %}
+{% include img_tablet.html name="settings_label_printer_automatic_printer_discovery_3.png" %}
 
-{% include img.html name="settings_label_printer_automatic_printer_discovery_4.png" %}
+{% include img_tablet.html name="settings_label_printer_automatic_printer_discovery_4.png" %}

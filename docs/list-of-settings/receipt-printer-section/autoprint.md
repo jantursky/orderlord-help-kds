@@ -22,4 +22,4 @@ If enabled, the printer will print the order automatically
 ## Where to find the option
 {% include locate_option.html category_icon="receipt" category_name="Receipt printer" option_icon="print" option_name="Autoprint" %}
 
-{% include img.html name="settings_receipt_printer_autoprint_1.png" %}
+{% include img_tablet.html name="settings_receipt_printer_autoprint_1.png" %}

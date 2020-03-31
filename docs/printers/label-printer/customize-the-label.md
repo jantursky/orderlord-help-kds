@@ -19,11 +19,11 @@ permalink: /printers/label-printer/customize-the-label
 ## How to use
 In the category {% include icon.html name="label" %} **Label printer**, find the row {% include icon.html name="format_list_numbered" %} **Label customization**. Click on the row, the new screen will be displayed.
 
-{% include img.html name="settings_label_printer_label_customization_1.png" %}
+{% include img_tablet.html name="settings_label_printer_label_customization_1.png" %}
 
 On the left side is the list of all information about the order, that could be printed on the label. This list is vertically scrollable, and every information is customizable by [list of options](#list-of-options). Right side is displaying the preview of the label (_visualization_). You could find much faster the label information on the left side by clicking on the specific information on this visualized label. 
 
-{% include img.html name="settings_label_printer_label_customization_2.png" %}
+{% include img_tablet.html name="settings_label_printer_label_customization_2.png" %}
 
 ## List of options
 1. **Visibility** - should be the specific info visible on the label or not
@@ -35,4 +35,4 @@ On the left side is the list of all information about the order, that could be p
 	- **uppercase only the first character for every word** - example _Lorem Ipsum Dolor Sit_
 
 
-{% include img.html name="settings_label_printer_label_customization_3.png" %}
+{% include img_tablet.html name="settings_label_printer_label_customization_3.png" %}

@@ -28,6 +28,6 @@ The cook has the option to dynamically filter the orders by order type, if it's 
 ## Warning
 Depending on the allowed order types from [**the settings section**]({{site.baseurl}}{% link docs/list-of-settings/data-section/order-types.md %}), specific order types will be displayed at all.
 
-{% include img.html name="view_list_6_v3.png" %}
+{% include img_tablet.html name="view_list_6_v3.png" %}
 
-{% include img.html name="view_list_8_v2.png" %}
+{% include img_tablet.html name="view_list_8_v2.png" %}

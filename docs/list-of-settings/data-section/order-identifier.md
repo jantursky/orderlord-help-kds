@@ -27,12 +27,12 @@ Set what type of ID to show for each order
 1. **Partner system ID** - a unique text identifier created in our system that is transferable to external integration
 1. **Public system ID** - a unique external text identifier that was created in an external integration. If the <span class="text-red-200">ID is red color</span>, means that the order hasn't assigned public ID, and only 5 last digits of **Partner system ID** are showing
 
-{% include img.html name="settings_order_identifier_1.png" %}
+{% include img_tablet.html name="settings_order_identifier_1.png" %}
 
-{% include img.html name="settings_order_identifier_2.png" %}
+{% include img_tablet.html name="settings_order_identifier_2.png" %}
 
-{% include img.html name="settings_order_identifier_3.png" %}
+{% include img_tablet.html name="settings_order_identifier_3.png" %}
 
-{% include img.html name="settings_order_identifier_4.png" %}
+{% include img_tablet.html name="settings_order_identifier_4.png" %}
 
-{% include img.html name="settings_order_identifier_5.png" %}
+{% include img_tablet.html name="settings_order_identifier_5.png" %}

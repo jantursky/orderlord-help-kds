@@ -35,8 +35,8 @@ Here is the description of the screen:
 1. **Order of the order in the result list**
 1. **Value of the order**
 
-{% include img.html name="section_orders_history_1.png" %}
+{% include img_tablet.html name="section_orders_history_1.png" %}
 
-{% include img.html name="section_orders_history_2.png" %}
+{% include img_tablet.html name="section_orders_history_2.png" %}
 
-{% include img.html name="section_orders_history_3.png" %}
+{% include img_tablet.html name="section_orders_history_3.png" %}

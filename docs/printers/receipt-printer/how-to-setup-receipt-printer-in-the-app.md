@@ -19,16 +19,16 @@ permalink: /printers/receipt-printer/how-to-setup-receipt-printer-in-the-app
 ## Where is Receipt printer category
 - Open the menu from the left side and find {% include icon.html name="settings" %} [**Settings**]({{site.baseurl}}{% link docs/list-of-settings/list-of-settings.md %}) section
 
-{% include img.html name="receipt_printer_setup_1.png" %}
+{% include img_tablet.html name="receipt_printer_setup_1.png" %}
 
 - After click on this section, the new screen with display. Click on the {% include icon.html name="settings" %} **Customization** category
 
-{% include img.html name="receipt_printer_setup_2.png" %}
+{% include img_tablet.html name="receipt_printer_setup_2.png" %}
 
 - The list of the settings under this category will be displayed, and you could see, what is the current path, where are you at the moment ({% include icon.html name="home" %} **HOME** {% include icon.html name="chevron_right" %} {% include icon.html name="settings" %} **CUSTOMIZATION**)
 - Search in the list of categories {% include icon.html name="receipt" %} **Receipt printer** category and click on this row.
 
-{% include img.html name="receipt_printer_setup_3.png" %}
+{% include img_tablet.html name="receipt_printer_setup_3.png" %}
 
 - Click on the {% include icon.html name="print" %} **Enable receipt printing** option for {% include icon.html name="check_box" %}
 - If you set up the receipt printer first time, the dialog with printer configuration will be displayed. If you already setup configuration for the printer, click on the {% include icon.html name="settings" %} **Printer customization** option. 
@@ -55,7 +55,7 @@ permalink: /printers/receipt-printer/how-to-setup-receipt-printer-in-the-app
 	- if the printer wasn't paired before, after the click it will start to pair automatically. Once the printer is paired, click on the row
 - the MAC address of the printer will be set up automatically in the **Address** line. After the setup, the rest of the [additional settings]({{site.baseurl}}{% link docs/printers/receipt-printer/additional-settings.md %}), click on the <span class="text-green-200">**SAVE**</span> button and **your printer is prepared for the use**
 
-{% include img.html name="receipt_printer_setup_12.png" %}
+{% include img_tablet.html name="receipt_printer_setup_12.png" %}
 
 ## USB communication
 - on the Printer customization screen, select the correct vendor from the **Brand** options.
@@ -68,11 +68,11 @@ permalink: /printers/receipt-printer/how-to-setup-receipt-printer-in-the-app
 	1. if **NO**, click on the <span class="text-red-200">**CANCEL**</span> button. 
 - <span class="text-red-200">If another popup is displayed with the same context but there is mentioned another name of the application, click on the **CANCEL** button.
 
-{% include img.html name="receipt_printer_setup_9.png" %}
+{% include img_tablet.html name="receipt_printer_setup_9.png" %}
 
 - once you confirm **access** for this USB device, the printer should be displayed in the list. Select that row.
 
-{% include img.html name="receipt_printer_setup_10.png" %}
+{% include img_tablet.html name="receipt_printer_setup_10.png" %}
 
 - the ID path for the USB device of the printer will be set up automatically in the **Address** line. After the setup, the rest of the [additional settings]({{site.baseurl}}{% link docs/printers/receipt-printer/additional-settings.md %}), click on the <span class="text-green-200">**SAVE**</span> button and **your printer is prepared for the use**
 
@@ -96,6 +96,6 @@ permalink: /printers/receipt-printer/how-to-setup-receipt-printer-in-the-app
 
 - after the setup, the rest of the [additional settings]({{site.baseurl}}{% link docs/printers/receipt-printer/additional-settings.md %}), click on the <span class="text-green-200">**SAVE**</span> button and **your printer is prepared for the use**
 
-{% include img.html name="receipt_printer_setup_6.png" %}
+{% include img_tablet.html name="receipt_printer_setup_6.png" %}
 
-{% include img.html name="receipt_printer_setup_8.png" %}
+{% include img_tablet.html name="receipt_printer_setup_8.png" %}

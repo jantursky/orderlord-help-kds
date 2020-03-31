@@ -23,7 +23,7 @@ permalink: /printers/receipt-printer/how-to-print-the-receipt
 - Search in the list of categories {% include icon.html name="receipt" %} **Receipt printer** category and click on this row.
 - If you want to print the receipts/kitchen receipts automatically, search the option {% include icon.html name="access_time" %} **Autoprint** and click on this row to enable {% include icon.html name="check_box" %}. Once the order comes to the Kitchen application, the Android device will try to create a connection with the printer and print the receipt/kitchen receipt.
 
-{% include img.html name="receipt_printer_how_to_print_1.png" %}
+{% include img_tablet.html name="receipt_printer_how_to_print_1.png" %}
 
 ## Manual printing
 If the cook wants to print the receipts/kitchen receipts only for specific orders, he could do that manually through the list of the options. Follow the steps:
@@ -37,12 +37,12 @@ If the cook wants to print the receipts/kitchen receipts only for specific order
 	- **Preview receipt** - a new screen will be displayed with the preview of the receipt, which should be printed. The look of the resulting receipt is only approximate, depending on the specific vendor and model of the receipt.
 	- **Preview kitchen receipt** - same as the **Preview receipt**, but will display kitchen receipt.
 
-{% include img.html name="receipt_printer_how_to_print_1.png" %}
+{% include img_tablet.html name="receipt_printer_how_to_print_1.png" %}
 
-{% include img.html name="receipt_printer_how_to_print_2.png" %}
+{% include img_tablet.html name="receipt_printer_how_to_print_2.png" %}
 
-{% include img.html name="receipt_printer_how_to_print_3.png" %}
+{% include img_tablet.html name="receipt_printer_how_to_print_3.png" %}
 
-{% include img.html name="receipt_printer_how_to_print_4.png" %}
+{% include img_tablet.html name="receipt_printer_how_to_print_4.png" %}
 
-{% include img.html name="receipt_printer_how_to_print_5.png" %}
+{% include img_tablet.html name="receipt_printer_how_to_print_5.png" %}

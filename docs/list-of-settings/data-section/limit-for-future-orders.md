@@ -25,6 +25,6 @@ Set the maximum time in the future when data will be displayed. Depending on the
 ## Where to find the option
 {% include locate_option.html category_icon="label" category_name="Data" option_icon="skip_next" option_name="Limit for future orders" %}
 
-{% include img.html name="settings_limit_for_future_orders_1.png" %}
+{% include img_tablet.html name="settings_limit_for_future_orders_1.png" %}
 
-{% include img.html name="settings_limit_for_future_orders_2.png" %}
+{% include img_tablet.html name="settings_limit_for_future_orders_2.png" %}

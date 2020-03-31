@@ -26,8 +26,8 @@ Set the number of orders that will be displayed on the main screen
 1. **Unlimited** - every order will be displayed, without any number limit
 1. **1-15 orders** - only the selected maximum of the orders will be displayed
 
-{% include img.html name="settings_maximum_orders_to_display_1.png" %}
+{% include img_tablet.html name="settings_maximum_orders_to_display_1.png" %}
 
-{% include img.html name="settings_maximum_orders_to_display_2.png" %}
+{% include img_tablet.html name="settings_maximum_orders_to_display_2.png" %}
 
-{% include img.html name="settings_maximum_orders_to_display_3.png" %}
+{% include img_tablet.html name="settings_maximum_orders_to_display_3.png" %}

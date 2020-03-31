@@ -36,10 +36,10 @@ The user could applied specificed date/time/date+time format for every time info
 - The dialog with the list of formats will be displayed. Select the one, you want to use in the application. You could also use quick search functionality, which will search in the pattern's names or results.
 - Select the pattern and click on the <span class="text-green-100">**SET**</span> button. The selected format will be applied everywhere in the application.
 
-{% include img.html name="settings_date_time_section_how_to_use_1.png" %}
+{% include img_tablet.html name="settings_date_time_section_how_to_use_1.png" %}
 
-{% include img.html name="settings_date_time_section_how_to_use_2.png" %}
+{% include img_tablet.html name="settings_date_time_section_how_to_use_2.png" %}
 
-{% include img.html name="settings_date_time_section_how_to_use_3.png" %}
+{% include img_tablet.html name="settings_date_time_section_how_to_use_3.png" %}
 
-{% include img.html name="settings_date_time_section_how_to_use_4.png" %}
+{% include img_tablet.html name="settings_date_time_section_how_to_use_4.png" %}

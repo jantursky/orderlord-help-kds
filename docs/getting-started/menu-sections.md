@@ -33,8 +33,8 @@ To display the menu with all available sections, the user could do that 2. ways:
 1. {% include icon.html name="power_settings_new" %} [**Logout**]({{site.baseurl}}{% link docs/getting-started/how-to-logout.md %}) - the current user will be logged
 
 
-{% include img.html name="menu_1.png" %}
+{% include img_tablet.html name="menu_1.png" %}
 
-{% include img.html name="menu_2.png" %}
+{% include img_tablet.html name="menu_2.png" %}
 
-{% include img.html name="menu_3.png" %}
+{% include img_tablet.html name="menu_3.png" %}

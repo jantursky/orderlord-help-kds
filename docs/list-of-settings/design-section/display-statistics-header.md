@@ -22,8 +22,8 @@ The header is located above the list of meals and contains information informati
 ## Where to find the option
 {% include locate_option.html category_icon="palette" category_name="Design" option_icon="visibility" option_name="Display statistics header" %}
 
-{% include img.html name="settings_display_statistics_header_1.png" %}
+{% include img_tablet.html name="settings_display_statistics_header_1.png" %}
 
-{% include img.html name="settings_display_statistics_header_2.png" %}
+{% include img_tablet.html name="settings_display_statistics_header_2.png" %}
 
-{% include img.html name="settings_display_statistics_header_3.png" %}
+{% include img_tablet.html name="settings_display_statistics_header_3.png" %}

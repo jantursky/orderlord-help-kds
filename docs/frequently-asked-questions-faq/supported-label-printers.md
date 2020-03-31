@@ -18,4 +18,4 @@ permalink: /frequently-asked-questions-faq/supported-label-printers
 	- labels are optimized for resolution _203dpi_, the width should be _10cm_ and height at least _6cm_ (you could use also smaller or bigger sizes, but needs to be adjusted the design)
 	- you could customize the size of the specific text info and adjust the maximum width of the label
 
-{% include img.html name="label_printer_supported_label_printers_1.png" %}
+{% include img_tablet.html name="label_printer_supported_label_printers_1.png" %}

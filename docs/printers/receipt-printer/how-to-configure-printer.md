@@ -33,9 +33,9 @@ First of all, you need to check if your specific receipt printer has allowed USB
 - <span class="text-green-100">{% include icon.html name="check" %}</span> check if in the box of receipt printer was added also a USB cable
 - <span class="text-green-100">{% include icon.html name="check" %}</span> during connection the receipt printer with your Android device, the [popup for allowing access for the USB device]({{site.baseurl}}{% link assets/images/kds/receipt_printer_how_to_setup_receipt_printer_usb_3.jpg %}) will be displayed.
 
-{% include img.html name="receipt_printer_how_to_setup_receipt_printer_usb_1.jpg" %}
+{% include img_tablet.html name="receipt_printer_how_to_setup_receipt_printer_usb_1.jpg" %}
 
-{% include img.html name="receipt_printer_how_to_setup_receipt_printer_usb_3.jpg" %}
+{% include img_tablet.html name="receipt_printer_how_to_setup_receipt_printer_usb_3.jpg" %}
 
 ## Wi-Fi communication
 

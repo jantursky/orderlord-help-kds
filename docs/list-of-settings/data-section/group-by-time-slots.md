@@ -22,9 +22,9 @@ Header with the information about time slots and controls will be displayed on t
 ## Where to find the option
 {% include locate_option.html category_icon="label" category_name="Data" option_icon="visibility" option_name="Group by Time slots" %}
 
-{% include img.html name="settings_group_by_time_slots_1.png" %}
+{% include img_tablet.html name="settings_group_by_time_slots_1.png" %}
 
-{% include img.html name="settings_group_by_time_slots_2.png" %}
+{% include img_tablet.html name="settings_group_by_time_slots_2.png" %}
 
 ## How to use
 The orders are grouped by the specific time slot, which were assigned to them. Here is the description of the screen:
@@ -34,6 +34,6 @@ The orders are grouped by the specific time slot, which were assigned to them. H
 1. **Skip to previous time slot** - once the user click on this slot, previous time slot from the selected one will be displayed
 1. **Skip to next time slot** - once the user click on this slot, next time slot from the selected one will be displayed
 
-{% include img.html name="settings_group_by_time_slots_3.png" %}
+{% include img_tablet.html name="settings_group_by_time_slots_3.png" %}
 
-{% include img.html name="settings_group_by_time_slots_4.png" %}
+{% include img_tablet.html name="settings_group_by_time_slots_4.png" %}

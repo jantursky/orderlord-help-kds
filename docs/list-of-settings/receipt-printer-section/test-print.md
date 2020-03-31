@@ -22,6 +22,6 @@ Print a test receipt if all necessary data is set depending on the connection ty
 ## Where to find the option
 {% include locate_option.html category_icon="receipt" category_name="Receipt printer" option_icon="receipt" option_name="Test print" %}
 
-{% include img.html name="settings_receipt_printer_test_print_1.png" %}
+{% include img_tablet.html name="settings_receipt_printer_test_print_1.png" %}
 
-{% include img.html name="settings_receipt_printer_test_print_2.jpg" %}
+{% include img_tablet.html name="settings_receipt_printer_test_print_2.jpg" %}

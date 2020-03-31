@@ -41,14 +41,14 @@ Here is the description of the screen:
 1. **Price of the item**
 1. **Button for changing availability status** - usage as mentioned [above](#how-to-use-the-screen)
 
-{% include img.html name="section_stock_management_2.png" %}
+{% include img_tablet.html name="section_stock_management_2.png" %}
 
-{% include img.html name="section_stock_management_5.png" %}
+{% include img_tablet.html name="section_stock_management_5.png" %}
 
-{% include img.html name="section_stock_management_7.png" %}
+{% include img_tablet.html name="section_stock_management_7.png" %}
 
-{% include img.html name="section_stock_management_8.png" %}
+{% include img_tablet.html name="section_stock_management_8.png" %}
 
-{% include img.html name="section_stock_management_9.png" %}
+{% include img_tablet.html name="section_stock_management_9.png" %}
 
-{% include img.html name="section_stock_management_10.png" %}
+{% include img_tablet.html name="section_stock_management_10.png" %}

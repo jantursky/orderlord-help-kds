@@ -24,4 +24,4 @@ During working with the Kitchen application, the user has an option to let the a
 - [Label printer]({{site.baseurl}}{% link docs/printers/label-printer/label-printer.md %})
 - [Receipt printer]({{site.baseurl}}{% link docs/printers/receipt-printer/receipt-printer.md %})
 
-{% include img.html name="printer_all_types_1.jpg" %}
+{% include img_tablet.html name="printer_all_types_1.jpg" %}

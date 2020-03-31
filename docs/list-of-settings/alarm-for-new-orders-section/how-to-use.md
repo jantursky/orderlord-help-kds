@@ -22,6 +22,6 @@ The feature will display screen with information about new orders which will dis
 ## Where to find the option
 {% include locate_option.html category_icon="access_alarm" category_name="Alarm for new orders" option_icon="visibility" option_name="Enable alarm" %}
 
-{% include img.html name="settings_alarm_for_new_orders_how_to_use_1.png" %}
+{% include img_tablet.html name="settings_alarm_for_new_orders_how_to_use_1.png" %}
 
-{% include img.html name="settings_alarm_for_new_orders_how_to_use_2.png" %}
+{% include img_tablet.html name="settings_alarm_for_new_orders_how_to_use_2.png" %}

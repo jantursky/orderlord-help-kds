@@ -22,12 +22,12 @@ permalink: /list-of-settings/label-printer-section/label-customization
 ## Where to find the option
 {% include locate_option.html category_icon="label" category_name="Label printer" option_icon="format_list_numbered" option_name="Label customization" %}
 
-{% include img.html name="settings_label_printer_label_customization_1.png" %}
+{% include img_tablet.html name="settings_label_printer_label_customization_1.png" %}
 
-{% include img.html name="settings_label_printer_label_customization_2.png" %}
+{% include img_tablet.html name="settings_label_printer_label_customization_2.png" %}
 
-{% include img.html name="settings_label_printer_label_customization_3.png" %}
+{% include img_tablet.html name="settings_label_printer_label_customization_3.png" %}
 
-{% include img.html name="settings_label_printer_label_customization_4.png" %}
+{% include img_tablet.html name="settings_label_printer_label_customization_4.png" %}
 
-{% include img.html name="settings_label_printer_label_customization_5.jpg" %}
+{% include img_tablet.html name="settings_label_printer_label_customization_5.jpg" %}

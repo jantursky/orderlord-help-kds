@@ -31,8 +31,8 @@ The list of selected another applications will be displayed on the Kitchen scree
 1. **POS (Point of Sale)**
 1. **Stock Management**
 
-{% include img.html name="settings_switch_between_applications_1.png" %}
+{% include img_tablet.html name="settings_switch_between_applications_1.png" %}
 
-{% include img.html name="settings_switch_between_applications_2.png" %}
+{% include img_tablet.html name="settings_switch_between_applications_2.png" %}
 
-{% include img.html name="settings_switch_between_applications_3.png" %}
+{% include img_tablet.html name="settings_switch_between_applications_3.png" %}

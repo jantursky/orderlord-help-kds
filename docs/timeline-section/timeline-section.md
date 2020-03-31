@@ -24,6 +24,6 @@ The list of past actions that the cook performs during working with the Kitchen 
 - [How to use]({{site.baseurl}}{% link docs/timeline-section/how-to-use.md %})
 - [Filtering the data]({{site.baseurl}}{% link docs/timeline-section/filtering-the-data.md %})
 
-{% include img.html name="section_timeline_preview_1.png" %}
+{% include img_tablet.html name="section_timeline_preview_1.png" %}
 
-{% include img.html name="section_timeline_preview_2.png" %}
+{% include img_tablet.html name="section_timeline_preview_2.png" %}

@@ -29,6 +29,6 @@ If you need to cancel the order directly from the Kitchen application, then this
 ## Warning
 If you aren't able to find this setting in the settings section, it's because this setting is disabled by the administrator of the account (_you need to ask for the access_).
 
-{% include img.html name="cancel_the_order_1.png" %}
+{% include img_tablet.html name="cancel_the_order_1.png" %}
 
-{% include img.html name="cancel_the_order_2.png" %}
+{% include img_tablet.html name="cancel_the_order_2.png" %}

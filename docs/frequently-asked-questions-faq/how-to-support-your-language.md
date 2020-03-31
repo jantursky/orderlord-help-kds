@@ -19,5 +19,5 @@ We will provide you the application texts, with already prepared places, where y
 
 Please, contact [the support](mailto:support@orderlord.com) and we will send you text for the translation.
 
-{% include img.html name="faq_how_to_support_your_language_2.jpg" %}
-<!-- {% include img.html name="faq_how_to_support_your_language_1.png" %} -->
+{% include img_tablet.html name="faq_how_to_support_your_language_2.jpg" %}
+<!-- {% include img_tablet.html name="faq_how_to_support_your_language_1.png" %} -->

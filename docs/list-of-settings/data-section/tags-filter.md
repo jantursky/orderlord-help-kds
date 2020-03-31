@@ -26,10 +26,10 @@ Set a display limitation of individual meals depending on the selected tags that
 - Search in the list of categories {% include icon.html name="label" %} **Data** category and click on this row.
 - Click on the row {% include icon.html name="label" %} **Tags filter**.
 
-{% include img.html name="settings_tags_filtering_1.png" %}
+{% include img_tablet.html name="settings_tags_filtering_1.png" %}
 
-{% include img.html name="settings_tags_filtering_2.png" %}
+{% include img_tablet.html name="settings_tags_filtering_2.png" %}
 
-{% include img.html name="settings_tags_filtering_3.png" %}
+{% include img_tablet.html name="settings_tags_filtering_3.png" %}
 
-{% include img.html name="settings_tags_filtering_4.png" %}
+{% include img_tablet.html name="settings_tags_filtering_4.png" %}

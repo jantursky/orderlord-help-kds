@@ -22,6 +22,6 @@ The list of drivers with their estimated arrival times is displayed on the left 
 ## Where to find the option
 {% include locate_option.html category_icon="directions_car" category_name="Drivers' statuses" option_icon="directions_car" option_name="Driver status" %}
 
-{% include img.html name="settings_drivers_statuses_section_how_to_use_1.png" %}
+{% include img_tablet.html name="settings_drivers_statuses_section_how_to_use_1.png" %}
 
-{% include img.html name="settings_drivers_statuses_section_how_to_use_2.png" %}
+{% include img_tablet.html name="settings_drivers_statuses_section_how_to_use_2.png" %}

@@ -26,12 +26,12 @@ Set the number of labels to print depending on the amount of food
 1. **Single label for every item**
 1. **Labels per quantity of an item**
 
-{% include img.html name="settings_label_printer_label_quantity_1.png" %}
+{% include img_tablet.html name="settings_label_printer_label_quantity_1.png" %}
 
-{% include img.html name="settings_label_printer_label_quantity_2.png" %}
+{% include img_tablet.html name="settings_label_printer_label_quantity_2.png" %}
 
-{% include img.html name="settings_label_printer_label_quantity_3.png" %}
+{% include img_tablet.html name="settings_label_printer_label_quantity_3.png" %}
 
-{% include img.html name="settings_label_printer_label_quantity_4.jpg" %}
+{% include img_tablet.html name="settings_label_printer_label_quantity_4.jpg" %}
 
-{% include img.html name="settings_label_printer_label_quantity_5.jpg" %}
+{% include img_tablet.html name="settings_label_printer_label_quantity_5.jpg" %}

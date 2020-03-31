@@ -36,7 +36,7 @@ Increase the text size in the [label customization]({{site.baseurl}}{% link docs
 ## Factory reset the printer
 Turn the printer off. Use a paper clip or tip of a pen to press and hold the reset on the back of the printer for a 5 seconds. While holding the reset button, turn the printer on. Continue to hold the reset button. After 5 seconds, a warning will print out or the printer will reset with a sound. Release the reset button.
 
-{% include img.html name="troubleshooting_printer_issues_factory_reset_1.jpg" %}
+{% include img_tablet.html name="troubleshooting_printer_issues_factory_reset_1.jpg" %}
 
 ## Tickets are very lightly
 <span class="text-red-200">If tickets suddenly begin printing lighter than usual, it means the printer is running low on ink.</span> Load a new ink ribbon into the printer.

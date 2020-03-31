@@ -221,3 +221,13 @@ body {
     padding-right: 250px;
   }
 }
+
+.custom_tablet {
+  padding-left: 0px;
+  padding-right: 0px;
+
+  @include mq(lg) {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+}

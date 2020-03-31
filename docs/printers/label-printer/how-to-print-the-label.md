@@ -23,7 +23,7 @@ permalink: /printers/label-printer/how-to-print-the-label
 - Search in the list of categories {% include icon.html name="label" %} **Label printer** category and click on this row.
 - Then search the option {% include icon.html name="access_time" %} **Time of printing label** and click on this row.
 
-{% include img.html name="label_printer_print_label_1.png" %}
+{% include img_tablet.html name="label_printer_print_label_1.png" %}
 
 ## Description
 The cook can setup 3 ways, how the label will be printed:
@@ -31,8 +31,8 @@ The cook can setup 3 ways, how the label will be printed:
 1. Once the specific food s **prepared**- same as above condition, but for the prepared state 
 1. Only by manually printing - this selected option will not trigger the automatic printing of the labels. But this option will add an additional option in the **List of options** for the row called {% include icon.html name="label" %} **Print label**. Once the cook will click on this row, the label printer will print the label for that food.
 
-{% include img.html name="label_printer_print_label_2.png" %}
+{% include img_tablet.html name="label_printer_print_label_2.png" %}
 
-{% include img.html name="label_printer_print_label_4.png" %}
+{% include img_tablet.html name="label_printer_print_label_4.png" %}
 
-{% include img.html name="label_printer_print_label_3.png" %}
+{% include img_tablet.html name="label_printer_print_label_3.png" %}

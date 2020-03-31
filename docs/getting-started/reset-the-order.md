@@ -31,6 +31,6 @@ If you want to reset status for all meals for the specific order, you could do t
 ## Warning
 This row is displaying only if this action is enabled for the account in the account settings (handled by the administrator of the account).
 
-{% include img.html name="reset_the_order_1.png" %}
+{% include img_tablet.html name="reset_the_order_1.png" %}
 
-{% include img.html name="reset_the_order_2.png" %}
+{% include img_tablet.html name="reset_the_order_2.png" %}

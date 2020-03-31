@@ -22,6 +22,6 @@ The delivery ID will be displayed at the top of each order (e.g. #012_3w45c4sf1)
 ## Where to find the option
 {% include locate_option.html category_icon="label" category_name="Data" option_icon="visibility" option_name="Display delivery ID" %}
 
-{% include img.html name="settings_display_delivery_id_1.png" %}
+{% include img_tablet.html name="settings_display_delivery_id_1.png" %}
 
-{% include img.html name="settings_display_delivery_id_2.png" %}
+{% include img_tablet.html name="settings_display_delivery_id_2.png" %}

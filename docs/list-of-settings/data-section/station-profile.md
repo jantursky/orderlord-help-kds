@@ -28,10 +28,10 @@ How to change the state of a meal by clicking on a row
 - **Without change -> Prepared** - when you click on the row with the food, the food status changes from <span class="text-grey-dk-100">**Without change status**</span> to <span class="text-green-200">**Prepared status**</span> (the number of clicks depends on the amount of food).
 - **Cooked -> Prepared** - when you click on the row with the food, the food status changes from <span class="text-orange-200">**Cooked status**</span> to <span class="text-green-200">**Prepared status**</span> (the number of clicks depends on the amount of food).
 
-{% include img.html name="settings_station_profile_1.png" %}
+{% include img_tablet.html name="settings_station_profile_1.png" %}
 
-{% include img.html name="settings_station_profile_2.png" %}
+{% include img_tablet.html name="settings_station_profile_2.png" %}
 
-{% include img.html name="settings_station_profile_3.png" %}
+{% include img_tablet.html name="settings_station_profile_3.png" %}
 
-{% include img.html name="settings_station_profile_4.png" %}
+{% include img_tablet.html name="settings_station_profile_4.png" %}

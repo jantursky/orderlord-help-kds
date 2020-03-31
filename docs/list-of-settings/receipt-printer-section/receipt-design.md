@@ -22,12 +22,12 @@ The user could customize design and the information on the receipt, which will b
 ## Where to find the option
 {% include locate_option.html category_icon="receipt" category_name="Receipt printer" option_icon="format_list_numbered" option_name="Receipt design" %}
 
-{% include img.html name="settings_receipt_printer_receipt_design_1.png" %}
+{% include img_tablet.html name="settings_receipt_printer_receipt_design_1.png" %}
 
-{% include img.html name="settings_receipt_printer_receipt_design_2.png" %}
+{% include img_tablet.html name="settings_receipt_printer_receipt_design_2.png" %}
 
-{% include img.html name="settings_receipt_printer_receipt_design_3.png" %}
+{% include img_tablet.html name="settings_receipt_printer_receipt_design_3.png" %}
 
-{% include img.html name="settings_receipt_printer_receipt_design_4.png" %}
+{% include img_tablet.html name="settings_receipt_printer_receipt_design_4.png" %}
 
-{% include img.html name="settings_receipt_printer_receipt_design_5.jpg" %}
+{% include img_tablet.html name="settings_receipt_printer_receipt_design_5.jpg" %}

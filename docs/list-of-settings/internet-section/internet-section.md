@@ -26,8 +26,8 @@ permalink: /list-of-settings/internet-section
 - The list of the settings under this category will be displayed, and you could see, what is the current path, where are you at the moment ({% include icon.html name="home" %} **HOME** {% include icon.html name="chevron_right" %} {% include icon.html name="settings" %} **CUSTOMIZATION**)
 - Search in the list of categories {% include icon.html name="open_in_browser" %} **Internet** category and click on this row.
 
-{% include img.html name="menu_settings_customization.png" %}
+{% include img_tablet.html name="menu_settings_customization.png" %}
 
-{% include img.html name="settings_section_internet.png" %}
+{% include img_tablet.html name="settings_section_internet.png" %}
 
-{% include img.html name="settings_section_internet_detail.png" %}
+{% include img_tablet.html name="settings_section_internet_detail.png" %}

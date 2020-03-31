@@ -26,8 +26,8 @@ permalink: /list-of-settings/orders-history-section
 - The list of the settings under this category will be displayed, and you could see, what is the current path, where are you at the moment ({% include icon.html name="home" %} **HOME** {% include icon.html name="chevron_right" %} {% include icon.html name="settings" %} **CUSTOMIZATION**)
 - Search in the list of categories {% include icon.html name="history" %} **Orders history section** category and click on this row.
 
-{% include img.html name="menu_settings_customization.png" %}
+{% include img_tablet.html name="menu_settings_customization.png" %}
 
-{% include img.html name="settings_section_orders_history_section.png" %}
+{% include img_tablet.html name="settings_section_orders_history_section.png" %}
 
-{% include img.html name="settings_section_orders_history_section_detail.png" %}
+{% include img_tablet.html name="settings_section_orders_history_section_detail.png" %}

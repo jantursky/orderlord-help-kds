@@ -26,8 +26,8 @@ Additional data that will appear in the order information line
 - **Customer name**
 - **Customer address**
 
-{% include img.html name="settings_additional_data_in_note_1.png" %}
+{% include img_tablet.html name="settings_additional_data_in_note_1.png" %}
 
-{% include img.html name="settings_additional_data_in_note_2.png" %}
+{% include img_tablet.html name="settings_additional_data_in_note_2.png" %}
 
-{% include img.html name="settings_additional_data_in_note_3.png" %}
+{% include img_tablet.html name="settings_additional_data_in_note_3.png" %}

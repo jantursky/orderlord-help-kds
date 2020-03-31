@@ -22,6 +22,6 @@ How often the data about drivers will be updated
 ## Where to find the option
 {% include locate_option.html category_icon="directions_car" category_name="Drivers' statuses" option_icon="access_time" option_name="Update interval" %}
 
-{% include img.html name="settings_drivers_statuses_section_update_interval_1.png" %}
+{% include img_tablet.html name="settings_drivers_statuses_section_update_interval_1.png" %}
 
-{% include img.html name="settings_drivers_statuses_section_update_interval_2.png" %}
+{% include img_tablet.html name="settings_drivers_statuses_section_update_interval_2.png" %}

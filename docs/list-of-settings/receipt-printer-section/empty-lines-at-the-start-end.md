@@ -22,4 +22,4 @@ Determine, how many empty lines should be printed before the first text line and
 ## Where to find the option
 {% include locate_option.html category_icon="receipt" category_name="Receipt printer" option_icon="format_list_numbered" option_name="Empty lines at the start/end" %}
 
-{% include img.html name="settings_receipt_printer_empty_lines_at_the_start_end_1.png" %}
+{% include img_tablet.html name="settings_receipt_printer_empty_lines_at_the_start_end_1.png" %}

@@ -31,8 +31,8 @@ The icon describes the current status of the courier for easier understanding
 - {% include icon.html name="help_outline" %} - the rest states
 
 
-{% include img.html name="settings_drivers_statuses_section_display_icon_1.png" %}
+{% include img_tablet.html name="settings_drivers_statuses_section_display_icon_1.png" %}
 
-{% include img.html name="settings_drivers_statuses_section_display_icon_2.png" %}
+{% include img_tablet.html name="settings_drivers_statuses_section_display_icon_2.png" %}
 
-{% include img.html name="settings_drivers_statuses_section_display_icon_3.png" %}
+{% include img_tablet.html name="settings_drivers_statuses_section_display_icon_3.png" %}

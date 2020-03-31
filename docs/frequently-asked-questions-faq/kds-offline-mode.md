@@ -50,4 +50,4 @@ When the internet is turned off, the device is not able to connect to the networ
 - print labels connected through Wi-Fi
 - print receipts connected through Wi-Fi -->
 
-{% include img.html name="faq_kds_offline_mode.png" %}
+{% include img_tablet.html name="faq_kds_offline_mode.png" %}

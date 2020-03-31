@@ -22,4 +22,4 @@ Depending on the vendor and model of the printer, you need to set up a number of
 ## Where to find the option
 {% include locate_option.html category_icon="receipt" category_name="Receipt printer" option_icon="format_list_numbered" option_name="Characters per line" %}
 
-{% include img.html name="settings_receipt_printer_characters_per_line_1.png" %}
+{% include img_tablet.html name="settings_receipt_printer_characters_per_line_1.png" %}

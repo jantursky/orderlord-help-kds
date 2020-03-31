@@ -25,8 +25,8 @@ Once you click on this row, the order will be set as finished and will dismiss f
 ## Warning
 If you aren't able to find this setting in the settings section, it's because this setting is disabled by the administrator of the account (_you need to ask for the access_).
 
-{% include img.html name="finish_the_order_1.png" %}
+{% include img_tablet.html name="finish_the_order_1.png" %}
 
-{% include img.html name="finish_the_order_2.png" %}
+{% include img_tablet.html name="finish_the_order_2.png" %}
 
-{% include img.html name="finish_the_order_3.png" %}
+{% include img_tablet.html name="finish_the_order_3.png" %}

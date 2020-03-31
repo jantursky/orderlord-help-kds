@@ -34,9 +34,9 @@ Once the user is logged into the application, the **Kitchen section** is display
 1. **Device time** - current time of the device (clock time)
 1. **Last update** - information about last updated time of deliveries and orders from the server
 
-{% include img.html name="view_list_4.png" %}
+{% include img_tablet.html name="view_list_4.png" %}
 
-{% include img.html name="how_to_use_kitchen_screen_1.png" %}
+{% include img_tablet.html name="how_to_use_kitchen_screen_1.png" %}
 
 ## Description of the information in the list
 {% include data_info/data_info_new_orders_table_number_specific_delivery.html %}
@@ -54,11 +54,11 @@ Once the user is logged into the application, the **Kitchen section** is display
 {% include data_info/data_info_cooked_label.html %}
 {% include data_info/data_info_prepared_label.html %}
 
-{% include img.html name="how_to_use_kitchen_screen_1_v2.png" %}
+{% include img_tablet.html name="how_to_use_kitchen_screen_1_v2.png" %}
 
-{% include img.html name="how_to_use_kitchen_screen_2.png" %}
+{% include img_tablet.html name="how_to_use_kitchen_screen_2.png" %}
 
-{% include img.html name="how_to_use_kitchen_screen_3.png" %}
+{% include img_tablet.html name="how_to_use_kitchen_screen_3.png" %}
 
 ## How to use the Kitchen screen
 1. Once the orders with food, which need to be cooked/prepared, is displayed in the list, the user could start to cook/prepare the food. At this moment, you don't need to click on anything. At the moment when you, as the user in charge of cooking food (in this case **"Chicken"**), have the food <span class="text-orange-200">**cooked**</span>, you can click on the row with that food. If you have <span class="text-orange-200">**cooked**</span> all the quantity of this food (in this case **"Chicken"**, for instance, if there is **0/3**), then you could click as many times on the row, as you have <span class="text-orange-200">**cooked**</span> this specific food (let's say **3x**). The status of this item will be set as it is <span class="text-orange-200">**cooked**</span> and the orange label will display on the right side.
@@ -82,16 +82,16 @@ Once the user is logged into the application, the **Kitchen section** is display
 		- {% include icon.html name="visibility" %} **Preview receipt** - a new screen will be displayed with the preview of the receipt, which should be printed. The look of the resulting receipt is only approximate, depending on the specific vendor and model of the receipt.
 		- {% include icon.html name="visibility" %} **Preview kitchen receipt** - same as the **Preview receipt**, but will display kitchen receipt.
 
-{% include img.html name="how_to_use_kitchen_screen_1_v3.png" %}
+{% include img_tablet.html name="how_to_use_kitchen_screen_1_v3.png" %}
 
-{% include img.html name="how_to_use_kitchen_screen_2_v3.png" %}
+{% include img_tablet.html name="how_to_use_kitchen_screen_2_v3.png" %}
 
-{% include img.html name="how_to_use_kitchen_screen_3_v3.png" %}
+{% include img_tablet.html name="how_to_use_kitchen_screen_3_v3.png" %}
 
-{% include img.html name="view_list_9.png" %}
+{% include img_tablet.html name="view_list_9.png" %}
 
-{% include img.html name="view_list_10.png" %}
+{% include img_tablet.html name="view_list_10.png" %}
 
-{% include img.html name="view_list_11.png" %}
+{% include img_tablet.html name="view_list_11.png" %}
 
-{% include img.html name="view_list_5.png" %}
+{% include img_tablet.html name="view_list_5.png" %}

@@ -30,10 +30,10 @@ After click on the option, the dialog with the options will be displayed:
 - **Text alert** - text message on the bottom will be displayed for a few seconds with the information about a number of newly came orders
 - **Notification in the notification bar** - once the application will get a new order/orders, the notification with the number of this orders will be displayed
 
-{% include img.html name="settings_sound_info_notiifications_1.png" %}
+{% include img_tablet.html name="settings_sound_info_notiifications_1.png" %}
 
-{% include img.html name="settings_sound_info_notiifications_2.png" %}
+{% include img_tablet.html name="settings_sound_info_notiifications_2.png" %}
 
-{% include img.html name="settings_sound_info_notiifications_3.png" %}
+{% include img_tablet.html name="settings_sound_info_notiifications_3.png" %}
 
-{% include img.html name="settings_sound_info_notiifications_4.png" %}
+{% include img_tablet.html name="settings_sound_info_notiifications_4.png" %}

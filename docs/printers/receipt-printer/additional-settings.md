@@ -21,6 +21,6 @@ permalink: /printers/receipt-printer/additional-settings
 1. [**Empty lines at the end**]({{site.baseurl}}{% link docs/list-of-settings/receipt-printer-section/empty-lines-at-the-start-end.md %}) - how many empty lines should be printed after the last printed line on the end
 1. [**Autoprint functionality**]({{site.baseurl}}{% link docs/list-of-settings/receipt-printer-section/autoprint.md %}) - after enabling this functionality, when a new order will come to the application (even if it’s a future order), the application will try to create a connection with a setup printer and print receipts and kitchen receipts depending on the count set up in the configuration
 
-{% include img.html name="receipt_printer_additional_settings_1.png" %}
+{% include img_tablet.html name="receipt_printer_additional_settings_1.png" %}
 
-{% include img.html name="receipt_printer_additional_settings_2.png" %}
+{% include img_tablet.html name="receipt_printer_additional_settings_2.png" %}

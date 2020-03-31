@@ -36,20 +36,20 @@ The application will restart automatically when you change the language. If the 
 ## Where to find the option
 {% include locate_option.html category_icon="settings" category_name="General" option_icon="translate" option_name="Application language" %}
 
-{% include img.html name="settings_application_language_1.png" %}
+{% include img_tablet.html name="settings_application_language_1.png" %}
 
 ## How to change the language
 Once the user click on the option, the new dialog will be displayed. The list of available translations will be displayed. Select one of them, the application will be restarted and the language will be changed.
 
 <span class="text-red-200">It could occur, that even if you change the language in the list of options, the texts in the application will be default one (mostly _English language_). In this case, you **need to change device language also**. This is specific only for some vendors, and only one-time action.</span>
 
-{% include img.html name="settings_application_language_2.png" %}
+{% include img_tablet.html name="settings_application_language_2.png" %}
 
-{% include img.html name="settings_application_language_3.png" %}
+{% include img_tablet.html name="settings_application_language_3.png" %}
 
-{% include img.html name="settings_application_language_4.png" %}
+{% include img_tablet.html name="settings_application_language_4.png" %}
 
-{% include img.html name="settings_application_language_5.png" %}
+{% include img_tablet.html name="settings_application_language_5.png" %}
 
 ## Support your language
 To add another text translation, [visit this section.]({{site.baseurl}}{% link docs/frequently-asked-questions-faq/how-to-support-your-language.md %})

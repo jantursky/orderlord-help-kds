@@ -35,26 +35,26 @@ The user can filter orders 2 ways:
 1. **PAYMENT TYPES** - list of the payment types will be listed, where you could select one of them
 1. **CHANGES** - you could select one of the changes: delivery fee changed, discount changed, items changed, no selected, order type changed, payment type changed, the price changed
 
-{% include img.html name="section_orders_history_4.png" %}
+{% include img_tablet.html name="section_orders_history_4.png" %}
 
-{% include img.html name="section_orders_history_5.png" %}
+{% include img_tablet.html name="section_orders_history_5.png" %}
 
-{% include img.html name="section_orders_history_6.png" %}
+{% include img_tablet.html name="section_orders_history_6.png" %}
 
-{% include img.html name="section_orders_history_7.png" %}
+{% include img_tablet.html name="section_orders_history_7.png" %}
 
-{% include img.html name="section_orders_history_8.png" %}
+{% include img_tablet.html name="section_orders_history_8.png" %}
 
-{% include img.html name="section_orders_history_9.png" %}
+{% include img_tablet.html name="section_orders_history_9.png" %}
 
-{% include img.html name="section_orders_history_10.png" %}
+{% include img_tablet.html name="section_orders_history_10.png" %}
 
-{% include img.html name="section_orders_history_11.png" %}
+{% include img_tablet.html name="section_orders_history_11.png" %}
 
-{% include img.html name="section_orders_history_12.png" %}
+{% include img_tablet.html name="section_orders_history_12.png" %}
 
-{% include img.html name="section_orders_history_13.png" %}
+{% include img_tablet.html name="section_orders_history_13.png" %}
 
-{% include img.html name="section_orders_history_14.png" %}
+{% include img_tablet.html name="section_orders_history_14.png" %}
 
-{% include img.html name="section_orders_history_15.png" %}
+{% include img_tablet.html name="section_orders_history_15.png" %}

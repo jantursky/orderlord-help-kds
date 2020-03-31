@@ -21,12 +21,12 @@ permalink: /printers/label-printer/additional-settings
 1. [**Offset on the Y-axis**]({{site.baseurl}}{% link docs/list-of-settings/label-printer-section/offset-and-width-setup.md %}) - set the number of pixels to indent the text on the label on the Y-axis from top. Default value is 40px.
 1. [**Maximum label width in pixels**]({{site.baseurl}}{% link docs/list-of-settings/label-printer-section/offset-and-width-setup.md %}) - specify the maximum text length on the X-axis in pixels. Default value is 728px.
 
-{% include img.html name="label_printer_additional_settings_1.png" %}
+{% include img_tablet.html name="label_printer_additional_settings_1.png" %}
 
-{% include img.html name="label_printer_additional_settings_2.png" %}
+{% include img_tablet.html name="label_printer_additional_settings_2.png" %}
 
-{% include img.html name="label_printer_additional_settings_3.png" %}
+{% include img_tablet.html name="label_printer_additional_settings_3.png" %}
 
-{% include img.html name="label_printer_additional_settings_4.png" %}
+{% include img_tablet.html name="label_printer_additional_settings_4.png" %}
 
-{% include img.html name="label_printer_additional_settings_5.png" %}
+{% include img_tablet.html name="label_printer_additional_settings_5.png" %}

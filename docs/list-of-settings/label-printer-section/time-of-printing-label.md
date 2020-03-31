@@ -28,10 +28,10 @@ The label will start printing in a specific moment
 1. **Only manually printing** - labels will be printed only manually, once the user will select this option from the list of options for the meal. [Follow this guide]({{site.baseurl}}{% link docs/printers/receipt-printer/how-to-print-the-receipt.md %}#manual-printing)
 
 
-{% include img.html name="settings_label_printer_time_of_printing_label_1.png" %}
+{% include img_tablet.html name="settings_label_printer_time_of_printing_label_1.png" %}
 
-{% include img.html name="settings_label_printer_time_of_printing_label_2.png" %}
+{% include img_tablet.html name="settings_label_printer_time_of_printing_label_2.png" %}
 
-{% include img.html name="settings_label_printer_time_of_printing_label_3.png" %}
+{% include img_tablet.html name="settings_label_printer_time_of_printing_label_3.png" %}
 
-{% include img.html name="settings_label_printer_time_of_printing_label_4.png" %}
+{% include img_tablet.html name="settings_label_printer_time_of_printing_label_4.png" %}

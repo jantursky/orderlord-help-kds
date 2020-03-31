@@ -27,10 +27,10 @@ For faster finding a specific item, the user can filter the data in multiple way
 1. **SELECTED STORE** - select one of the stores for what the items will be filtered or for every store
 1. **SELECTED BRAND** - select one of the brands for what the items will be filtered or for every brand
 
-{% include img.html name="section_stock_management_3.png" %}
+{% include img_tablet.html name="section_stock_management_3.png" %}
 
-{% include img.html name="section_stock_management_4.png" %}
+{% include img_tablet.html name="section_stock_management_4.png" %}
 
-{% include img.html name="section_stock_management_5.png" %}
+{% include img_tablet.html name="section_stock_management_5.png" %}
 
-{% include img.html name="section_stock_management_6.png" %}
+{% include img_tablet.html name="section_stock_management_6.png" %}

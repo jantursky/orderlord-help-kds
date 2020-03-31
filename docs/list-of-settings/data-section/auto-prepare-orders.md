@@ -22,8 +22,8 @@ When food preparation starts, the countdown starts depending on the set cooked t
 ## Where to find the option
 {% include locate_option.html category_icon="label" category_name="Data" option_icon="fast_forward" option_name="Auto-prepare orders" %}
 
-{% include img.html name="settings_auto_prepare_orders_1.png" %}
+{% include img_tablet.html name="settings_auto_prepare_orders_1.png" %}
 
-{% include img.html name="settings_auto_prepare_orders_2.png" %}
+{% include img_tablet.html name="settings_auto_prepare_orders_2.png" %}
 
-{% include img.html name="settings_auto_prepare_orders_3.png" %}
+{% include img_tablet.html name="settings_auto_prepare_orders_3.png" %}

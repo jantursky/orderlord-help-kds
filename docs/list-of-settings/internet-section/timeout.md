@@ -22,6 +22,6 @@ If it takes longer to connect to the server, after what time the unsuccessful at
 ## Where to find the option
 {% include locate_option.html category_icon="open_in_browser" category_name="Internet" option_icon="timer" option_name="Timeout" %}
 
-{% include img.html name="settings_timeout_1.png" %}
+{% include img_tablet.html name="settings_timeout_1.png" %}
 
-{% include img.html name="settings_timeout_2.png" %}
+{% include img_tablet.html name="settings_timeout_2.png" %}

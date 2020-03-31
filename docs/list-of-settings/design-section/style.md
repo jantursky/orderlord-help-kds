@@ -28,10 +28,10 @@ Customize the style for the texts in the list
 - Search in the list of categories {% include icon.html name="palette" %} **Design** category and click on this row.
 - Click on the row {% include icon.html name="format_bold" %} **Style**.
 
-{% include img.html name="settings_style_1.png" %}
+{% include img_tablet.html name="settings_style_1.png" %}
 
-{% include img.html name="settings_style_2.png" %}
+{% include img_tablet.html name="settings_style_2.png" %}
 
-{% include img.html name="settings_style_3.png" %}
+{% include img_tablet.html name="settings_style_3.png" %}
 
-{% include img.html name="settings_style_4.png" %}
+{% include img_tablet.html name="settings_style_4.png" %}
