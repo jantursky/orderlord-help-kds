@@ -13,6 +13,11 @@
     text-overflow: ellipsis;
     white-space: nowrap;
     text-decoration: underline;
+    text-decoration-color: $red-200-semi;
+  }
+
+  a:hover {
+    text-decoration-color: $link-color;
   }
 
   ul,
