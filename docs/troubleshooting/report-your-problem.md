@@ -20,7 +20,7 @@ permalink: /troubleshooting/report-your-problem
 Once the problem of any type will occur, and the user isn't able to solve the problem by himself not even by the [troubleshooting section]({{site.baseurl}}{% link docs/troubleshooting/troubleshooting.md %}), the last option is to contact [the support team](mailto:support@orderlord.com), which will try to help. But even the support team needs sometimes a bit more information about the problem, like _identifier of the order, delivery, user, account or the problem_. Thanks to this specific info, we are able to solve the issue faster.
 
 ## How to report the problem
-- Open the menu from the left side
+- Open the menu from the left side and find {% include icon.html name="settings" %} [**SETTINGS**]({{site.baseurl}}{% link docs/list-of-settings/list-of-settings.md %}) section
 
 {% include img_tablet.html name="section_report_problem_1.png" %}
 
